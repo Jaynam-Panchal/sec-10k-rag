@@ -1,0 +1,2532 @@
+0001141391
+2023
+FY
+false
+P1Y
+http://fasb.org/us-gaap/2023#PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAfterAccumulatedDepreciationAndAmortization
+http://fasb.org/us-gaap/2023#PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAfterAccumulatedDepreciationAndAmortization
+http://fasb.org/us-gaap/2023#OtherLiabilitiesCurrent
+http://fasb.org/us-gaap/2023#OtherLiabilitiesCurrent
+http://fasb.org/us-gaap/2023#OtherLiabilitiesNoncurrent
+http://fasb.org/us-gaap/2023#OtherLiabilitiesNoncurrent
+http://fasb.org/us-gaap/2023#GeneralAndAdministrativeExpense
+http://fasb.org/us-gaap/2023#GeneralAndAdministrativeExpense
+http://fasb.org/us-gaap/2023#GeneralAndAdministrativeExpense
+23,552
+379
+48,112
+12,000
+366
+0001141391
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:CommonClassAMember
+2023-01-01
+2023-12-31
+0001141391
+ma:TwoPointOnePercentNotesDue2027Member
+2023-01-01
+2023-12-31
+0001141391
+ma:OnePointZeroPercentNotesDue2029Member
+2023-01-01
+2023-12-31
+0001141391
+ma:TwoPointFivePercentNotesDue2030Member
+2023-01-01
+2023-12-31
+0001141391
+2023-06-30
+iso4217:USD
+0001141391
+us-gaap:CommonClassAMember
+2024-02-08
+xbrli:shares
+0001141391
+us-gaap:CommonClassBMember
+2024-02-08
+0001141391
+2022-01-01
+2022-12-31
+0001141391
+2021-01-01
+2021-12-31
+iso4217:USD
+xbrli:shares
+0001141391
+2023-12-31
+0001141391
+2022-12-31
+0001141391
+us-gaap:CommonClassAMember
+2022-12-31
+0001141391
+us-gaap:CommonClassAMember
+2023-12-31
+0001141391
+us-gaap:CommonClassBMember
+2022-12-31
+0001141391
+us-gaap:CommonClassBMember
+2023-12-31
+0001141391
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2020-12-31
+0001141391
+us-gaap:CommonClassBMember
+us-gaap:CommonStockMember
+2020-12-31
+0001141391
+us-gaap:AdditionalPaidInCapitalMember
+2020-12-31
+0001141391
+us-gaap:TreasuryStockCommonMember
+2020-12-31
+0001141391
+us-gaap:RetainedEarningsMember
+2020-12-31
+0001141391
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2020-12-31
+0001141391
+us-gaap:ParentMember
+2020-12-31
+0001141391
+us-gaap:NoncontrollingInterestMember
+2020-12-31
+0001141391
+2020-12-31
+0001141391
+us-gaap:RetainedEarningsMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:ParentMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:NoncontrollingInterestMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:AdditionalPaidInCapitalMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:TreasuryStockCommonMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2021-12-31
+0001141391
+us-gaap:CommonClassBMember
+us-gaap:CommonStockMember
+2021-12-31
+0001141391
+us-gaap:AdditionalPaidInCapitalMember
+2021-12-31
+0001141391
+us-gaap:TreasuryStockCommonMember
+2021-12-31
+0001141391
+us-gaap:RetainedEarningsMember
+2021-12-31
+0001141391
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2021-12-31
+0001141391
+us-gaap:ParentMember
+2021-12-31
+0001141391
+us-gaap:NoncontrollingInterestMember
+2021-12-31
+0001141391
+2021-12-31
+0001141391
+us-gaap:RetainedEarningsMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:ParentMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:AdditionalPaidInCapitalMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:NoncontrollingInterestMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:TreasuryStockCommonMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2022-12-31
+0001141391
+us-gaap:CommonClassBMember
+us-gaap:CommonStockMember
+2022-12-31
+0001141391
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0001141391
+us-gaap:TreasuryStockCommonMember
+2022-12-31
+0001141391
+us-gaap:RetainedEarningsMember
+2022-12-31
+0001141391
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-12-31
+0001141391
+us-gaap:ParentMember
+2022-12-31
+0001141391
+us-gaap:NoncontrollingInterestMember
+2022-12-31
+0001141391
+us-gaap:RetainedEarningsMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:ParentMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:NoncontrollingInterestMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:TreasuryStockCommonMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:AdditionalPaidInCapitalMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2023-12-31
+0001141391
+us-gaap:CommonClassBMember
+us-gaap:CommonStockMember
+2023-12-31
+0001141391
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001141391
+us-gaap:TreasuryStockCommonMember
+2023-12-31
+0001141391
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001141391
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0001141391
+us-gaap:ParentMember
+2023-12-31
+0001141391
+us-gaap:NoncontrollingInterestMember
+2023-12-31
+0001141391
+ma:ConsolidatedEntitiesWithLessThan100OwnershipInterestMember
+srt:MaximumMember
+2023-12-31
+xbrli:pure
+0001141391
+srt:MinimumMember
+us-gaap:OtherIntangibleAssetsMember
+2023-12-31
+0001141391
+srt:MaximumMember
+us-gaap:OtherIntangibleAssetsMember
+2023-12-31
+0001141391
+srt:MaximumMember
+2023-12-31
+0001141391
+us-gaap:PartnershipMember
+srt:MaximumMember
+2023-12-31
+0001141391
+ma:DynamicYieldLTDMember
+2022-04-01
+0001141391
+ma:DynamicYieldLTDMember
+2022-04-01
+2022-04-01
+0001141391
+ma:NetsDenmarkASCorporateServicesMember
+2021-03-01
+2021-03-01
+iso4217:EUR
+0001141391
+ma:NetsDenmarkASCorporateServicesMember
+2021-03-01
+0001141391
+ma:EkataIncMember
+2021-06-01
+0001141391
+ma:EkataIncMember
+2021-06-01
+2021-06-01
+0001141391
+ma:A2022AcquisitionsMember
+2022-12-31
+0001141391
+ma:A2021AcquisitionsMember
+2021-12-31
+0001141391
+us-gaap:DevelopedTechnologyRightsMember
+ma:A2022AcquisitionsMember
+2022-12-31
+0001141391
+ma:A2021AcquisitionsMember
+us-gaap:DevelopedTechnologyRightsMember
+2021-12-31
+0001141391
+us-gaap:DevelopedTechnologyRightsMember
+ma:A2022AcquisitionsMember
+2022-01-01
+2022-12-31
+0001141391
+ma:A2021AcquisitionsMember
+us-gaap:DevelopedTechnologyRightsMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:CustomerRelationshipsMember
+ma:A2022AcquisitionsMember
+2022-12-31
+0001141391
+us-gaap:CustomerRelationshipsMember
+ma:A2021AcquisitionsMember
+2021-12-31
+0001141391
+us-gaap:CustomerRelationshipsMember
+ma:A2022AcquisitionsMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:CustomerRelationshipsMember
+ma:A2021AcquisitionsMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:OtherIntangibleAssetsMember
+ma:A2022AcquisitionsMember
+2022-12-31
+0001141391
+us-gaap:OtherIntangibleAssetsMember
+ma:A2021AcquisitionsMember
+2021-12-31
+0001141391
+us-gaap:OtherIntangibleAssetsMember
+ma:A2021AcquisitionsMember
+2021-01-01
+2021-12-31
+0001141391
+ma:A2022AcquisitionsMember
+2022-01-01
+2022-12-31
+0001141391
+ma:A2021AcquisitionsMember
+2021-01-01
+2021-12-31
+0001141391
+ma:PaymentNetworkMember
+2023-01-01
+2023-12-31
+0001141391
+ma:PaymentNetworkMember
+2022-01-01
+2022-12-31
+0001141391
+ma:PaymentNetworkMember
+2021-01-01
+2021-12-31
+0001141391
+ma:ValueAddedServicesAndSolutionsMember
+2023-01-01
+2023-12-31
+0001141391
+ma:ValueAddedServicesAndSolutionsMember
+2022-01-01
+2022-12-31
+0001141391
+ma:ValueAddedServicesAndSolutionsMember
+2021-01-01
+2021-12-31
+0001141391
+srt:NorthAmericaMember
+2023-01-01
+2023-12-31
+0001141391
+srt:NorthAmericaMember
+2022-01-01
+2022-12-31
+0001141391
+srt:NorthAmericaMember
+2021-01-01
+2021-12-31
+0001141391
+ma:InternationalMarketsMember
+2023-01-01
+2023-12-31
+0001141391
+ma:InternationalMarketsMember
+2022-01-01
+2022-12-31
+0001141391
+ma:InternationalMarketsMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:AccountsReceivableMember
+2023-12-31
+0001141391
+us-gaap:AccountsReceivableMember
+2022-12-31
+0001141391
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+2023-12-31
+0001141391
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+2022-12-31
+0001141391
+us-gaap:OtherAssetsMember
+2023-12-31
+0001141391
+us-gaap:OtherAssetsMember
+2022-12-31
+0001141391
+us-gaap:OtherCurrentLiabilitiesMember
+2023-12-31
+0001141391
+us-gaap:OtherCurrentLiabilitiesMember
+2022-12-31
+0001141391
+us-gaap:OtherLiabilitiesMember
+2023-12-31
+0001141391
+us-gaap:OtherLiabilitiesMember
+2022-12-31
+0001141391
+ma:NetworkServicesMember
+2023-01-01
+2023-12-31
+0001141391
+2023-01-01
+2023-12-31
+0001141391
+ma:RestrictedCashLitigationSettlementMember
+2023-12-31
+0001141391
+ma:RestrictedCashLitigationSettlementMember
+2022-12-31
+0001141391
+ma:RestrictedCashSecurityDepositsMember
+2023-12-31
+0001141391
+ma:RestrictedCashSecurityDepositsMember
+2022-12-31
+0001141391
+ma:RestrictedCashPrepaidExpensesAndOtherCurrentAssetsMember
+2023-12-31
+0001141391
+ma:RestrictedCashPrepaidExpensesAndOtherCurrentAssetsMember
+2022-12-31
+0001141391
+ma:RestrictedCashFundMember
+2023-01-01
+2023-12-31
+0001141391
+ma:GovernmentsecuritiesMember
+2023-12-31
+0001141391
+ma:GovernmentsecuritiesMember
+2022-12-31
+0001141391
+us-gaap:FixedIncomeSecuritiesMember
+2023-12-31
+0001141391
+us-gaap:FixedIncomeSecuritiesMember
+2022-12-31
+0001141391
+ma:GovernmentsecuritiesMember
+us-gaap:FairValueInputsLevel1Member
+2023-12-31
+0001141391
+ma:GovernmentsecuritiesMember
+us-gaap:FairValueInputsLevel2Member
+2023-12-31
+0001141391
+ma:GovernmentsecuritiesMember
+us-gaap:FairValueInputsLevel3Member
+2023-12-31
+0001141391
+ma:GovernmentsecuritiesMember
+us-gaap:FairValueInputsLevel1Member
+2022-12-31
+0001141391
+ma:GovernmentsecuritiesMember
+us-gaap:FairValueInputsLevel2Member
+2022-12-31
+0001141391
+ma:GovernmentsecuritiesMember
+us-gaap:FairValueInputsLevel3Member
+2022-12-31
+0001141391
+us-gaap:FixedIncomeSecuritiesMember
+us-gaap:FairValueInputsLevel1Member
+2023-12-31
+0001141391
+us-gaap:FixedIncomeSecuritiesMember
+us-gaap:FairValueInputsLevel2Member
+2023-12-31
+0001141391
+us-gaap:FixedIncomeSecuritiesMember
+us-gaap:FairValueInputsLevel3Member
+2023-12-31
+0001141391
+us-gaap:FixedIncomeSecuritiesMember
+us-gaap:FairValueInputsLevel1Member
+2022-12-31
+0001141391
+us-gaap:FixedIncomeSecuritiesMember
+us-gaap:FairValueInputsLevel2Member
+2022-12-31
+0001141391
+us-gaap:FixedIncomeSecuritiesMember
+us-gaap:FairValueInputsLevel3Member
+2022-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueInputsLevel1Member
+2023-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueInputsLevel2Member
+2023-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueInputsLevel3Member
+2023-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+2023-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueInputsLevel1Member
+2022-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueInputsLevel2Member
+2022-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+us-gaap:FairValueInputsLevel3Member
+2022-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+2022-12-31
+0001141391
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EquitySecuritiesMember
+2023-12-31
+0001141391
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EquitySecuritiesMember
+2023-12-31
+0001141391
+us-gaap:FairValueInputsLevel3Member
+us-gaap:EquitySecuritiesMember
+2023-12-31
+0001141391
+us-gaap:EquitySecuritiesMember
+2023-12-31
+0001141391
+us-gaap:FairValueInputsLevel1Member
+us-gaap:EquitySecuritiesMember
+2022-12-31
+0001141391
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EquitySecuritiesMember
+2022-12-31
+0001141391
+us-gaap:FairValueInputsLevel3Member
+us-gaap:EquitySecuritiesMember
+2022-12-31
+0001141391
+us-gaap:EquitySecuritiesMember
+2022-12-31
+0001141391
+us-gaap:FairValueInputsLevel1Member
+2023-12-31
+0001141391
+us-gaap:FairValueInputsLevel2Member
+2023-12-31
+0001141391
+us-gaap:FairValueInputsLevel3Member
+2023-12-31
+0001141391
+us-gaap:FairValueInputsLevel1Member
+2022-12-31
+0001141391
+us-gaap:FairValueInputsLevel2Member
+2022-12-31
+0001141391
+us-gaap:FairValueInputsLevel3Member
+2022-12-31
+0001141391
+us-gaap:InterestRateContractMember
+us-gaap:FairValueInputsLevel1Member
+2023-12-31
+0001141391
+us-gaap:InterestRateContractMember
+us-gaap:FairValueInputsLevel2Member
+2023-12-31
+0001141391
+us-gaap:InterestRateContractMember
+us-gaap:FairValueInputsLevel3Member
+2023-12-31
+0001141391
+us-gaap:InterestRateContractMember
+2023-12-31
+0001141391
+us-gaap:InterestRateContractMember
+us-gaap:FairValueInputsLevel1Member
+2022-12-31
+0001141391
+us-gaap:InterestRateContractMember
+us-gaap:FairValueInputsLevel2Member
+2022-12-31
+0001141391
+us-gaap:InterestRateContractMember
+us-gaap:FairValueInputsLevel3Member
+2022-12-31
+0001141391
+us-gaap:InterestRateContractMember
+2022-12-31
+0001141391
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2023-12-31
+0001141391
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2022-12-31
+0001141391
+us-gaap:LandAndBuildingMember
+2023-12-31
+0001141391
+us-gaap:LandAndBuildingMember
+2022-12-31
+0001141391
+us-gaap:EquipmentMember
+2023-12-31
+0001141391
+us-gaap:EquipmentMember
+2022-12-31
+0001141391
+us-gaap:FurnitureAndFixturesMember
+2023-12-31
+0001141391
+us-gaap:FurnitureAndFixturesMember
+2022-12-31
+0001141391
+us-gaap:LeaseholdImprovementsMember
+2023-12-31
+0001141391
+us-gaap:LeaseholdImprovementsMember
+2022-12-31
+0001141391
+ma:OperatingLeaseRightofUseAssetsMember
+2023-12-31
+0001141391
+ma:OperatingLeaseRightofUseAssetsMember
+2022-12-31
+0001141391
+us-gaap:BuildingMember
+2023-12-31
+0001141391
+srt:MinimumMember
+ma:BuildingEquipmentMember
+2023-12-31
+0001141391
+srt:MaximumMember
+ma:BuildingEquipmentMember
+2023-12-31
+0001141391
+srt:MinimumMember
+us-gaap:FurnitureAndFixturesMember
+2023-12-31
+0001141391
+srt:MaximumMember
+us-gaap:FurnitureAndFixturesMember
+2023-12-31
+0001141391
+us-gaap:ComputerSoftwareIntangibleAssetMember
+2023-12-31
+0001141391
+us-gaap:ComputerSoftwareIntangibleAssetMember
+2022-12-31
+0001141391
+us-gaap:CustomerRelationshipsMember
+2023-12-31
+0001141391
+us-gaap:CustomerRelationshipsMember
+2022-12-31
+0001141391
+us-gaap:OtherIntangibleAssetsMember
+2023-12-31
+0001141391
+us-gaap:OtherIntangibleAssetsMember
+2022-12-31
+0001141391
+us-gaap:PensionPlansDefinedBenefitMember
+2022-12-31
+0001141391
+us-gaap:PensionPlansDefinedBenefitMember
+2021-12-31
+0001141391
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2022-12-31
+0001141391
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2021-12-31
+0001141391
+us-gaap:PensionPlansDefinedBenefitMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:PensionPlansDefinedBenefitMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:PensionPlansDefinedBenefitMember
+2023-12-31
+0001141391
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2023-12-31
+0001141391
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:ForeignPlanMember
+2023-12-31
+0001141391
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:ForeignPlanMember
+2022-12-31
+0001141391
+us-gaap:PensionPlansDefinedBenefitMember
+ma:VocalinkPlanMember
+2023-12-31
+0001141391
+us-gaap:PensionPlansDefinedBenefitMember
+ma:VocalinkPlanMember
+2022-12-31
+0001141391
+us-gaap:PensionPlansDefinedBenefitMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:ForeignPlanMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:ForeignPlanMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:ForeignPlanMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:PensionPlansDefinedBenefitMember
+ma:VocalinkPlanMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:PensionPlansDefinedBenefitMember
+ma:VocalinkPlanMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:PensionPlansDefinedBenefitMember
+ma:VocalinkPlanMember
+2021-01-01
+2021-12-31
+0001141391
+ma:VocalinkPlanMember
+us-gaap:CashAndCashEquivalentsMember
+2023-12-31
+0001141391
+ma:GovernmentsecuritiesMember
+ma:VocalinkPlanMember
+2023-12-31
+0001141391
+ma:NongovernmentfixedincomeMember
+ma:VocalinkPlanMember
+2023-12-31
+0001141391
+ma:VocalinkPlanMember
+us-gaap:EquitySecuritiesMember
+2023-12-31
+0001141391
+us-gaap:OtherInvestmentsMember
+ma:VocalinkPlanMember
+2023-12-31
+0001141391
+us-gaap:CashAndCashEquivalentsMember
+us-gaap:FairValueInputsLevel1Member
+2023-12-31
+0001141391
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CashAndCashEquivalentsMember
+2023-12-31
+0001141391
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CashAndCashEquivalentsMember
+2023-12-31
+0001141391
+us-gaap:CashAndCashEquivalentsMember
+2023-12-31
+0001141391
+us-gaap:CashAndCashEquivalentsMember
+us-gaap:FairValueInputsLevel1Member
+2022-12-31
+0001141391
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CashAndCashEquivalentsMember
+2022-12-31
+0001141391
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CashAndCashEquivalentsMember
+2022-12-31
+0001141391
+us-gaap:CashAndCashEquivalentsMember
+2022-12-31
+0001141391
+us-gaap:MutualFundMember
+us-gaap:FairValueInputsLevel1Member
+2023-12-31
+0001141391
+us-gaap:MutualFundMember
+us-gaap:FairValueInputsLevel2Member
+2023-12-31
+0001141391
+us-gaap:MutualFundMember
+us-gaap:FairValueInputsLevel3Member
+2023-12-31
+0001141391
+us-gaap:MutualFundMember
+2023-12-31
+0001141391
+us-gaap:MutualFundMember
+us-gaap:FairValueInputsLevel1Member
+2022-12-31
+0001141391
+us-gaap:MutualFundMember
+us-gaap:FairValueInputsLevel2Member
+2022-12-31
+0001141391
+us-gaap:MutualFundMember
+us-gaap:FairValueInputsLevel3Member
+2022-12-31
+0001141391
+us-gaap:MutualFundMember
+2022-12-31
+0001141391
+us-gaap:InvestmentContractsMember
+us-gaap:FairValueInputsLevel1Member
+2023-12-31
+0001141391
+us-gaap:FairValueInputsLevel2Member
+us-gaap:InvestmentContractsMember
+2023-12-31
+0001141391
+us-gaap:InvestmentContractsMember
+us-gaap:FairValueInputsLevel3Member
+2023-12-31
+0001141391
+us-gaap:InvestmentContractsMember
+2023-12-31
+0001141391
+us-gaap:InvestmentContractsMember
+us-gaap:FairValueInputsLevel1Member
+2022-12-31
+0001141391
+us-gaap:FairValueInputsLevel2Member
+us-gaap:InvestmentContractsMember
+2022-12-31
+0001141391
+us-gaap:InvestmentContractsMember
+us-gaap:FairValueInputsLevel3Member
+2022-12-31
+0001141391
+us-gaap:InvestmentContractsMember
+2022-12-31
+0001141391
+us-gaap:MutualFundMember
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+2023-12-31
+0001141391
+us-gaap:MutualFundMember
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+2022-12-31
+0001141391
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+2023-12-31
+0001141391
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+2022-12-31
+0001141391
+ma:March2028NotesMember
+us-gaap:SeniorNotesMember
+2023-12-31
+0001141391
+ma:March2028NotesMember
+us-gaap:SeniorNotesMember
+2022-12-31
+0001141391
+us-gaap:SeniorNotesMember
+ma:March2033NotesMember
+2023-12-31
+0001141391
+us-gaap:SeniorNotesMember
+ma:March2033NotesMember
+2022-12-31
+0001141391
+ma:February2029NotesMember
+us-gaap:SeniorNotesMember
+2023-12-31
+0001141391
+ma:February2029NotesMember
+us-gaap:SeniorNotesMember
+2022-12-31
+0001141391
+ma:November2031NotesMember
+us-gaap:SeniorNotesMember
+2023-12-31
+0001141391
+ma:November2031NotesMember
+us-gaap:SeniorNotesMember
+2022-12-31
+0001141391
+ma:March2031NotesMember
+us-gaap:SeniorNotesMember
+2023-12-31
+0001141391
+ma:March2031NotesMember
+us-gaap:SeniorNotesMember
+2022-12-31
+0001141391
+ma:March2051NotesMember
+us-gaap:SeniorNotesMember
+2023-12-31
+0001141391
+ma:March2051NotesMember
+us-gaap:SeniorNotesMember
+2022-12-31
+0001141391
+ma:A2027NotesMember
+us-gaap:SeniorNotesMember
+2023-12-31
+0001141391
+ma:A2027NotesMember
+us-gaap:SeniorNotesMember
+2022-12-31
+0001141391
+ma:A2030NotesMember
+us-gaap:SeniorNotesMember
+2023-12-31
+0001141391
+ma:A2030NotesMember
+us-gaap:SeniorNotesMember
+2022-12-31
+0001141391
+ma:SeniorNotesDueMarch2050Member
+us-gaap:SeniorNotesMember
+2023-12-31
+0001141391
+ma:SeniorNotesDueMarch2050Member
+us-gaap:SeniorNotesMember
+2022-12-31
+0001141391
+ma:A2029NotesMember
+us-gaap:SeniorNotesMember
+2023-12-31
+0001141391
+ma:A2029NotesMember
+us-gaap:SeniorNotesMember
+2022-12-31
+0001141391
+ma:A2049NotesMember
+us-gaap:SeniorNotesMember
+2023-12-31
+0001141391
+ma:A2049NotesMember
+us-gaap:SeniorNotesMember
+2022-12-31
+0001141391
+ma:A2025NotesMember
+us-gaap:SeniorNotesMember
+2023-12-31
+0001141391
+ma:A2025NotesMember
+us-gaap:SeniorNotesMember
+2022-12-31
+0001141391
+ma:A2028NotesMember
+us-gaap:SeniorNotesMember
+2023-12-31
+0001141391
+ma:A2028NotesMember
+us-gaap:SeniorNotesMember
+2022-12-31
+0001141391
+ma:A2048NotesMember
+us-gaap:SeniorNotesMember
+2023-12-31
+0001141391
+ma:A2048NotesMember
+us-gaap:SeniorNotesMember
+2022-12-31
+0001141391
+ma:A2026NotesMember
+us-gaap:SeniorNotesMember
+2023-12-31
+0001141391
+ma:A2026NotesMember
+us-gaap:SeniorNotesMember
+2022-12-31
+0001141391
+ma:A2046NotesMember
+us-gaap:SeniorNotesMember
+2023-12-31
+0001141391
+ma:A2046NotesMember
+us-gaap:SeniorNotesMember
+2022-12-31
+0001141391
+ma:TwoPointOnePercentNotesDue2027Member
+us-gaap:SeniorNotesMember
+2023-12-31
+0001141391
+ma:TwoPointOnePercentNotesDue2027Member
+us-gaap:SeniorNotesMember
+2022-12-31
+0001141391
+ma:TwoPointFivePercentNotesDue2030Member
+us-gaap:SeniorNotesMember
+2023-12-31
+0001141391
+ma:TwoPointFivePercentNotesDue2030Member
+us-gaap:SeniorNotesMember
+2022-12-31
+0001141391
+us-gaap:SeniorNotesMember
+ma:A2024NotesMember
+2023-12-31
+0001141391
+us-gaap:SeniorNotesMember
+ma:A2024NotesMember
+2022-12-31
+0001141391
+ma:A2023INRTermLoanMember
+2023-12-31
+0001141391
+ma:A2023INRTermLoanMember
+2022-12-31
+0001141391
+ma:INRTermLoanMember
+2023-12-31
+0001141391
+ma:INRTermLoanMember
+2022-12-31
+0001141391
+ma:February2029NotesMember
+us-gaap:SeniorNotesMember
+2022-02-28
+0001141391
+ma:A2015EuroNotesMember
+us-gaap:SeniorNotesMember
+2023-12-31
+0001141391
+ma:A2015EuroNotesMember
+us-gaap:SeniorNotesMember
+2015-12-31
+0001141391
+ma:A2023INRTermLoanMember
+2023-07-31
+iso4217:INR
+0001141391
+ma:INRTermLoanMember
+2022-07-31
+0001141391
+ma:March2028NotesMember
+us-gaap:SeniorNotesMember
+2023-03-31
+0001141391
+us-gaap:SeniorNotesMember
+ma:March2033NotesMember
+2023-03-31
+0001141391
+ma:NotesIssued2023USDMember
+us-gaap:SeniorNotesMember
+2023-03-01
+2023-03-31
+0001141391
+ma:February2029NotesMember
+us-gaap:SeniorNotesMember
+2022-02-01
+2022-02-28
+0001141391
+ma:March2031NotesMember
+us-gaap:SeniorNotesMember
+2021-03-31
+0001141391
+ma:March2051NotesMember
+us-gaap:SeniorNotesMember
+2021-03-31
+0001141391
+ma:November2031NotesMember
+us-gaap:SeniorNotesMember
+2021-11-30
+0001141391
+ma:A2021USDNotesMember
+us-gaap:SeniorNotesMember
+2021-01-01
+2021-12-31
+0001141391
+ma:INRTermLoanMember
+2022-07-01
+2022-07-31
+0001141391
+ma:April2023INRTermLoanMember
+2023-04-30
+0001141391
+ma:April2023INRTermLoanMember
+2023-04-01
+2023-04-30
+0001141391
+us-gaap:RevolvingCreditFacilityMember
+2023-12-31
+0001141391
+us-gaap:PreferredStockMember
+2023-12-31
+0001141391
+us-gaap:PreferredStockMember
+2022-12-31
+0001141391
+us-gaap:CommonStockMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:CommonStockMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:CommonStockMember
+2021-01-01
+2021-12-31
+0001141391
+ma:PublicInvestorsClassStockholdersMember
+2023-01-01
+2023-12-31
+0001141391
+ma:PublicInvestorsClassStockholdersMember
+2022-01-01
+2022-12-31
+0001141391
+ma:FoundationClassStockholdersMember
+2023-01-01
+2023-12-31
+0001141391
+ma:FoundationClassStockholdersMember
+2022-01-01
+2022-12-31
+0001141391
+ma:PrincipalOrAffiliateMembersClassBStockholdersMember
+2023-01-01
+2023-12-31
+0001141391
+ma:PrincipalOrAffiliateMembersClassBStockholdersMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:CommonClassAMember
+ma:MastercardFoundationMember
+2006-01-01
+2006-05-31
+0001141391
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:CommonClassBMember
+us-gaap:CommonStockMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:CommonClassBMember
+us-gaap:CommonStockMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:CommonClassAMember
+us-gaap:CommonStockMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:CommonClassBMember
+us-gaap:CommonStockMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:CommonClassAMember
+2021-12-31
+0001141391
+us-gaap:CommonClassAMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:CommonClassAMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2022-12-31
+0001141391
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2023-12-31
+0001141391
+ma:AccumulatedTranslationAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2022-12-31
+0001141391
+ma:AccumulatedTranslationAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2023-01-01
+2023-12-31
+0001141391
+ma:AccumulatedTranslationAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2023-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+2022-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+2023-12-31
+0001141391
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+2022-12-31
+0001141391
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+2023-12-31
+0001141391
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2022-12-31
+0001141391
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2023-12-31
+0001141391
+us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2022-12-31
+0001141391
+us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2023-12-31
+0001141391
+us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember
+2022-12-31
+0001141391
+us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember
+2023-12-31
+0001141391
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2021-12-31
+0001141391
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2022-01-01
+2022-12-31
+0001141391
+ma:AccumulatedTranslationAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2021-12-31
+0001141391
+ma:AccumulatedTranslationAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+2021-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+2021-12-31
+0001141391
+us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2021-12-31
+0001141391
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2021-12-31
+0001141391
+us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember
+2021-12-31
+0001141391
+us-gaap:CommonClassAMember
+ma:LongTermIncentivePlanMember
+2023-12-31
+0001141391
+us-gaap:StockOptionMember
+2023-01-01
+2023-12-31
+0001141391
+ma:StockOptionsGrantedOnOrAfterMarch12022Member
+ma:ThreeYearsMember
+2023-01-01
+2023-12-31
+0001141391
+ma:StockOptionsGrantedBeforeMarch12022Member
+ma:FourYearsMember
+2023-01-01
+2023-12-31
+0001141391
+ma:VestingperiodforretirementordisabilityMember
+us-gaap:RestrictedStockUnitsRSUMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:StockOptionMember
+2023-12-31
+0001141391
+ma:ThreeYearsMember
+ma:RestrictedStockUnitsRSUsGrantedOnOrAfterMarch12020Member
+2023-01-01
+2023-12-31
+0001141391
+ma:RestrictedStockUnitsRSUsGrantedOnOrAfterMarch12020ButBeforeMarch12022Member
+ma:FourYearsMember
+2023-01-01
+2023-12-31
+0001141391
+ma:MinimumvestingfromdateofretirementeligibilityMember
+us-gaap:RestrictedStockUnitsRSUMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:RestrictedStockUnitsRSUMember
+2022-12-31
+0001141391
+us-gaap:RestrictedStockUnitsRSUMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:RestrictedStockUnitsRSUMember
+2023-12-31
+0001141391
+us-gaap:PerformanceSharesMember
+ma:ThreeYearsMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:PerformanceSharesMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:PerformanceSharesMember
+2022-12-31
+0001141391
+us-gaap:PerformanceSharesMember
+2023-12-31
+0001141391
+us-gaap:RestrictedStockUnitsRSUMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:RestrictedStockUnitsRSUMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:PerformanceSharesMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:PerformanceSharesMember
+2021-01-01
+2021-12-31
+0001141391
+ma:U.S.ForeignTaxCreditCarryforwardMember
+2022-01-01
+2022-12-31
+0001141391
+ma:U.S.ForeignTaxCreditCarryforwardMember
+2023-01-01
+2023-12-31
+0001141391
+2010-01-01
+2010-01-01
+0001141391
+ma:U.S.ForeignTaxCreditCarryforwardMember
+2020-12-31
+0001141391
+ma:U.S.ForeignTaxCreditCarryforwardMember
+2021-01-01
+2021-12-31
+0001141391
+ma:U.S.ForeignTaxCreditCarryforwardMember
+2021-12-31
+0001141391
+ma:U.S.ForeignTaxCreditCarryforwardMember
+2022-12-31
+0001141391
+ma:U.S.ForeignTaxCreditCarryforwardMember
+2023-12-31
+0001141391
+ma:NetOperatingAndCapitalLossesMember
+2020-12-31
+0001141391
+ma:NetOperatingAndCapitalLossesMember
+2021-01-01
+2021-12-31
+0001141391
+ma:NetOperatingAndCapitalLossesMember
+2021-12-31
+0001141391
+ma:NetOperatingAndCapitalLossesMember
+2022-01-01
+2022-12-31
+0001141391
+ma:NetOperatingAndCapitalLossesMember
+2022-12-31
+0001141391
+ma:NetOperatingAndCapitalLossesMember
+2023-01-01
+2023-12-31
+0001141391
+ma:NetOperatingAndCapitalLossesMember
+2023-12-31
+0001141391
+ma:EventInvolvingVisaPartiesMemberBanksAndMastercardMember
+2011-02-01
+2011-02-28
+0001141391
+ma:EventInvolvingMemberBanksAndMastercardMember
+2011-02-01
+2011-02-28
+0001141391
+ma:USMerchantLitigationClassLitigationMember
+srt:MaximumMember
+2023-08-31
+0001141391
+ma:USMerchantLawsuitSettlementMember
+2023-12-31
+0001141391
+ma:USMerchantLawsuitSettlementMember
+2022-12-31
+0001141391
+ma:USMerchantLawsuitSettlementMember
+2023-01-01
+2023-12-31
+0001141391
+ma:U.K.AndPanEuropeanMerchantLawsuitSettlementMember
+2023-01-01
+2023-12-31
+0001141391
+ma:U.K.MerchantLawsuitSettlementMember
+2022-01-01
+2022-12-31
+0001141391
+ma:U.K.MerchantLawsuitSettlementMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:PendingLitigationMember
+ma:U.K.MerchantLawsuitSettlementMember
+2023-12-31
+iso4217:GBP
+0001141391
+ma:A2022MastercardAndVisaProposedCollectiveActionComplaintInTheUKMember
+2023-01-01
+2023-12-31
+0001141391
+ma:ProposedUKInterchangeCollectiveActionMember
+2023-01-01
+2023-12-31
+0001141391
+ma:PortugalProposedInterchangeCollectiveActionMember
+2023-01-01
+2023-12-31
+0001141391
+ma:ATMOperatorsComplaintMember
+2011-10-01
+2011-10-31
+ma:plaintiff
+0001141391
+ma:ATMOperatorsComplaintMember
+2019-09-01
+2019-09-30
+0001141391
+ma:USLiabilityShiftLitigationMember
+2023-01-01
+2023-12-31
+0001141391
+ma:USLiabilityShiftLitigationMember
+2023-12-31
+ma:claimant
+ma:fax
+0001141391
+us-gaap:GuaranteeObligationsMember
+2023-12-31
+0001141391
+us-gaap:GuaranteeObligationsMember
+2022-12-31
+0001141391
+us-gaap:InterestRateRiskMember
+us-gaap:CashFlowHedgingMember
+2023-01-01
+2023-12-31
+0001141391
+ma:SeniorNotesDueMarch2050Member
+us-gaap:SeniorNotesMember
+2021-12-31
+0001141391
+us-gaap:NetInvestmentHedgingMember
+2015-12-31
+0001141391
+ma:EuroDenominatedDebtMember
+us-gaap:NetInvestmentHedgingMember
+2022-12-31
+0001141391
+us-gaap:NetInvestmentHedgingMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+us-gaap:NetInvestmentHedgingMember
+2023-01-01
+2023-12-31
+0001141391
+ma:EuroDenominatedDebtMember
+us-gaap:NetInvestmentHedgingMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:NetInvestmentHedgingMember
+2023-12-31
+0001141391
+us-gaap:NetInvestmentHedgingMember
+2022-12-31
+0001141391
+ma:EuroDenominatedDebtMember
+2023-01-01
+2023-12-31
+0001141391
+ma:EuroDenominatedDebtMember
+2022-01-01
+2022-12-31
+0001141391
+ma:EuroDenominatedDebtMember
+2021-01-01
+2021-12-31
+0001141391
+ma:EuroDenominatedDebtMember
+us-gaap:NetInvestmentHedgingMember
+2023-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+us-gaap:CashFlowHedgingMember
+ma:PrepaidExpensesOtherCurrentAssetsAndOtherCurrentLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2023-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+us-gaap:CashFlowHedgingMember
+ma:PrepaidExpensesOtherCurrentAssetsAndOtherCurrentLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2022-12-31
+0001141391
+ma:OtherCurrentLiabilitiesAndOtherLiabilitiesMember
+us-gaap:InterestRateContractMember
+us-gaap:FairValueHedgingMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2023-12-31
+0001141391
+us-gaap:InterestRateContractMember
+us-gaap:FairValueHedgingMember
+ma:PrepaidExpensesOtherCurrentAssetsAndOtherLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2022-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+ma:PrepaidExpensesOtherCurrentAssetsAndOtherCurrentLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:NetInvestmentHedgingMember
+2023-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+ma:PrepaidExpensesOtherCurrentAssetsAndOtherCurrentLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+us-gaap:NetInvestmentHedgingMember
+2022-12-31
+0001141391
+us-gaap:NondesignatedMember
+us-gaap:ForeignExchangeContractMember
+ma:PrepaidExpensesOtherCurrentAssetsAndOtherCurrentLiabilitiesMember
+2023-12-31
+0001141391
+us-gaap:NondesignatedMember
+us-gaap:ForeignExchangeContractMember
+ma:PrepaidExpensesOtherCurrentAssetsAndOtherCurrentLiabilitiesMember
+2022-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+us-gaap:SalesMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+us-gaap:SalesMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:ForeignExchangeContractMember
+us-gaap:SalesMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:InterestRateContractMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:InterestRateContractMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:InterestRateContractMember
+2021-01-01
+2021-12-31
+0001141391
+us-gaap:InterestRateContractMember
+us-gaap:InterestExpenseMember
+2023-01-01
+2023-12-31
+0001141391
+us-gaap:InterestRateContractMember
+us-gaap:InterestExpenseMember
+2022-01-01
+2022-12-31
+0001141391
+us-gaap:InterestRateContractMember
+us-gaap:InterestExpenseMember
+2021-01-01
+2021-12-31
+0001141391
+country:US
+2023-12-31
+0001141391
+country:US
+2022-12-31
+0001141391
+country:US
+2021-12-31
+0001141391
+us-gaap:NonUsMember
+2023-12-31
+0001141391
+us-gaap:NonUsMember
+2022-12-31
+0001141391
+us-gaap:NonUsMember
+2021-12-31
+0001141391
+2023-10-01
+2023-12-31
+0001141391
+ma:MichaelMiebachMember
+2023-10-01
+2023-12-31
+0001141391
+ma:RajaRajamannarMember
+2023-10-01
+2023-12-31
+0001141391
+ma:TradingArrangementClassACommonStockUnderlyingEmployeeStockOptionsMember
+ma:MichaelMiebachMember
+2023-12-31
+0001141391
+ma:TradingArrangementClassACommonStockUnderlyingEmployeeStockOptionsMember
+ma:RajaRajamannarMember
+2023-12-31
+0001141391
+ma:TradingArrangementClassACommonStockMember
+ma:RajaRajamannarMember
+2023-12-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+Form
+10-K
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended
+December 31
+, 2023
+
+Or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from              to             
+Commission file number:
+001-32877
+
+Mastercard Incorporated
+(Exact name of registrant as specified in its charter)
+Delaware
+13-4172551
+(State or other jurisdiction of
+incorporation or organization)
+(IRS Employer
+Identification Number)
+2000 Purchase Street
+
+Purchase,
+NY
+10577
+(Address of principal executive offices)
+(Zip Code)
+(
+914
+)
+249-2000
+
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange of which registered
+Class A Common Stock, par value $0.0001 per share
+MA
+New York Stock Exchange
+2.1% Notes due 2027
+MA27
+New York Stock Exchange
+1.0% Notes due 2029
+MA29A
+New York Stock Exchange
+2.5% Notes due 2030
+MA30
+New York Stock Exchange
+Securities registered pursuant to Section 12(g) of the Act:
+Class B common stock, par value $0.0001 per share
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+Yes
+☒
+No
+☐
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+Yes
+☐
+No
+☒
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. (Check One):
+Large accelerated filer
+☒
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+(do not check if a smaller reporting company)
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13 (a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.
+☒
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements.
+☒
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b).
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).
+Yes
+☐
+No
+☒
+The aggregate market value of the registrant’s Class A common stock, par value $0.0001 per share, held by non-affiliates (using the New York Stock Exchange closing price as of June 30, 2023, the last business day of the registrant’s most recently completed second fiscal quarter) was approximately $
+328.8
+ billion. There is currently no established public trading market for the registrant’s Class B common stock, par value $0.0001 per share. As of February 8, 2024, there were
+925,723,131
+ shares outstanding of the registrant’s Class A common stock, par value $0.0001 per share and
+7,168,369
+ shares outstanding of the registrant’s Class B common stock, par value $0.0001 per share.
+Portions of the registrant’s definitive proxy statement for the 2024 Annual Meeting of Stockholders are incorporated by reference into Part III hereof.
+MASTERCARD INCORPORATED FISCAL YEAR 2023 FORM 10-K ANNUAL REPORT
+TABLE OF CONTENTS
+PART I
+6
+Item 1.
+Business
+27
+Item 1A.
+Risk factors
+41
+Item 1B.
+Unresolved staff comments
+41
+Item 1C.
+C
+ybersecurity
+43
+Item 2.
+Properties
+43
+Item 3.
+Legal proceedings
+43
+Item 4.
+Mine safety disclosures
+44
+-
+Information about our executive officers
+PART II
+47
+Item 5.
+Market for registrant’s common equity, related stockholder matters and issuer purchases of equity securities
+47
+Item 6.
+Reserved
+48
+Item 7.
+Management’s discussion and analysis of financial condition and results of operations
+62
+Item 7A.
+Quantitative and qualitative disclosures about market risk
+64
+Item 8.
+Financial statements and supplementary data
+115
+Item 9.
+Changes in and disagreements with accountants on accounting and financial disclosure
+115
+Item 9A.
+Controls and procedures
+116
+Item 9B.
+Other information
+PART III
+118
+Item 10.
+Directors, executive officers and corporate governance
+118
+Item 11.
+Executive compensation
+118
+Item 12.
+Security ownership of certain beneficial owners and management and related stockholder matters
+118
+Item 13.
+Certain relationships and related transactions, and director independence
+118
+Item 14.
+Principal accountant fees and services
+PART IV
+120
+Item 15.
+Exhibits and financial statement schedules
+120
+Item 16.
+Form 10-K summary
+MASTERCARD 2023 FORM 10-K
+3
+In this Report on Form 10-K (“Report”), references to the “Company,” “Mastercard,” “we,” “us” or “our” refer to the business conducted by Mastercard Incorporated and its consolidated subsidiaries, including our operating subsidiary, Mastercard International Incorporated, and to the Mastercard brand.
+Forward-Looking Statements
+This Report contains forward-looking statements pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical facts may be forward-looking statements. When used in this Report, the words “believe”, “expect”, “could”, “may”, “would”, “will”, “trend” and similar words are intended to identify forward-looking statements. Examples of forward-looking statements include, but are not limited to, statements that relate to the Company’s future prospects, developments and business strategies.
+Many factors and uncertainties relating to our operations and business environment, all of which are difficult to predict and many of which are outside of our control, influence whether any forward-looking statements can or will be achieved. Any one of those factors could cause our actual results to differ materially from those expressed or implied in writing in any forward-looking statements made by Mastercard or on its behalf, including, but not limited to, the following factors:
+•
+regulation related to the payments industry (including regulatory, legislative and litigation activity with respect to interchange rates and surcharging)
+•
+the impact of preferential or protective government actions
+•
+regulation of privacy, data, AI, information security and the digital economy
+•
+regulation that directly or indirectly applies to us based on our participation in the global payments industry (including anti-money laundering, countering the financing of terrorism, economic sanctions and anti-corruption, account-based payments systems, and issuer and acquirer practices regulation)
+•
+the impact of changes in tax laws, as well as regulations and interpretations of such laws or challenges to our tax positions
+•
+potential or incurred liability and limitations on business related to any litigation or litigation settlements
+•
+the impact of competition in the global payments industry (including disintermediation and pricing pressure)
+•
+the challenges relating to rapid technological developments and changes
+•
+the challenges relating to operating a real-time account-based payments system and to working with new customers and end users
+•
+the impact of information security incidents, account data breaches or service disruptions
+•
+issues related to our relationships with our stakeholders (including loss of substantial business from significant customers, competitor relationships with our customers, consolidation amongst our customers, merchants’ continued focus on acceptance costs and unique risks from our work with governments)
+•
+the impact of global economic, political, financial and societal events and conditions, including adverse currency fluctuations and foreign exchange controls
+•
+reputational impact, including impact related to brand perception and lack of visibility of our brands in products and services
+•
+the impact of environmental, social and governance matters and related stakeholder reaction
+•
+the inability to attract and retain a highly qualified and diverse workforce, or maintain our corporate culture
+•
+issues related to acquisition integration, strategic investments and entry into new businesses
+•
+exposure to loss or illiquidity due to our role as guarantor as well as other contractual obligations and discretionary actions we may take
+•
+issues related to our Class A common stock and corporate governance structure
+Please see “Risk Factors” in Part I, Item 1A for a complete discussion of these risk factors. We caution you that the important factors referenced above may not contain all of the factors that are important to you. Our forward-looking statements speak only as of the date of this Report or as of the date they are made, and we undertake no obligation to update our forward-looking statements.
+4
+ MASTERCARD 2023 FORM 10-K
+PART I
+Item 1. Business
+Item 1A. Risk factors
+Item 1B. Unresolved staff comments
+Item
+1C
+.
+C
+ybersecurity
+Item 2. Properties
+Item 3. Legal proceedings
+Item 4. Mine safety disclosures
+Information about our executive officers
+PART I
+ITEM 1. BUSINESS
+Item 1. Business
+Overview
+Mastercard is a technology company in the global payments industry. We connect consumers, financial institutions, merchants, governments, digital partners, businesses and other organizations worldwide by enabling electronic payments and making those payment transactions safe, simple, smart and accessible. We make payments easier and more efficient by providing a wide range of payment solutions and services using our family of well-known and trusted brands, including Mastercard®, Maestro® and Cirrus®. We operate a multi-rail payments network that provides choice and flexibility for consumers, merchants and our customers. Through our unique and proprietary core global payments network, we switch (authorize, clear and settle) payment transactions. We have additional payments capabilities that include automated clearing house (“ACH”) transactions (both batch and real-time account-based payments). Using these capabilities, we offer payment products and services and capture new payment flows. Our value-added services include, among others, cyber and intelligence solutions designed to allow all parties to transact securely, easily and with confidence, as well as other services that provide proprietary insights, drawing on our principled and responsible use of secure consumer and merchant data
+.
+Our investments in new networks, such as open banking solutions and digital identity capabilities, support and strengthen our payments and services solutions. Each of our capabilities support and build upon each other and are fundamentally interdependent. For our core global payments network, our franchise model sets the standards and ground-rules that balance value and risk across all stakeholders and allows for interoperability among them. We employ a multi-layered approach to help protect the global payments ecosystem in which we operate.
+For a full discussion of our business, please see page 10.
+Our Performance
+The following are our key financial and operational highlights for 2023, including growth rates over the prior year:
+GAAP
+Net revenue
+Net income
+Diluted EPS
+$25.1B
+$11.2B
+$11.83
+up 13%
+up 13%
+up 16%
+Non-GAAP
+1
+ (currency-neutral)
+Adjusted net revenue
+Adjusted net income
+Adjusted diluted EPS
+$25.1B
+$11.6B
+$12.26
+up 13%
+up 12%
+up 15%
+$11.2B
+$9.0B
+Repurchased shares
+$12.0B
+in capital returned
+
+to stockholders
+$2.2B
+Dividends paid
+cash flows
+
+from operations
+Gross dollar volume
+(growth on a local currency basis)
+Cross-border volume growth
+(on a local currency basis)
+Switched transactions
+$9.0T
+up 24%
+143.2B
+up 12%
+up 14%
+1
+Non-GAAP results (including growth rates) exclude the impact of gains and losses on equity investments, Special Items and/or foreign currency. See “Management’s Discussion and Analysis of Financial Condition and Results of Operations - Financial Results Overview” in Part II, Item 7 for the reconciliation to the most direct comparable GAAP financial measures.
+6
+ MASTERCARD 2023 FORM 10-K
+PART I
+ITEM 1. BUSINESS
+The following chart provides gross dollar volume (“GDV”) and number of cards featuring our brands in 2023 for select programs and solutions:
+GDV
+Cards
+Year Ended December 31, 2023
+As of December 31, 2023
+Mastercard-branded Programs
+1, 2
+(in billions)
+Growth (Local)
+% of Total GDV
+(in millions)
+% Increase from December 31, 2022
+    Consumer Credit
+$
+3,445 
+12 
+%
+38 
+%
+1,024 
+4 
+%
+    Consumer Debit and Prepaid
+4,437 
+12 
+%
+49 
+%
+1,780 
+12 
+%
+    Commercial Credit and Debit
+1,148 
+13 
+%
+13 
+%
+140 
+15 
+%
+1
+Excludes Maestro and Cirrus cards and volume generated by those cards.
+2
+Prepaid includes both consumer and commercial prepaid.
+For a full discussion of our results of operations, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Item II, Part 7.
+Our Strategy
+Our strategy centers on growing our core payments network, diversifying our customers and geographies and building new capabilities through a combination of organic and inorganic strategic initiatives. We are executing on this strategy through a focus on three key priorities:
+•
+expand in payments for consumers, businesses and governments
+•
+extend our services to enhance transactions and drive customer value
+•
+embrace new network opportunities to enable open banking, digital identity and other adjacent network capabilities
+Each of our priorities supports and builds upon each other and are fundamentally interdependent.
+Our strategy
+Our key priorities
+Powering our success
+Grow
+our core
+People
+Brand
+Diversify
+into new customers
+and geographies
+Data
+Technology
+Build
+new areas
+for the future
+Franchise
+Doing well by
+doing good
+MASTERCARD 2023 FORM 10-K
+7
+PART I
+ITEM 1. BUSINESS
+Our Key Strategic Priorities
+Expand in payments.
+ We focus on expanding upon our core payments network to enable payment flows for consumers, businesses, governments and others, which provides them with choice and flexibility to transact across multiple payment rails (including cards, real-time payments, account-based transactions, crypto and others), while ensuring that all payments are safe, secure and seamless. We do so by:
+•
+Driving growth in consumer payments
+ with a focus on accelerating digitization, growing acceptance and pursuing an expanded set of use cases, including through partnerships
+•
+Capturing new payment flows
+ by expanding our multi-rail capabilities and applications to penetrate key flows such as commercial point-of-sale transactions, business-to-business (“B2B”) accounts payable flows, disbursements and remittances and consumer bill payments
+•
+Leaning into new payment innovations
+
+including acceptance growth accelerators such as Tap on Phone, cloud commerce and contactless, as well as developing solutions that support digital currencies and blockchain applications
+Extend our services.
+ Our services drive value for our customers and the broader payments ecosystem. These services include cyber and intelligence solutions, insights and analytics, consulting, marketing, loyalty, processing and payment gateway solutions for e-commerce merchants. As we drive value, our services generate revenue while helping to accelerate our overall financial performance by supporting revenue growth in payments and new network opportunities. We extend our services by:
+•
+Enhancing the value of payments
+ by making payments safe, secure, intelligent and seamless
+•
+Expanding services to new segments and use cases
+ to address the needs of a larger set of customers, including financial institutions, merchants, governments, digital players and others, while expanding our geographic reach
+•
+Supporting and strengthening new network capabilities,
+ including expanding services associated with digital identities and deploying our expertise in open banking and open data
+Embrace new network opportunities.
+ We are building and managing new adjacent network capabilities to power commerce and payments, creating new opportunities to develop and embed services. We do so by:
+•
+Applying our open banking solutions
+ to help institutions and individuals exchange consumer-permissioned data securely and easily by enabling the reliable access, transmission and management of consumer data (including for opening new accounts, securing loans, increasing credit scores and enabling consumer choice in money movement and personal finance management)
+•
+Enabling digital identity solutions
+
+to instill trust in the digital world and help ensure that payments across consumers, businesses, devices and virtual entities are efficient, safe and secure
+Each of our priorities supports and builds upon each other and are fundamentally interdependent:
+•
+Payments
+ provide data and distribution to drive scale and differentiation in services and enable the development and adoption of new network capabilities
+•
+Services
+ improve the security, efficiency and intelligence of payments, improve portfolio performance, differentiate our offerings, strengthen our customer relationships and support our open banking and digital identity networks
+•
+New network opportunities
+ strengthen our digital payments value proposition, including improved authentication with digital identity, and new opportunities to develop and embed services in our expanding product offerings
+Powering Our Success
+These priorities are supported by six key drivers:
+People.
+ Our success is driven by the skills, experience, integrity and mindset of our people. We attract, develop and retain top talent from diverse backgrounds and industries, in alignment with our strategic priorities. Our winning culture is guided by the Mastercard Way, which outlines the behaviors we expect from employees to deliver for our customers and one another. We foster a working environment grounded in decency, respect, equity and inclusion, where people have opportunities to perform purpose-driven work that impacts communities, customers and co-workers on a global scale.
+Brand.
+Our brands and brand identities serve as a differentiator for our business, representing our values and enabling us to accelerate growth in new areas.
+8
+ MASTERCARD 2023 FORM 10-K
+PART I
+ITEM 1. BUSINESS
+Data.
+We create a range of products and services for our customers using our data assets, infrastructure, platforms and expertise while following our data and tech responsibility principles in how we design, implement and deliver those solutions. Our Privacy by Design, Data by Design and Artificial Intelligence (“AI”) Governance processes are designed to ensure we embed multiple layers of privacy, data protection and information security controls in all of our products and services, keeping a clear focus on protecting customers’ and individuals’ data and privacy.
+Technology.
+ Our technology provides resiliency, scalability and flexibility in how we serve customers. It enables broader reach to scale digital payment services to multiple channels. Our technology standards, services and governance model help us to serve as the connection that allows financial institutions, financial technology companies (fintechs) and others to interoperate and enable consumers, businesses, governments and merchants to engage through digital channels.
+Franchise.
+We manage an ecosystem of stakeholders who participate in our global payments network. Our franchise model creates and sustains a comprehensive series of value exchanges across our ecosystem. We provide a balanced ecosystem where all participants benefit from the availability, innovation and safety and security of our network. Our franchise model enables the scale of our network and provides a single governance structure for its operation. This structure has the potential to be extended to new opportunities.
+Doing Well by Doing Good.
+ Sustainable impact is fundamental to our business strategy. We leverage our employees, technology, resources, partnerships and expertise to address social, economic and environmental challenges, while at the same time creating markets for future growth and driving long-term value for stockholders. Our environmental, social and governance (“ESG”) priorities are expressed through three pillars - People, Prosperity, Planet - and all of the work we do is grounded in strong governance principles. For more information, please reference our most recently published Environmental, Social and Governance Report and Proxy Statement (each located on our website).
+MASTERCARD 2023 FORM 10-K
+9
+PART I
+ITEM 1. BUSINESS
+Our Business
+Our Multi-Rail Network and Payments Capabilities
+We enable a wide variety of payments capabilities (including products and value-added services and solutions) over our multi-rail network among account holders, merchants, financial institutions, businesses, governments and others, offering our customers one partner for their payment needs.
+Payment Network
+Our core payment network links issuers and acquirers around the globe to facilitate the switching of transactions, permitting account holders to use our products at over 100 million acceptance locations worldwide. This network facilitates an efficient, safe and secure means for making and receiving payments, a convenient, quick and secure payment method for consumers to access their funds and a channel for businesses to receive insight through information that is derived from our network. We enable transactions for our customers through our core payment network in more than 150 currencies and in more than 210 countries and territories.
+Payment Network Transactions.
+ Our core payment network supports what is often referred to as a “four-party” payments network and includes the following participants: account holder (a person or entity who holds a card or uses another device enabled for payment), issuer (the account holder’s financial institution), merchant and acquirer (the merchant’s financial institution).
+We do not issue cards, extend credit, determine or receive revenue from interest rates or other fees charged to account holders by issuers, or establish the rates charged by acquirers in connection with merchants’ acceptance of our products. In most cases, account holder relationships belong to, and are managed by, our customers.
+The following graphic depicts a typical transaction on our core payment network and our role in that transaction, which includes payments ecosystem security, value-added services and the enablement of digital payments:
+In a typical transaction, an account holder purchases goods or services from a merchant using one of our payment products. After the transaction is authorized by the issuer, the issuer pays the acquirer an amount equal to the value of the transaction, minus the interchange fee (described below) and other applicable fees, and then posts the transaction to the account holder’s account. The acquirer pays the amount of the purchase, net of a discount (referred to as the “merchant discount” rate), to the merchant.
+•
+Interchange Fees.
+ Interchange fees reflect the value merchants receive from accepting our products and play a key role in balancing the costs and benefits that consumers and merchants derive. Generally, interchange fees are collected from acquirers and paid to issuers to reimburse the issuers for a portion of the costs incurred. These costs are incurred by issuers in providing services that benefit all participants in the system, including acquirers and merchants, whose participation in the network enables increased sales to their existing and new customers, efficiencies in the delivery of existing and new products, guaranteed payments and improved customer experience. We (or, alternatively, financial institutions) establish “default interchange fees” that apply when there are no other established settlement terms in place between an issuer and an acquirer. We administer the collection and remittance of interchange fees through the settlement process.
+10
+ MASTERCARD 2023 FORM 10-K
+PART I
+ITEM 1. BUSINESS
+•
+Additional Four-Party System Fees.
+
+ The merchant discount rate is established by the acquirer to cover its costs of both participating in the four-party system and providing services to merchants. The rate takes into consideration the amount of the interchange fee which the acquirer generally pays to the issuer. Additionally, acquirers may charge merchants processing and related fees in addition to the merchant discount rate. Issuers may also charge account holders fees for the transaction, including, for example, fees for extending revolving credit.
+Switched Transactions
+•
+Authorization, Clearing and Settlement.
+ Through our core payment network, we enable the routing of a transaction to the issuer for its approval, facilitate the exchange of financial transaction information between issuers and acquirers after a successfully conducted transaction, and settle the transaction by facilitating the exchange of funds between parties via settlement banks chosen by us and our customers.
+•
+Cross-Border and Domestic.
+ Our core payment network switches transactions throughout the world when the merchant country and country of issuance are different (“cross-border transactions”), providing account holders with the ability to use, and merchants to accept, our products and services across country borders. We also provide switched transaction services to customers where the merchant country and the country of issuance are the same (“domestic transactions”). We switch over 65% of all transactions for Mastercard and Maestro-branded cards, including nearly all cross-border transactions.
+We guarantee the settlement of many of the transactions from issuers to acquirers to ensure the integrity of our core payment network. We refer to the amount of this guarantee as our settlement exposure. We do not, however, guarantee payments to merchants by their acquirers or the availability of unspent prepaid account holder account balances.
+Payment Network Architecture.
+ Our core payment network features a globally integrated structure that provides scale for our issuers, enabling them to expand into regional and global markets. It is based largely on a distributed (peer-to-peer) architecture that enables the network to adapt to the needs of each transaction. The network accomplishes this by performing intelligent routing and applying multiple value-added services (such as fraud scoring, tokenization services, etc.) to appropriate transactions in real time. This architecture enables us to connect all parties regardless of where or how the transaction is occurring. It has 24-hour a day availability and world-class response time.
+Account-Based Payments Capabilities
+We offer ACH batch and real-time account-based payments capabilities, enabling payments for ACH transactions between bank accounts in real-time. Our real-time account-based payments capabilities provide consumers and businesses the ability to make instant (faster) payments while providing enhanced data and messaging capabilities. We build, implement, enhance and operate real-time clearing and settlement infrastructure, payment platforms and direct debit systems for jurisdictions globally. As of December 31, 2023, we either operated or were implementing real-time payments infrastructure in 13 markets. We also use our real-time account-based payments capabilities to enable consumers, businesses, governments and merchants to send and receive money directly from account to account.
+We discuss below under “Our Payment Products and Applications” the ways in which we apply our real-time account-based payments capabilities to capture new payment flows.
+Security and Franchise
+Payments Ecosystem Security.
+ We employ a multi-layered approach to help protect the global payments ecosystem, including a robust program designed to protect our network from cyber and information security threats. Our network and platforms incorporate multiple layers of protection, providing greater resiliency and security protection. Our programs are assessed by third parties and incorporate benchmarking and other data from peer companies and consultants. We engage in many efforts to mitigate information security challenges, including maintaining an information security program, an enterprise resilience program and insurance coverage, as well as regularly testing our systems to address potential vulnerabilities. We work with experts across the organization (as well as through other sources such as public-private partnerships) to monitor and respond quickly to a range of cyber and physical threats, including threats and incidents associated with the use of services provided by third-party providers.
+As another feature of our multi-layered approach, we work with issuers, acquirers, merchants, governments and payments industry associations to develop and put in place technical standards (such as EMV standards for chips and smart payment cards) for safe and secure transactions and we provide solutions and products that are designed to help provide safety and security for the global payments ecosystem. Our approach includes supporting small businesses by sharing best practices and providing access to free utilities and services, benefiting both them and the entire payments ecosystem. We discuss specific cyber and intelligence solutions that we offer to our customers below under “Our Value-Added Services”.
+MASTERCARD 2023 FORM 10-K
+11
+PART I
+ITEM 1. BUSINESS
+Our Franchise.
+ We manage an ecosystem of stakeholders that participate in our global payments network, setting standards and rules for all participants and aiming to ensure interoperability among them while balancing risk and value across all stakeholders. Our franchise model achieves this by creating and sustaining a comprehensive series of value exchanges across our ecosystem. Through our franchise model, we work to ensure a balanced ecosystem where all participants may benefit from the availability, innovation, safety and security of our network. We achieve this goal through the following key activities:
+•
+Participant Onboarding.
+
+We determine that each new customer meets the necessary prerequisites to use and contribute to our network by defining clear ecosystem roles and responsibilities for their operations
+•
+Operating Standards.
+
+We define the technical, operational and financial standards that all network participants are required to uphold
+•
+Safety and Security.
+
+We establish central principles, including safeguarding consumer protections and integrity, so participants feel confident to transact on the network
+•
+Responsible Stewardship.
+
+We set performance standards to support ecosystem optimization and growth and use proactive monitoring to both ensure participant adherence to operating standards and protect the integrity of the ecosystem
+•
+Issue Resolution.
+
+We operate a framework to address disputes between our network participants
+Our Payment Products and Applications
+We provide a wide variety of products and services that support payment products that customers can offer to consumers and merchants. These offerings facilitate transactions across our multi-rail payments network and platforms among account holders, merchants, financial institutions, digital partners, businesses, governments and other organizations in markets globally.
+Consumer Payment Products
+Consumer Credit.
+ We offer products that enable issuers to provide consumers with credit, allowing them to defer payment. These programs are designed to meet the needs of our customers around the world and address standard, premium and affluent consumer segments.
+How We Benefit Consumers
+We enable our customers to benefit consumers by:
+•
+making electronic payments more convenient, secure and efficient
+•
+delivering better, seamless consumer experiences
+•
+providing consumers choice, empowering them to make and receive payments in the ways that best meet their daily needs
+•
+protecting consumers and all other participants in a transaction, as well as consumer data
+•
+providing loyalty rewards and benefits
+Consumer Debit.
+ We support a range of payment products and solutions that allow our customers to provide consumers with convenient access to funds in deposit and other accounts. Our debit and deposit access programs can be used to make purchases and to obtain cash from bank branches, at ATMs and, in some cases, at the point of sale. Our branded debit programs consist of Mastercard (including standard, premium and affluent offerings), Maestro (our PIN-based solution that operates globally) and Cirrus (our primary global cash access solution).
+Prepaid.
+ Prepaid accounts are a type of electronic payment that enables consumers to pay from pre-funded accounts whether or not they previously had a bank account or a credit history. These accounts can be tailored to meet specific program, customer or consumer needs, such as paying bills, sending person-to-person payments or withdrawing cash from an ATM. Our focus ranges from digital accounts (such as fintech and gig economy platforms) to business programs such as employee payroll, health savings accounts and solutions for small business owners. Our prepaid programs also offer opportunities in the private and public sectors to drive financial inclusion of previously unbanked individuals through social security payments, unemployment benefits and salary cards.
+12
+ MASTERCARD 2023 FORM 10-K
+PART I
+ITEM 1. BUSINESS
+New Payment Flows
+We offer platforms, products and applications that apply our multi-rail payment capabilities to capture new payment flows, enabling us to serve the needs of a significant addressable market.
+Commercial Point of Sale.
+ We offer commercial credit, debit and prepaid payment products and solutions that meet the payment needs of large corporations, midsize companies, small businesses and government entities. Our solutions streamline procurement and payment processes, manage information and expenses (such as travel and entertainment) and reduce administrative costs. Our point-of-sale offerings include:
+•
+Small business cards (credit, debit and prepaid) tailored to small and medium businesses.
+•
+Commercial travel and entertainment, procurement and fleet cards, consisting mostly of credit cards and associated platforms for corporations to manage travel and expense, procurement and fleet expenses. Our Mastercard Smart Data™ platform provides expense management and reporting capabilities.
+B2B Accounts Payable.
+We offer solutions that enable businesses or governments to make payments to businesses with whom they have a trusted relationship for goods and services. Our solutions include Virtual Card Number (VCN), which is generated dynamically from a physical card and leverages the credit limit of the funding account. Our VCN solution may include the use of Mastercard InControl™, our virtual card platform that allows buyers to pay suppliers using a one-time use card number that can be set with transaction level controls, providing unmatched configurability and flexibility.
+Additionally, we offer a platform to optimize supplier payment enablement campaigns for financial institutions, as well as our treasury intelligence platform that provides corporations with recommendations to improve working capital performance and accelerate spend on cards.
+Key 2023 Developments
+•
+In 2023, we launched Mastercard Receivables Manager, a solution aimed at streamlining how suppliers receive virtual card payments by automating the integration of reconciliation data into suppliers’ accounts receivables systems.
+•
+In 2023, our Disbursements and Remittances capabilities have the ability to reach more than 95% of the world’s banked population.
+Disbursements and Remittances.
+We offer applications that enable consumers, businesses, governments and merchants to send and receive money domestically and across borders with greater speed and ease, with a payout reach of approximately 10 billion endpoints globally across multiple channels, and in more than 180 markets and 150 currencies.
+•
+Using Mastercard Send™, we partner with digital messaging and payment platforms to enable consumers to send money directly within applications to other consumers. We partner with central banks, fintechs and financial institutions to help governments and nonprofits more efficiently enable, as applicable, distribution of social and economic assistance and business-to-consumer (“B2C”) disbursements across various use cases (such as wallet funding, cash payouts, gig worker payouts and insurance claims).
+•
+Mastercard Cross-Border Services enables a wide range of payment flows and use cases to customers (including trade payments, remittances and disbursements). These flows are enabled via a distribution network with a single point of access that allows financial institutions, fintechs and digital partners to send and receive money globally through multiple channels, including bank accounts, mobile wallets, cards and cash payouts.
+Consumer Bill Payments.
+Our solutions enable consumers and small businesses to pay their billers in a seamless and secure way. Leveraging our merchant acceptance network (which includes many billers), we offer consumers the choice of paying their bills in a convenient and secure manner using credit, debit or prepaid. We also offer the choice of account-based payments methods. As a result, these solutions provide an experience that offers flexibility and benefits consumers, financial institutions and billers.
+MASTERCARD 2023 FORM 10-K
+13
+PART I
+ITEM 1. BUSINESS
+Payments Innovation
+Our innovation capabilities and our technology provide resiliency, scalability and flexibility in how we serve customers and in turn help them benefit consumers. They enable broader reach to scale digital payment services across multiple channels. Our technology standards, services and governance model help us to serve as the connection that allows financial institutions, fintechs and technology companies to interoperate and enable consumers, businesses, governments and merchants to engage through digital channels.
+Key 2023 Developments
+•
+In 2023, we marked the tenth anniversary of Mastercard introducing token standards to the payments industry, and we reached the milestone of three billion tokens in one month.
+•
+In 2023, we launched our Multi Token Network, a set of foundational capabilities designed to make transactions within digital asset and blockchain ecosystems secure, scalable and interoperable.
+•
+Delivering better digital experiences everywhere.
+
+We use our technologies and security protocols to develop solutions to make digital shopping and selling experiences, such as on smartphones and other connected devices, simpler, faster and safer for both consumers and merchants. We also offer products that make it easier for merchants to accept payments and expand their customer base.
+◦
+Our contactless payment solutions help deliver a simple and intuitive way to pay
+◦
+Our Mastercard Digital First™ program enables customers to offer their cardholders a fully digital payment experience with an optional physical card, meeting cardholder expectations of immediacy, safety and convenience during card application, authentication and instant card access, securing purchases (whether contactless, in-store, in-app or via the web) and managing alerts, controls and benefits
+◦
+Our Click to Pay checkout experience is designed to provide consumers the same convenience and security in a digital environment that they have when paying in a store, make it easier for merchants to implement secure digital payments and provide issuers with improved fraud detection and prevention capabilities. This experience is based on the EMV Secure Remote Commerce industry standard that enables a faster, more secure checkout experience across web and mobile sites, mobile apps and connected devices
+◦
+Our Tap on Phone acceptance technology enables businesses of all sizes to accept payments from any contactless card or mobile wallet directly from their NFC-enabled device, providing a turnkey and cost-effective solution without any additional hardware required
+•
+Securing more transactions.
+
+ We leverage tokenization, biometrics and machine learning technologies in our push to secure every transaction. These efforts include driving EMV-level security and benefits through all our payment channels.
+•
+Creating solutions to support blockchain-based digital currencies.
+ Through a principled approach (including applying prudent risk management practices and maintaining continuous monitoring of our partners that are active in the digital asset market), Mastercard is focused on supporting digital currencies by:
+◦
+Providing identity, cyber and consulting services for market participants (including our identity and biometric solutions, cybersecurity solutions, crypto analytics, transaction monitoring and anti-money laundering detection capabilities) as well as engaging with central banks as they design and develop central bank digital currencies
+◦
+Helping consumers safely and easily purchase cryptocurrencies and non-fungible tokens (“NFTs”) as well as enabling consumers to spend their converted crypto holdings on Mastercard card offerings and cash out their crypto wallets using Mastercard Send
+•
+Simplifying access to, and integration of, our digital assets.
+ Our Mastercard Developer platform makes it easy for customers and partners to leverage our many digital assets and services. By providing a single access point with tools and capabilities to find APIs across a broad range of Mastercard services, we enable easy integration of our services into new and existing solutions.
+•
+Identifying and experimenting with future technologies, start-ups and trends.
+
+ Through Mastercard Foundry, we continue to provide customers and partners access to thought leadership, innovation methodologies, new technologies and relevant early-stage fintech players.
+14
+ MASTERCARD 2023 FORM 10-K
+PART I
+ITEM 1. BUSINESS
+Our Value-Added Services
+Our services encompass a wide-ranging portfolio of value-added and differentiating capabilities that:
+•
+instill trust in the ecosystem to allow parties to transact and operate with confidence
+•
+provide actionable insights to our customers to assist in their decision making
+•
+enable our customers to strengthen their engagement with their own end users
+•
+enable connectivity and access for a fragmented and diverse set of parties
+Cyber and Intelligence Solutions
+As part of the security we bring to the payments ecosystem, we offer products and services designed to prevent, detect and respond to fraud and cyber-attacks and to ensure the safety of transactions made using Mastercard and non-Mastercard products. We do this using a multi-layered safety and security strategy:
+•
+The
+“Prevent”
+ layer is designed to protect against attacks on infrastructure, devices and data. We have continued to grow global usage of EMV chip and contactless security technology, helping to reduce fraud. Our solutions include Mastercard SafetyNet™, which protects financial institutions by helping to stop real-time attacks that are visible in the network, but not easily detected by financial institutions.
+Key 2023 Developments
+•
+In 2023, we launched our Consumer Fraud Risk solution, which leverages our AI capabilities and the unique network view of real-time payments to help banks predict and prevent payment scams.
+•
+In 2023, Mastercard SafetyNet prevented more than $20 billion in fraud globally.
+•
+In 2023, we acquired an AI-enabled, cloud-based solution designed to help stop cyber-attacks related to malware, ransomware and DDOS attacks.
+•
+The
+“Identify”
+ layer allows us to help banks and merchants verify the authenticity of consumers during the payment process using various biometric technologies, including fingerprint, face and iris scanning, and behavioral user data assessment technology to verify online purchases on mobile devices, as well as a card with biometric technology built in.
+•
+The
+“Detect”
+ layer is designed to both spot and take action to stop fraudulent behavior and cyber-attacks once detected. Our offerings include alerts when accounts are exposed to data breaches or security incidents, fraud scoring technology that scans billions of dollars of money flows each day while increasing approvals and reducing false declines, and network-level monitoring on a global scale to help detect the occurrence of widespread fraud attacks when the customer (or their processor) may be unable to detect or defend against them.
+•
+The
+“Experience”
+ layer is designed to improve the security experience for our stakeholders in areas from the speed of transactions (enhancing approvals for online and card-on-file payments) to the ability to differentiate legitimate consumers from fraudulent ones. Our offerings include solutions for consumer alerts and controls and a suite of digital token services. We also offer an e-commerce fraud and dispute management network that enables merchants to stop delivery when a fraudulent or disputed transaction is identified, and issuers to refund the cardholder to avoid the chargeback process.
+•
+The
+“Network”
+ layer extends the services we provide to transactions in the payments ecosystem and across all of our rails, including decision intelligence and tokenization capabilities, to help secure our customers and transactions on a real-time basis.
+Moreover, we use our AI and data analytics, along with our cyber risk assessment capabilities, to help enable financial institutions, merchants, corporations and governments to secure their digital assets across each of these five layers.
+We have also worked with our customers to provide products to consumers globally with increased confidence through the benefit of “zero liability”, where the consumer bears no responsibility for counterfeit or lost card losses in the event of fraud.
+MASTERCARD 2023 FORM 10-K
+15
+PART I
+ITEM 1. BUSINESS
+Data and Services Solutions
+
+Insights and Analytics.
+ Our capabilities incorporate payments expertise and analytical and executional skills to create end-to-end solutions which are increasingly delivered via platforms embedded in our customers’ day-to-day operations. We offer business intelligence to monitor key performance indicators (“KPIs”) and benchmark performance through self-service digital platforms, tools, and reports for financial institutions, merchants and others. We enable customers to better understand consumer behavior and improve segmentation and targeting by using our anonymized and aggregated data assets, third-party data and AI technologies. We also help our customers accurately measure the impact of their decisions and improve them by leveraging data analytics to conduct disciplined business experiments for in-market tests to drive more profitable decision making.
+Key 2023 Developments
+•
+In 2023, we built upon our acquisition of Dynamic Yield™ by launching Element. This solution is designed to combine insights from our data analytics with Dynamic Yield’s personalization experience to provide more insight-driven, customized product recommendations, offers and content to consumers.
+
+Consulting and Innovation.
+ We provide advisory services that help customers make better decisions and improve performance. By observing patterns of payments behavior based on billions of transactions switched globally, we are able to leverage anonymized and aggregated information to provide advice based on data. We also utilize our expertise, digital technology, innovation tools, methodologies and processes to collaborate with, and increasingly drive innovation at, financial institutions, merchants and governments. Through our global innovation and development arm, Mastercard Foundry, we offer customized innovation programs and concept design. We continue to innovate and expand our offerings to help businesses evolve and expand their growth enterprise-wide. Our services include consulting and innovation offerings dedicated to open banking, open data, crypto and digital currencies and ESG matters.
+
+Marketing Services.
+ We deliver marketing services, digital implementation and program management with performance-based solutions at every stage of the consumer lifecycle to assist our customers in implementing actions based on insights and driving adoption and usage. These services include developing messaging, targeting key groups, launching campaigns and training staff, all of which help our customers drive engagement and portfolio profitability.
+
+Issuer and Merchant Loyalty.
+
+We have built a scalable rewards platform that enables issuers to provide consumers with a variety of benefits and services, such as personalized offers and rewards, access to a global airport lounge network, concierge services, insurance services, emergency card replacement, emergency cash advances and a 24-hour account holder service center. For merchants, we provide campaigns with targeted offers and rewards, management services for publishing offers, and accelerated points programs for co-brand and rewards program members. We also provide a loyalty platform that enables stronger relationships with retailers, restaurants, airlines and consumer packaged goods companies by creating experiences that drive loyalty and impactful consumer engagement.
+
+Processing and Gateway
+
+We extend our processing capabilities in the payments value chain in various regions with an expanded suite of offerings, including:
+•
+Issuer solutions designed to provide customers with a complete processing solution to help them create differentiated products and services and allow quick deployment of payments portfolios across banking channels
+•
+Payment gateways that offer a single interface to provide e-commerce merchants with the ability to process secure online and in-app payments and offer value-added solutions, including outsourced electronic payments, fraud prevention and alternative payment options
+•
+Mobile gateways that facilitate transaction routing and processing for mobile-initiated transactions
+16
+ MASTERCARD 2023 FORM 10-K
+PART I
+ITEM 1. BUSINESS
+Our New Network Capabilities
+Open Banking
+
+We offer an open banking platform that enables data providers and third parties, on a permissioned basis, to reliably access, securely transmit and confidently manage consumer and small business data to improve the customer experience. Our platform enables individuals to have choice of financial services, providing them the ability to access, control and benefit from the use of their data, as well as an improved payment experience. Our platform is also used to serve the needs of the lending market, including through streamlining loan application processes and improving credit decisioning, thereby driving further financial inclusion. The network connections that underpin this platform leverage our data responsibility principles (including data usage guardrails, consumer protection and consent management), as well as API technology.
+Key 2023 Developments
+•
+In 2023, we partnered with leading financial institutions to launch a previously-announced ACH payment solution that uses our open banking capabilities to enable seamless and secure consumer bill payments.
+•
+In 2023, our open banking capabilities provided connectivity to over 95% of deposit accounts in the U.S. and approximately 3,000 banks across Europe (directly as well as through partners).
+Digital Identity
+
+We enable digital identity solutions, which provide seamless digital experiences and strengthen and secure digital payments across individuals, devices and accounts. Our digital identity capabilities focus on the identity of people, devices and transactions. They embody Privacy by Design principles and are consent-centric. Our solutions include device intelligence and behavioral biometrics (to determine whether the user is genuine or a fraudulent device), document proofing, IP intelligence, biometrics, transaction fraud data (from which we derive insights that can be used to significantly improve the global approval rate of transactions), location, identity attributes and payment authorization.
+MASTERCARD 2023 FORM 10-K
+17
+PART I
+ITEM 1. BUSINESS
+Our People
+As of December 31, 2023, we employed approximately 33,400 persons globally. Our employee base is predominantly full-time and approximately 67% were employed outside of the U.S. in more than 80 countries. We also had approximately 4,600 contractors which we used to supplement our employee base in order to meet specific needs. Our voluntary workforce turnover (rolling 12-month attrition) was approximately 5% as of December 31, 2023. The total cost of our workforce for the year ended December 31, 2023 was $6.0 billion, which primarily consists of compensation, benefits and other personnel- and contractor-related costs.
+Management reviews our people strategy and culture, as well as related risks, with our Human Resources and Compensation Committee on a quarterly basis, and annually with our Board of Directors. Additionally, our Board and Board committees are tasked with overseeing other human capital management matters on a regular basis, such as ensuring processes are in place for maintaining an ethical corporate culture, overseeing key diversity, equity and inclusion (“DEI”) initiatives, policies and practices, and monitoring governance trends in areas such as human rights. Our ability to attract, develop and retain top talent and build a healthy culture is critical to our business strategy.
+Specifically, to enable our business strategy effectively, our aim is to:
+
+•
+attract and retain talent with the key skills needed to achieve short-term and long-term goals
+•
+develop a high-performing, agile workforce that can collaborate and compete in a fast-paced, innovative environment
+•
+build on our DEI efforts to enable equal opportunities and empower people
+Attract talent.
+
+•
+We continuously recruit talent by leveraging the strength of our brand and utilizing a variety of sources, channels, and initiatives in order to support our growth across sectors, markets and emerging industries
+•
+Our acquisition activity has also provided a strong source of talent with differentiated skills
+Develop and retain talent.
+ We develop and retain our employees, ensuring we stay competitive and respond to both changing market dynamics and our employees’ needs while supporting a culture of innovation grounded in decency. Our efforts include:
+•
+An annual cycle that aligns with our “Mastercard Way” and focuses on objective setting, performance assessment, talent evaluation, skill development, opportunities and career progression
+•
+Succession planning for key roles, including talent and leadership programs across various levels. These programs embed our culture principles, include diverse populations, aim to develop talent and managerial skills through personalized coaching and group executive development and leverage mentorship programs and other learning opportunities
+The Mastercard Way
+The Mastercard Way is the statement of our culture. It consists of three principles:
+•
+Create value
+•
+Grow together
+•
+Move fast
+These principles address where we are going as an organization, how we work together and how we deliver for our customers and each other.
+•
+A competitive compensation approach (subject to periodic reviews) under which eligible employees across multiple job levels can receive long-term incentive equity awards
+•
+Contributions to employees’ financial well-being as they plan for retirement. All employees globally are entitled to receive a matching Mastercard contribution of $1.67 for every $1 contributed to a 401(k) or other retirement plan on the first 6% of base pay
+•
+Continued expansion and prioritization of well-being offerings for employees, including access to mental, physical and financial health resources, additional paid time off for dependent care, and support for family planning
+•
+Flexibility policies and programs to support employees, including a four-week ”work from anywhere” policy, meeting-free days and a hybrid work approach guided by team-based agreements for when teams come together
+•
+Supporting of employee charitable donations with matching Mastercard gifts and making a donation for every hour volunteered, as well as providing five paid days per year for full-time employees for eligible volunteer work
+•
+Experience surveys that we periodically run to assess our overall employee engagement areas (with occasional focus on more targeted topics) and prioritize how we address emerging opportunity areas
+18
+ MASTERCARD 2023 FORM 10-K
+PART I
+ITEM 1. BUSINESS
+•
+A culture of high ethical business practices and compliance standards, grounded in honesty, decency, trust and personal accountability. It is driven by “tone at the top,” reinforced with regular training, fostered in a speak-up environment, and measured by our periodic employee surveys and other metrics that enable our Board to maintain a pulse on areas of strength and opportunities for improvement
+Diversity, equity and inclusion
+ underpin everything we do, helping us build a healthy culture, attract talent and drive long-term value for stockholders:
+•
+We have developed regional and functional action plans to identify priorities and actions that will help us make more progress for DEI, including appropriate balance and inclusion in gender and racial representation
+•
+We remain committed to our “In Solidarity” initiative through alignment of our DEI plans globally to address local needs and opportunities, for example through the introduction of new training programs such as our neurodiversity hiring initiative and new partnerships with historically Black colleges and universities (HBCUs) in the U.S.
+Workforce Demographics
+•
+39% of our global workforce are women
+•
+44% of our U.S. workforce are people of color
+1
+•
+Female employees earned $1.00 for every $1.00 men earned during 2023
+•
+In the U.S., employees of color earned $1.00 for every $1.00 white employees earned during 2023
+1
+•
+The median pay for female employees was 96.4% compared to male employees during 2023
+2
+•
+We remain dedicated to practices designed to ensure there is equal pay for equal work. We have established a framework for examining pay practices annually, supported by third-party analysis and benchmarked to the external market. We assess compensation decisions for potential pay disparities by gender (including base, bonus and long-term incentives), among other categories, and appropriately respond to any disparities that are found
+•
+Our employee incentive compensation plan features an ESG modifier for all employees that includes quantitative goals for a number of ESG items, including gender pay parity.
+We expect to provide more detailed information in 2024 regarding our employees, including additional workforce demographics, in our annual Environmental, Social and Governance Report and Proxy Statement, both of which will be located on our website.
+1
+People of Color are defined as Black or African American, Hispanic or Latino, Asian, American Indian, Alaska Native, Native Hawaiian or other Pacific Islander, or two or more races. Ethnicity data does not include undeclared.
+2
+The gender pay gap is predominantly due to the fact that we have more men in senior roles, not because men are paid more.
+Brand
+Our family of well-known brands includes Mastercard, Maestro and Cirrus. We manage and promote our brands and brand identities through advertising, promotions and sponsorships, as well as digital, mobile and social media initiatives, in order to increase people’s preference for our brands and usage of our products.  We sponsor a variety of sporting, entertainment and charity-related marketing properties to align with consumer segments important to us and our customers. Our advertising plays an important role in building brand visibility, preference and overall usage among account holders globally.  Our “Priceless®” advertising campaign, which celebrated its 25th anniversary in 2022 and has run in more than 50 languages and in more than 120 countries worldwide, promotes Mastercard usage benefits and acceptance, markets Mastercard payment products and solutions and provides Mastercard with a consistent, recognizable message that supports our brand around the globe. 
+MASTERCARD 2023 FORM 10-K
+19

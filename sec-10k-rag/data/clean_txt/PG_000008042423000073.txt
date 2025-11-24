@@ -1,0 +1,2332 @@
+0000080424
+6/30
+2023
+FY
+False
+2,357,306,187
+357
+0000080424
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:CommonStockMember
+2022-07-01
+2023-06-30
+0000080424
+exch:XNYS
+us-gaap:CommonStockMember
+2022-07-01
+2023-06-30
+0000080424
+pg:A1125NotesDue2023Domain
+2022-07-01
+2023-06-30
+0000080424
+exch:XNYS
+2022-07-01
+2023-06-30
+0000080424
+pg:A0500NotesDue2024Domain
+2022-07-01
+2023-06-30
+0000080424
+pg:A0625NotesDue2024Domain
+2022-07-01
+2023-06-30
+0000080424
+pg:A1375NotesDue2025Domain
+2022-07-01
+2023-06-30
+0000080424
+pg:A0110NotesDue2026Domain
+2022-07-01
+2023-06-30
+0000080424
+pg:A3250EURNotesDue2026Domain
+2022-07-01
+2023-06-30
+0000080424
+pg:A4875EURNotesDueMay2027Domain
+2022-07-01
+2023-06-30
+0000080424
+pg:A1200NotesDue2028Domain
+2022-07-01
+2023-06-30
+0000080424
+pg:A1250NotesDue2029Domain
+2022-07-01
+2023-06-30
+0000080424
+pg:A1800NotesDue2029Domain
+2022-07-01
+2023-06-30
+0000080424
+pg:A6250GBPNotesDueJanuary2030Domain
+2022-07-01
+2023-06-30
+0000080424
+pg:A0350NotesDue2030Domain
+2022-07-01
+2023-06-30
+0000080424
+pg:A0230NotesDue2031Domain
+2022-07-01
+2023-06-30
+0000080424
+pg:A3250EURNotesDue2031Domain
+2022-07-01
+2023-06-30
+0000080424
+pg:A5250GBPNotesDueJanuary2033Domain
+2022-07-01
+2023-06-30
+0000080424
+pg:A1875NotesDue2038Domain
+2022-07-01
+2023-06-30
+0000080424
+pg:A0900NotesDue2041Domain
+2022-07-01
+2023-06-30
+0000080424
+2022-12-31
+iso4217:USD
+0000080424
+2023-07-31
+xbrli:shares
+0000080424
+2021-07-01
+2022-06-30
+0000080424
+2020-07-01
+2021-06-30
+iso4217:USD
+xbrli:shares
+0000080424
+2023-06-30
+0000080424
+2022-06-30
+0000080424
+us-gaap:PreferredClassAMember
+2022-06-30
+0000080424
+us-gaap:PreferredClassAMember
+2023-06-30
+0000080424
+us-gaap:PreferredClassBMember
+2022-06-30
+0000080424
+us-gaap:PreferredClassBMember
+2023-06-30
+0000080424
+us-gaap:CommonStockMember
+2020-06-30
+0000080424
+us-gaap:PreferredStockMember
+2020-06-30
+0000080424
+us-gaap:AdditionalPaidInCapitalMember
+2020-06-30
+0000080424
+pg:ReserveforESOPDebtRetirementMember
+2020-06-30
+0000080424
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2020-06-30
+0000080424
+us-gaap:TreasuryStockMember
+2020-06-30
+0000080424
+us-gaap:RetainedEarningsMember
+2020-06-30
+0000080424
+us-gaap:NoncontrollingInterestMember
+2020-06-30
+0000080424
+2020-06-30
+0000080424
+us-gaap:RetainedEarningsMember
+2020-07-01
+2021-06-30
+0000080424
+us-gaap:NoncontrollingInterestMember
+2020-07-01
+2021-06-30
+0000080424
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2020-07-01
+2021-06-30
+0000080424
+us-gaap:CommonStockMember
+2020-07-01
+2021-06-30
+0000080424
+us-gaap:TreasuryStockMember
+2020-07-01
+2021-06-30
+0000080424
+us-gaap:AdditionalPaidInCapitalMember
+2020-07-01
+2021-06-30
+0000080424
+us-gaap:PreferredStockMember
+2020-07-01
+2021-06-30
+0000080424
+pg:ReserveforESOPDebtRetirementMember
+2020-07-01
+2021-06-30
+0000080424
+us-gaap:CommonStockMember
+2021-06-30
+0000080424
+us-gaap:PreferredStockMember
+2021-06-30
+0000080424
+us-gaap:AdditionalPaidInCapitalMember
+2021-06-30
+0000080424
+pg:ReserveforESOPDebtRetirementMember
+2021-06-30
+0000080424
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2021-06-30
+0000080424
+us-gaap:TreasuryStockMember
+2021-06-30
+0000080424
+us-gaap:RetainedEarningsMember
+2021-06-30
+0000080424
+us-gaap:NoncontrollingInterestMember
+2021-06-30
+0000080424
+2021-06-30
+0000080424
+us-gaap:RetainedEarningsMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:NoncontrollingInterestMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:CommonStockMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:TreasuryStockMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:AdditionalPaidInCapitalMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:PreferredStockMember
+2021-07-01
+2022-06-30
+0000080424
+pg:ReserveforESOPDebtRetirementMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:CommonStockMember
+2022-06-30
+0000080424
+us-gaap:PreferredStockMember
+2022-06-30
+0000080424
+us-gaap:AdditionalPaidInCapitalMember
+2022-06-30
+0000080424
+pg:ReserveforESOPDebtRetirementMember
+2022-06-30
+0000080424
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-06-30
+0000080424
+us-gaap:TreasuryStockMember
+2022-06-30
+0000080424
+us-gaap:RetainedEarningsMember
+2022-06-30
+0000080424
+us-gaap:NoncontrollingInterestMember
+2022-06-30
+0000080424
+us-gaap:RetainedEarningsMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:NoncontrollingInterestMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:CommonStockMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:TreasuryStockMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:AdditionalPaidInCapitalMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:PreferredStockMember
+2022-07-01
+2023-06-30
+0000080424
+pg:ReserveforESOPDebtRetirementMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:CommonStockMember
+2023-06-30
+0000080424
+us-gaap:PreferredStockMember
+2023-06-30
+0000080424
+us-gaap:AdditionalPaidInCapitalMember
+2023-06-30
+0000080424
+pg:ReserveforESOPDebtRetirementMember
+2023-06-30
+0000080424
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-06-30
+0000080424
+us-gaap:TreasuryStockMember
+2023-06-30
+0000080424
+us-gaap:RetainedEarningsMember
+2023-06-30
+0000080424
+us-gaap:NoncontrollingInterestMember
+2023-06-30
+pg:countries
+0000080424
+us-gaap:FurnitureAndFixturesMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:ComputerEquipmentMember
+srt:MinimumMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:ComputerEquipmentMember
+srt:MaximumMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:MachineryAndEquipmentMember
+srt:MinimumMember
+2022-07-01
+2023-06-30
+0000080424
+srt:MaximumMember
+us-gaap:MachineryAndEquipmentMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:BuildingMember
+2022-07-01
+2023-06-30
+0000080424
+pg:CustomerRelationshipsBrandsandOtherNonContractualIntangibleAssetsMember
+srt:MinimumMember
+2022-07-01
+2023-06-30
+0000080424
+srt:MaximumMember
+pg:CustomerRelationshipsBrandsandOtherNonContractualIntangibleAssetsMember
+2022-07-01
+2023-06-30
+pg:segment
+0000080424
+pg:FabricCareMember
+2022-07-01
+2023-06-30
+xbrli:pure
+0000080424
+pg:FabricCareMember
+2021-07-01
+2022-06-30
+0000080424
+pg:FabricCareMember
+2020-07-01
+2021-06-30
+0000080424
+pg:HomeCareMember
+2022-07-01
+2023-06-30
+0000080424
+pg:HomeCareMember
+2021-07-01
+2022-06-30
+0000080424
+pg:HomeCareMember
+2020-07-01
+2021-06-30
+0000080424
+pg:BabyCareMember
+2022-07-01
+2023-06-30
+0000080424
+pg:BabyCareMember
+2021-07-01
+2022-06-30
+0000080424
+pg:BabyCareMember
+2020-07-01
+2021-06-30
+0000080424
+pg:SkinandPersonalCareMember
+2022-07-01
+2023-06-30
+0000080424
+pg:SkinandPersonalCareMember
+2021-07-01
+2022-06-30
+0000080424
+pg:SkinandPersonalCareMember
+2020-07-01
+2021-06-30
+0000080424
+pg:HairCareMember
+2022-07-01
+2023-06-30
+0000080424
+pg:HairCareMember
+2021-07-01
+2022-06-30
+0000080424
+pg:HairCareMember
+2020-07-01
+2021-06-30
+0000080424
+pg:FamilyCareMember
+2022-07-01
+2023-06-30
+0000080424
+pg:FamilyCareMember
+2021-07-01
+2022-06-30
+0000080424
+pg:FamilyCareMember
+2020-07-01
+2021-06-30
+0000080424
+pg:GroomingMember
+2022-07-01
+2023-06-30
+0000080424
+pg:GroomingMember
+2021-07-01
+2022-06-30
+0000080424
+pg:GroomingMember
+2020-07-01
+2021-06-30
+0000080424
+pg:OralCareMember
+2022-07-01
+2023-06-30
+0000080424
+pg:OralCareMember
+2021-07-01
+2022-06-30
+0000080424
+pg:OralCareMember
+2020-07-01
+2021-06-30
+0000080424
+pg:FeminineCareMember
+2022-07-01
+2023-06-30
+0000080424
+pg:FeminineCareMember
+2021-07-01
+2022-06-30
+0000080424
+pg:FeminineCareMember
+2020-07-01
+2021-06-30
+0000080424
+pg:PersonalHealthCareMember
+2022-07-01
+2023-06-30
+0000080424
+pg:PersonalHealthCareMember
+2021-07-01
+2022-06-30
+0000080424
+pg:PersonalHealthCareMember
+2020-07-01
+2021-06-30
+0000080424
+pg:AllOtherMember
+2022-07-01
+2023-06-30
+0000080424
+pg:AllOtherMember
+2021-07-01
+2022-06-30
+0000080424
+pg:AllOtherMember
+2020-07-01
+2021-06-30
+0000080424
+country:US
+2022-07-01
+2023-06-30
+0000080424
+country:US
+2021-07-01
+2022-06-30
+0000080424
+country:US
+2020-07-01
+2021-06-30
+0000080424
+us-gaap:NonUsMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:NonUsMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:NonUsMember
+2020-07-01
+2021-06-30
+0000080424
+country:US
+2023-06-30
+0000080424
+country:US
+2022-06-30
+0000080424
+country:US
+2021-06-30
+0000080424
+us-gaap:NonUsMember
+2023-06-30
+0000080424
+us-gaap:NonUsMember
+2022-06-30
+0000080424
+us-gaap:NonUsMember
+2021-06-30
+0000080424
+pg:WalMartStoresIncAndAffiliatesMember
+2022-07-01
+2023-06-30
+0000080424
+pg:WalMartStoresIncAndAffiliatesMember
+2021-07-01
+2022-06-30
+0000080424
+pg:WalMartStoresIncAndAffiliatesMember
+2020-07-01
+2021-06-30
+0000080424
+pg:BeautySegmentMember
+2022-07-01
+2023-06-30
+0000080424
+pg:BeautySegmentMember
+2023-06-30
+0000080424
+pg:BeautySegmentMember
+2021-07-01
+2022-06-30
+0000080424
+pg:BeautySegmentMember
+2022-06-30
+0000080424
+pg:BeautySegmentMember
+2020-07-01
+2021-06-30
+0000080424
+pg:BeautySegmentMember
+2021-06-30
+0000080424
+pg:GroomingMember
+2022-07-01
+2023-06-30
+0000080424
+pg:GroomingMember
+2023-06-30
+0000080424
+pg:GroomingMember
+2021-07-01
+2022-06-30
+0000080424
+pg:GroomingMember
+2022-06-30
+0000080424
+pg:GroomingMember
+2020-07-01
+2021-06-30
+0000080424
+pg:GroomingMember
+2021-06-30
+0000080424
+pg:HealthCareSegMember
+2022-07-01
+2023-06-30
+0000080424
+pg:HealthCareSegMember
+2023-06-30
+0000080424
+pg:HealthCareSegMember
+2021-07-01
+2022-06-30
+0000080424
+pg:HealthCareSegMember
+2022-06-30
+0000080424
+pg:HealthCareSegMember
+2020-07-01
+2021-06-30
+0000080424
+pg:HealthCareSegMember
+2021-06-30
+0000080424
+pg:FabricHomeCareMember
+2022-07-01
+2023-06-30
+0000080424
+pg:FabricHomeCareMember
+2023-06-30
+0000080424
+pg:FabricHomeCareMember
+2021-07-01
+2022-06-30
+0000080424
+pg:FabricHomeCareMember
+2022-06-30
+0000080424
+pg:FabricHomeCareMember
+2020-07-01
+2021-06-30
+0000080424
+pg:FabricHomeCareMember
+2021-06-30
+0000080424
+pg:BabyFeminineFamilyCareMember
+2022-07-01
+2023-06-30
+0000080424
+pg:BabyFeminineFamilyCareMember
+2023-06-30
+0000080424
+pg:BabyFeminineFamilyCareMember
+2021-07-01
+2022-06-30
+0000080424
+pg:BabyFeminineFamilyCareMember
+2022-06-30
+0000080424
+pg:BabyFeminineFamilyCareMember
+2020-07-01
+2021-06-30
+0000080424
+pg:BabyFeminineFamilyCareMember
+2021-06-30
+0000080424
+us-gaap:CorporateMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:CorporateMember
+2023-06-30
+0000080424
+us-gaap:CorporateMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:CorporateMember
+2022-06-30
+0000080424
+us-gaap:CorporateMember
+2020-07-01
+2021-06-30
+0000080424
+us-gaap:CorporateMember
+2021-06-30
+0000080424
+us-gaap:BuildingMember
+2023-06-30
+0000080424
+us-gaap:BuildingMember
+2022-06-30
+0000080424
+us-gaap:MachineryAndEquipmentMember
+2023-06-30
+0000080424
+us-gaap:MachineryAndEquipmentMember
+2022-06-30
+0000080424
+us-gaap:LandMember
+2023-06-30
+0000080424
+us-gaap:LandMember
+2022-06-30
+0000080424
+us-gaap:ConstructionInProgressMember
+2023-06-30
+0000080424
+us-gaap:ConstructionInProgressMember
+2022-06-30
+0000080424
+us-gaap:OtherCurrentLiabilitiesMember
+2023-06-30
+0000080424
+us-gaap:OtherCurrentLiabilitiesMember
+2022-06-30
+0000080424
+srt:MinimumMember
+2023-06-30
+0000080424
+srt:MaximumMember
+2023-06-30
+0000080424
+us-gaap:CostOfSalesMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:OtherNonoperatingIncomeExpenseMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:CostOfSalesMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:SellingGeneralAndAdministrativeExpensesMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:OtherNonoperatingIncomeExpenseMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:EmployeeSeveranceMember
+2021-06-30
+0000080424
+us-gaap:FacilityClosingMember
+2021-06-30
+0000080424
+us-gaap:OtherRestructuringMember
+2021-06-30
+0000080424
+us-gaap:EmployeeSeveranceMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:FacilityClosingMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:OtherRestructuringMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:EmployeeSeveranceMember
+2022-06-30
+0000080424
+us-gaap:FacilityClosingMember
+2022-06-30
+0000080424
+us-gaap:OtherRestructuringMember
+2022-06-30
+0000080424
+us-gaap:EmployeeSeveranceMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:FacilityClosingMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:OtherRestructuringMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:EmployeeSeveranceMember
+2023-06-30
+0000080424
+us-gaap:FacilityClosingMember
+2023-06-30
+0000080424
+us-gaap:OtherRestructuringMember
+2023-06-30
+0000080424
+pg:GroomingSegmentMember
+2022-07-01
+2023-06-30
+0000080424
+pg:GroomingSegmentMember
+2021-07-01
+2022-06-30
+0000080424
+pg:GroomingSegmentMember
+2020-07-01
+2021-06-30
+0000080424
+pg:FabricCareAndHomeCareSegmentMember
+2022-07-01
+2023-06-30
+0000080424
+pg:FabricCareAndHomeCareSegmentMember
+2021-07-01
+2022-06-30
+0000080424
+pg:FabricCareAndHomeCareSegmentMember
+2020-07-01
+2021-06-30
+0000080424
+pg:BabyFeminineandFamilyCareSegmentMember
+2022-07-01
+2023-06-30
+0000080424
+pg:BabyFeminineandFamilyCareSegmentMember
+2021-07-01
+2022-06-30
+0000080424
+pg:BabyFeminineandFamilyCareSegmentMember
+2020-07-01
+2021-06-30
+0000080424
+pg:GroomingSegmentMember
+2021-06-30
+0000080424
+pg:FabricCareAndHomeCareSegmentMember
+2021-06-30
+0000080424
+pg:BabyFeminineandFamilyCareSegmentMember
+2021-06-30
+0000080424
+pg:GroomingSegmentMember
+2022-06-30
+0000080424
+pg:FabricCareAndHomeCareSegmentMember
+2022-06-30
+0000080424
+pg:BabyFeminineandFamilyCareSegmentMember
+2022-06-30
+0000080424
+pg:GroomingSegmentMember
+2023-06-30
+0000080424
+pg:FabricCareAndHomeCareSegmentMember
+2023-06-30
+0000080424
+pg:BabyFeminineandFamilyCareSegmentMember
+2023-06-30
+0000080424
+us-gaap:TradeNamesMember
+2023-06-30
+0000080424
+us-gaap:TradeNamesMember
+2022-06-30
+0000080424
+pg:PatentsandDevelopedTechnologyMember
+2023-06-30
+0000080424
+pg:PatentsandDevelopedTechnologyMember
+2022-06-30
+0000080424
+us-gaap:CustomerRelationshipsMember
+2023-06-30
+0000080424
+us-gaap:CustomerRelationshipsMember
+2022-06-30
+0000080424
+us-gaap:OtherIntangibleAssetsMember
+2023-06-30
+0000080424
+us-gaap:OtherIntangibleAssetsMember
+2022-06-30
+0000080424
+us-gaap:TradeNamesMember
+2023-06-30
+0000080424
+us-gaap:TradeNamesMember
+2022-06-30
+0000080424
+srt:MinimumMember
+2022-07-01
+2023-06-30
+pg:audit
+0000080424
+srt:MaximumMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:SubsequentEventMember
+2023-07-01
+2024-06-30
+0000080424
+pg:NetOperatingLossExpiringWithin20YearsMember
+srt:MinimumMember
+2023-06-30
+0000080424
+srt:MaximumMember
+pg:NetOperatingLossIndefiniteLifeMember
+2023-06-30
+0000080424
+us-gaap:EmployeeStockOptionMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:EmployeeStockOptionMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:EmployeeStockOptionMember
+2020-07-01
+2021-06-30
+0000080424
+pg:ContinuingandDiscontinuedOperationsMember
+2022-07-01
+2023-06-30
+0000080424
+pg:ContinuingandDiscontinuedOperationsMember
+2021-07-01
+2022-06-30
+0000080424
+pg:ContinuingandDiscontinuedOperationsMember
+2020-07-01
+2021-06-30
+0000080424
+us-gaap:EmployeeStockOptionMember
+2023-06-30
+0000080424
+us-gaap:EmployeeStockOptionMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:RestrictedStockUnitsRSUMember
+2022-06-30
+0000080424
+us-gaap:PerformanceSharesMember
+2022-06-30
+0000080424
+us-gaap:RestrictedStockUnitsRSUMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:PerformanceSharesMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:RestrictedStockUnitsRSUMember
+2023-06-30
+0000080424
+us-gaap:PerformanceSharesMember
+2023-06-30
+0000080424
+pg:RestrictedStockRsusAndPsusMember
+2023-06-30
+0000080424
+pg:RestrictedStockRsusAndPsusMember
+2022-07-01
+2023-06-30
+0000080424
+country:US
+country:US
+2022-07-01
+2023-06-30
+0000080424
+country:US
+country:US
+2021-07-01
+2022-06-30
+0000080424
+country:US
+country:US
+2020-07-01
+2021-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+2022-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+2021-06-30
+0000080424
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2022-06-30
+0000080424
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2021-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+2023-06-30
+0000080424
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2023-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+2020-07-01
+2021-06-30
+0000080424
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2020-07-01
+2021-06-30
+0000080424
+us-gaap:EquitySecuritiesMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:BondsMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:CashAndCashEquivalentsMember
+us-gaap:PensionPlansDefinedBenefitMember
+2023-06-30
+0000080424
+us-gaap:CashAndCashEquivalentsMember
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2023-06-30
+0000080424
+us-gaap:CashAndCashEquivalentsMember
+us-gaap:PensionPlansDefinedBenefitMember
+2022-06-30
+0000080424
+us-gaap:CashAndCashEquivalentsMember
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2022-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:DebtSecuritiesMember
+2023-06-30
+0000080424
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+us-gaap:DebtSecuritiesMember
+2023-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:DebtSecuritiesMember
+2022-06-30
+0000080424
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+us-gaap:DebtSecuritiesMember
+2022-06-30
+0000080424
+us-gaap:EquitySecuritiesMember
+us-gaap:PensionPlansDefinedBenefitMember
+2023-06-30
+0000080424
+us-gaap:EquitySecuritiesMember
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2023-06-30
+0000080424
+us-gaap:EquitySecuritiesMember
+us-gaap:PensionPlansDefinedBenefitMember
+2022-06-30
+0000080424
+us-gaap:EquitySecuritiesMember
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2022-06-30
+0000080424
+us-gaap:CashAndCashEquivalentsMember
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:FairValueInputsLevel1Member
+2023-06-30
+0000080424
+us-gaap:CashAndCashEquivalentsMember
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:FairValueInputsLevel1Member
+2022-06-30
+0000080424
+us-gaap:CashAndCashEquivalentsMember
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+us-gaap:FairValueInputsLevel1Member
+2023-06-30
+0000080424
+us-gaap:CashAndCashEquivalentsMember
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+us-gaap:FairValueInputsLevel1Member
+2022-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+pg:CompanyStockMember
+us-gaap:FairValueInputsLevel1Member
+2023-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+pg:CompanyStockMember
+us-gaap:FairValueInputsLevel1Member
+2022-06-30
+0000080424
+pg:CompanyStockMember
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+us-gaap:FairValueInputsLevel1Member
+2023-06-30
+0000080424
+pg:CompanyStockMember
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+us-gaap:FairValueInputsLevel1Member
+2022-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+pg:CompanyPreferredStockMember
+us-gaap:FairValueInputsLevel2Member
+2023-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+pg:CompanyPreferredStockMember
+us-gaap:FairValueInputsLevel2Member
+2022-06-30
+0000080424
+pg:CompanyPreferredStockMember
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+us-gaap:FairValueInputsLevel2Member
+2023-06-30
+0000080424
+pg:CompanyPreferredStockMember
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+us-gaap:FairValueInputsLevel2Member
+2022-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FixedIncomeSecuritiesMember
+2023-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FixedIncomeSecuritiesMember
+2022-06-30
+0000080424
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FixedIncomeSecuritiesMember
+2023-06-30
+0000080424
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FixedIncomeSecuritiesMember
+2022-06-30
+0000080424
+pg:InsuranceContractsDomain
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:FairValueInputsLevel3Member
+2023-06-30
+0000080424
+pg:InsuranceContractsDomain
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:FairValueInputsLevel3Member
+2022-06-30
+0000080424
+pg:InsuranceContractsDomain
+us-gaap:FairValueInputsLevel3Member
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2023-06-30
+0000080424
+pg:InsuranceContractsDomain
+us-gaap:FairValueInputsLevel3Member
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2022-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:FairValueInputsLevel12And3Member
+2023-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:FairValueInputsLevel12And3Member
+2022-06-30
+0000080424
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+us-gaap:FairValueInputsLevel12And3Member
+2023-06-30
+0000080424
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+us-gaap:FairValueInputsLevel12And3Member
+2022-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:OtherAssets
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+2023-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:OtherAssets
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+2022-06-30
+0000080424
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+us-gaap:OtherAssets
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+2023-06-30
+0000080424
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+us-gaap:OtherAssets
+us-gaap:FairValueMeasuredAtNetAssetValuePerShareMember
+2022-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:SubsequentEventMember
+2024-06-30
+0000080424
+us-gaap:SubsequentEventMember
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2024-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:SeriesAPreferredStockMember
+1989-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:SeriesAPreferredStockMember
+2023-06-30
+0000080424
+us-gaap:PensionPlansDefinedBenefitMember
+us-gaap:SeriesAPreferredStockMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:SeriesBPreferredStockMember
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+1991-06-30
+0000080424
+us-gaap:SeriesBPreferredStockMember
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2023-06-30
+0000080424
+us-gaap:SeriesBPreferredStockMember
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:SeriesAPreferredStockMember
+2023-06-30
+0000080424
+us-gaap:SeriesAPreferredStockMember
+2022-06-30
+0000080424
+us-gaap:SeriesAPreferredStockMember
+2021-06-30
+0000080424
+us-gaap:SeriesBPreferredStockMember
+2023-06-30
+0000080424
+us-gaap:SeriesBPreferredStockMember
+2022-06-30
+0000080424
+us-gaap:SeriesBPreferredStockMember
+2021-06-30
+0000080424
+us-gaap:InterestRateContractMember
+us-gaap:FairValueHedgingMember
+2023-06-30
+0000080424
+us-gaap:InterestRateContractMember
+us-gaap:FairValueHedgingMember
+2022-06-30
+0000080424
+us-gaap:NetInvestmentHedgingMember
+us-gaap:ForeignExchangeContractMember
+2023-06-30
+0000080424
+us-gaap:NetInvestmentHedgingMember
+us-gaap:ForeignExchangeContractMember
+2022-06-30
+0000080424
+us-gaap:DesignatedAsHedgingInstrumentMember
+2023-06-30
+0000080424
+us-gaap:DesignatedAsHedgingInstrumentMember
+2022-06-30
+0000080424
+us-gaap:NondesignatedMember
+us-gaap:ForeignExchangeContractMember
+2023-06-30
+0000080424
+us-gaap:NondesignatedMember
+us-gaap:ForeignExchangeContractMember
+2022-06-30
+0000080424
+us-gaap:UnderlyingOtherMember
+us-gaap:FairValueHedgingMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:UnderlyingOtherMember
+us-gaap:FairValueHedgingMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:UnderlyingOtherMember
+us-gaap:NetInvestmentHedgingMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:UnderlyingOtherMember
+us-gaap:NetInvestmentHedgingMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:InterestRateContractMember
+us-gaap:FairValueHedgingMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:InterestRateContractMember
+us-gaap:FairValueHedgingMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:NondesignatedMember
+us-gaap:ForeignExchangeContractMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:NondesignatedMember
+us-gaap:ForeignExchangeContractMember
+2021-07-01
+2022-06-30
+0000080424
+pg:A3.10USDnotedueAugust2023Member
+2023-06-30
+0000080424
+pg:A3.10USDnotedueAugust2023Member
+2022-06-30
+0000080424
+pg:A1.13EURnotedueNovember2023Member
+2023-06-30
+0000080424
+pg:A1.13EURnotedueNovember2023Member
+2022-06-30
+0000080424
+pg:A0.50EURnotedueOctober2024Member
+2023-06-30
+0000080424
+pg:A0.50EURnotedueOctober2024Member
+2022-06-30
+0000080424
+pg:A063EURNoteDueOctober2024Member
+2023-06-30
+0000080424
+pg:A063EURNoteDueOctober2024Member
+2022-06-30
+0000080424
+pg:A055USDNoteDueOctober2025Member
+2023-06-30
+0000080424
+pg:A055USDNoteDueOctober2025Member
+2022-06-30
+0000080424
+pg:A410USDNoteDueJanuary2026Member
+2023-06-30
+0000080424
+pg:A410USDNoteDueJanuary2026Member
+2022-06-30
+0000080424
+pg:A270USDNoteDueFebruary2026Member
+2023-06-30
+0000080424
+pg:A270USDNoteDueFebruary2026Member
+2022-06-30
+0000080424
+pg:A100USDNoteDueApril2026Member
+2023-06-30
+0000080424
+pg:A100USDNoteDueApril2026Member
+2022-06-30
+0000080424
+pg:A325EURNoteDueAugust2026Member
+2023-06-30
+0000080424
+pg:A325EURNoteDueAugust2026Member
+2022-06-30
+0000080424
+pg:A2.45USDnotedueNovember2026Member
+2023-06-30
+0000080424
+pg:A2.45USDnotedueNovember2026Member
+2022-06-30
+0000080424
+pg:A190USDNoteDueFebruary2027Member
+2023-06-30
+0000080424
+pg:A190USDNoteDueFebruary2027Member
+2022-06-30
+0000080424
+pg:A280USDNoteDueMarch2027Member
+2023-06-30
+0000080424
+pg:A280USDNoteDueMarch2027Member
+2022-06-30
+0000080424
+pg:A4.88EURnotedueMay2027Member
+2023-06-30
+0000080424
+pg:A4.88EURnotedueMay2027Member
+2022-06-30
+0000080424
+pg:A2.85USDnotedueAugust2027Member
+2023-06-30
+0000080424
+pg:A2.85USDnotedueAugust2027Member
+2022-06-30
+0000080424
+pg:A395USDNoteDueJanuary2028Member
+2023-06-30
+0000080424
+pg:A395USDNoteDueJanuary2028Member
+2022-06-30
+0000080424
+pg:A1.20EURnotedueOctober2028Member
+2023-06-30
+0000080424
+pg:A1.20EURnotedueOctober2028Member
+2022-06-30
+0000080424
+pg:A1.25EURnotedueOctober2029Member
+2023-06-30
+0000080424
+pg:A1.25EURnotedueOctober2029Member
+2022-06-30
+0000080424
+pg:A300USDNoteDueMarch2030Member
+2023-06-30
+0000080424
+pg:A300USDNoteDueMarch2030Member
+2022-06-30
+0000080424
+pg:A035EURNoteDueMay2030Member
+2023-06-30
+0000080424
+pg:A035EURNoteDueMay2030Member
+2022-06-30
+0000080424
+pg:A120USDNoteDueOctober2030Member
+2023-06-30
+0000080424
+pg:A120USDNoteDueOctober2030Member
+2022-06-30
+0000080424
+pg:A195USDNoteDueApril2031Member
+2023-06-30
+0000080424
+pg:A195USDNoteDueApril2031Member
+2022-06-30
+0000080424
+pg:A325EURNoteDueAugust2031Member
+2023-06-30
+0000080424
+pg:A325EURNoteDueAugust2031Member
+2022-06-30
+0000080424
+pg:A230USDNoteDueFebruary2032Member
+2023-06-30
+0000080424
+pg:A230USDNoteDueFebruary2032Member
+2022-06-30
+0000080424
+pg:A405USDNoteDueJanuary2033Member
+2023-06-30
+0000080424
+pg:A405USDNoteDueJanuary2033Member
+2022-06-30
+0000080424
+pg:A5.55USDnotedueMarch2037Member
+2023-06-30
+0000080424
+pg:A5.55USDnotedueMarch2037Member
+2022-06-30
+0000080424
+pg:A1.88EURnotedueOctober2038Member
+2023-06-30
+0000080424
+pg:A1.88EURnotedueOctober2038Member
+2022-06-30
+0000080424
+pg:A355USDNoteDueMarch2040Member
+2023-06-30
+0000080424
+pg:A355USDNoteDueMarch2040Member
+2022-06-30
+0000080424
+pg:A090EURNoteDueNovember2041Member
+2023-06-30
+0000080424
+pg:A090EURNoteDueNovember2041Member
+2022-06-30
+0000080424
+us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2021-06-30
+0000080424
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2021-06-30
+0000080424
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2021-06-30
+0000080424
+us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2022-06-30
+0000080424
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2022-06-30
+0000080424
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2022-06-30
+0000080424
+us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2022-07-01
+2023-06-30
+0000080424
+us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2023-06-30
+0000080424
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetGainLossIncludingPortionAttributableToNoncontrollingInterestMember
+2023-06-30
+0000080424
+us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember
+2023-06-30
+0000080424
+us-gaap:AccumulatedOtherComprehensiveIncomeLossDerivativeQualifyingAsHedgeExcludedComponentIncludingPortionAttributableToNoncontrollingInterestMember
+2021-07-01
+2022-06-30
+0000080424
+us-gaap:AccumulatedOtherComprehensiveIncomeLossDerivativeQualifyingAsHedgeExcludedComponentIncludingPortionAttributableToNoncontrollingInterestMember
+2022-07-01
+2023-06-30
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+Form
+10-K
+(Mark one)
+[x]    ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+TRUE
+For the Fiscal Year Ended
+June 30, 2023
+OR
+[ ]    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+False
+For the transition period from
+                   
+ to
+                   
+ 
+Commission File No.
+1-434
+Cincinnati
+THE
+PROCTER & GAMBLE CO
+MPANY
+OH
+One Procter & Gamble Plaza
+One Procter & Gamble Plaza, Cincinnati, Ohio 45202
+45202
+513
+Telephone (513) 983-1100
+983-1100
+IRS Employer Identification No. 31-0411980
+31-0411980
+State of Incorporation: Ohio
+OH
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Common Stock, without Par Value
+PG
+New York Stock Exchange
+1.125% Notes due 2023
+PG23A
+New York Stock Exchange
+0.500% Notes due 2024
+PG24A
+New York Stock Exchange
+0.625% Notes due 2024
+PG24B
+New York Stock Exchange
+1.375% Notes due 2025
+PG25
+New York Stock Exchange
+0.110% Notes due 2026
+PG26D
+New York Stock Exchange
+3.250% EUR Notes due 2026
+PG26E
+New York Stock Exchange
+4.875% EUR Notes due May 2027
+PG27A
+New York Stock Exchange
+1.200% Notes due 2028
+PG28
+New York Stock Exchange
+1.250% Notes due 2029
+PG29B
+New York Stock Exchange
+1.800% Notes due 2029
+PG29A
+New York Stock Exchange
+6.250% GBP Notes due January 2030
+PG30
+New York Stock Exchange
+0.350% Notes due 2030
+PG30C
+New York Stock Exchange
+0.230% Notes due 2031
+PG31A
+New York Stock Exchange
+3.250% EUR Notes due 2031
+PG31B
+New York Stock Exchange
+5.250% GBP Notes due January 2033
+PG33
+New York Stock Exchange
+1.875% Notes due 2038
+PG38
+New York Stock Exchange
+0.900% Notes due 2041
+PG41
+New York Stock Exchange
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+Yes
+
+þ
+ No
+o
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. Yes
+o
+
+No
+
+þ
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+
+þ
+ No
+o
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).
+Yes
+
+þ
+ No
+o
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filed," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+þ
+Accelerated filer
+¨
+Emerging growth company
+¨
+Non-accelerated filer
+¨
+Smaller reporting company
+¨
+FALSE
+FALSE
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.    Yes
+þ
+No
+o
+TRUE
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements.
+¨
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b).
+¨
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+o
+No
+þ
+False
+The aggregate market value of the voting stock held by non-affiliates amounted to $
+357
+ billion on December 31, 2022.
+There were
+2,357,306,187
+ shares of Common Stock outstanding as of July 31, 2023.
+
+Documents Incorporated by Reference
+Portions of the Proxy Statement for the 2023 Annual Meeting of Shareholders, which will be filed within one hundred and twenty days of the fiscal year ended June 30, 2023 (2023 Proxy Statement), are incorporated by reference into Part III of this report to the extent described herein.
+FORM 10-K TABLE OF CONTENTS
+Page
+PART I
+Item 1.
+Business
+1
+Item 1A.
+Risk Factors
+3
+Item 1B.
+Unresolved Staff Comments
+9
+Item 2.
+Properties
+9
+Item 3.
+Legal Proceedings
+9
+Item 4.
+Mine Safety Disclosure
+9
+Information about our Executive Officers
+10
+PART II
+Item 5.
+Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+11
+Item 6.
+Intentionally Omitted
+12
+Item 7.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+12
+Item 7A.
+Quantitative and Qualitative Disclosures about Market Risk
+30
+Item 8.
+Financial Statements and Supplementary Data
+31
+Management's Report and Reports of Independent Registered Public Accounting Firm
+
+31
+Consolidated Statements of Earnings
+35
+Consolidated Statements of Comprehensive Income
+35
+Consolidated Balance Sheets
+36
+Consolidated Statements of Shareholders' Equity
+37
+Consolidated Statements of Cash Flows
+38
+Notes to Consolidated Financial Statements
+39
+Note 1: Summary of Significant Accounting Policies
+39
+Note 2: Segment Information
+41
+Note 3: Supplemental Financial Information
+44
+Note 4: Goodwill and Intangible Assets
+45
+Note 5: Income Taxes
+46
+Note 6: Earnings Per Share
+48
+Note 7: S
+hare
+-based Compensation
+49
+Note 8: Postretirement Benefits and Employee Stock Ownership Plan
+51
+Note 9: Risk Management Activities and Fair Value Measurements
+56
+Note 10: Short-term and Long-term Debt
+59
+Note 11: Accumulated Other Comprehensive Income/(Loss)
+60
+Note 12: Leases
+60
+Note 13: Commitments and Contingencies
+61
+Item 9.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+62
+Item 9A.
+Controls and Procedures
+62
+Item 9B.
+Other Information
+62
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+62
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+63
+Item 11.
+Executive Compensation
+63
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+63
+Item 13.
+Certain Relationships and Related Transactions and Director Independence
+63
+Item 14.
+Principal Accountant Fees and Services
+63
+PART IV
+Item 15.
+Exhibits and Financial Statement Schedules
+64
+Item 16.
+Form 10-K Summary
+66
+Signatures
+67
+The Procter & Gamble Company 1
+PART I
+Item 1.
+Business.
+The Procter & Gamble Company (the Company) is focused on providing branded products of superior quality and value to improve the lives of the world's consumers, now and for generations to come. The Company was incorporated in Ohio in 1905, having first been established as a New Jersey corporation in 1890, and was built from a business founded in Cincinnati in 1837 by William Procter and James Gamble.
+Additional information required by this item is incorporated herein by reference to Management's Discussion and Analysis (MD&A); and Notes 1 and 2 to our Consolidated Financial Statements. Unless the context indicates otherwise, the terms "Company," "P&G," "we," "our" or "us" as used herein refer to The Procter & Gamble Company (the registrant) and its subsidiaries. Throughout this Form 10-K, we incorporate by reference information from other documents filed with the Securities and Exchange Commission (SEC).
+The Company's Annual Report on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K, and amendments thereto, are filed electronically with the SEC. The SEC maintains an internet site that contains these reports at: www.sec.gov. Reports can also be accessed through links from our website at: www.pginvestor.com. P&G includes the website link solely as a textual reference and the information on our website is not incorporated by reference into this report.
+Copies of these reports are also available, without charge, by contacting EQ Shareowner Services, 1100 Centre Pointe Curve, Suite 101, Mendota, MN 55120-4100.
+Financial Information about Segments
+Information about our reportable segments can be found in the MD&A and Note 2 to our Consolidated Financial Statements.
+Narrative Description of Business
+Business Model
+. Our business model is built to deliver balanced top- and bottom-line growth and value creation. We rely on the continued growth and success of existing brands and products, as well as the creation of new innovative products and brands. We offer products in markets and industry segments that are highly competitive. Our products are sold in approximately 180 countries and territories through numerous channels as well as direct-to-consumer. Our growth strategy is to deliver meaningful and noticeable superiority across five key vectors of our consumer proposition - product performance, packaging, brand communication, retail execution and consumer and customer value. We use our research and development (R&D) and consumer insights to provide superior products and packaging. We utilize our marketing and online presence to deliver superior brand messaging to our consumers. We partner with our customers to deliver superior retail execution, both in-store and online. In conjunction with the above vectors, we provide superior value to consumers and our retail customers in each price tier in which we compete. Productivity improvement is also critical to delivering our objectives of balanced top- and bottom-line growth and value creation.
+Key Product Categories
+. Information on key product categories can be found in the MD&A and Note 2 to our Consolidated Financial Statements.
+Key Customers
+. Our customers include mass merchandisers, e-commerce (including social commerce) channels, grocery stores, membership club stores, drug stores, department stores, distributors, wholesalers, specialty beauty stores (including airport duty-free stores), high-frequency stores, pharmacies, electronics stores and professional channels. We also sell direct to consumers. Sales to Walmart Inc. and its affiliates represent approximately 15% of our total sales in 2023, 2022 and 2021. No other customer represents more than 10% of our total sales. Our top ten customers accounted for 40% of our total net sales in 2023 and 39% in 2022 and 2021.
+Sources and Availability of Materials
+. Almost all of the raw and packaging materials used by the Company are purchased from third parties, some of whom are single-source suppliers. We produce certain raw materials, primarily chemicals, for further use in the manufacturing process. In addition, fuel, natural gas and derivative products are important commodities consumed in our manufacturing processes and in the transportation of input materials and finished products. The prices we pay for materials and other commodities are subject to fluctuation. When prices for these items change, we may or may not pass the change to our customers. The Company purchases a substantial variety of other raw and packaging materials, none of which are material to our business taken as a whole.
+Trademarks and Patents
+. We own or have licenses under patents and registered trademarks, which are used in connection with our activity in all businesses. Some of these patents or licenses cover significant product formulation and processes used to manufacture our products. The trademarks are important to the overall marketing and branding of our products. All major trademarks in each business are registered. In part, our success can be attributed to the existence and continued protection of these trademarks, patents and licenses.
+Competitive Condition
+. The markets in which our products are sold are highly competitive. Our products compete against similar products from many large and small companies, including well-known global competitors. In many of the markets and industry segments in which we sell our products, we compete against other branded products as well as retailers' private-label brands. We are well positioned in the industry segments and markets in which we operate, often holding a leadership or significant market share position. We support our products with advertising, promotions and other marketing vehicles to build awareness and trial of our brands and products in conjunction with our sales force. We believe this combination provides the
+2 The Procter & Gamble Company
+most efficient method of marketing for these types of products. Product quality, performance, value and packaging are also important differentiating factors.
+Government Regulation
+. Our Company is subject to a wide variety of laws and regulations across the countries in which we do business. In the United States, many of our products and manufacturing operations are subject to one or more federal or state regulatory agencies, including the U.S. Food and Drug Administration (FDA), the Environmental Protection Agency (EPA), the Occupational Safety and Health Administration (OSHA), the Federal Trade Commission (FTC) and the Consumer Product Safety Commission (CPSC). We are also subject to anti-corruption laws and regulations, such as the U.S. Foreign Corrupt Practices Act, and antitrust and competition laws and regulations that govern our dealings with suppliers, customers, competitors and government officials.
+In addition, many foreign jurisdictions in which we do business have regulations and regulatory bodies that govern similar aspects of our operations and products, in some cases to an even more significant degree. We are also subject to expanding laws and regulations related to environmental protection and other sustainability-related matters, non-financial reporting and diligence, labor and employment, trade, taxation and data privacy and protection, including the European Union’s General Data Protection Regulation (GDPR) and similar regulations in states within the United States and in countries around the world.
+The Company has in place compliance programs and internal and external experts to help guide our business in complying with these and other existing laws and regulations that apply to us around the globe; and we have made, and plan to continue making, necessary expenditures for compliance with these laws and regulations. We also expect that our many suppliers, consultants and other third parties working on our behalf share our commitment to compliance, and we have policies and procedures in place to manage these relationships, though they inherently involve a lesser degree of control over operations and governance. We do not expect that the Company’s expenditures for compliance with current government regulations, including current environmental regulations, will have a material effect on our total capital expenditures, earnings or competitive position in fiscal year 2024 as compared to prior periods.
+Human Capital
+. Our employees are a key source of competitive advantage. Their actions, guided by our Purpose, Values and Principles (PVPs), are critical to the long-term success of our business. We aim to retain our talented employees by offering competitive compensation and benefits, strong career development and a respectful and inclusive culture that provides equal opportunity for all.
+Our Board of Directors, through the Compensation and Leadership Development Committee (C&LD Committee), provides oversight of the Company’s policies and strategy relating to talent including diversity, equality and inclusion as well as the Company’s compensation principles and practices. The C&LD Committee also evaluates and approves the Company’s compensation plans, policies and programs applicable to our senior executives.
+Employees
+As of June 30, 2023, the Company had approximately 107,000 employees, an increase of 1% versus the prior year due primarily to business growth. The total number of employees is an estimate of total Company employees excluding interns, co-ops, contractors and employees of joint ventures. 49% of our employees are in manufacturing roles and 27% of our employees are located in the United States. 41% of our global employees are women and 30% of our U.S. employees identify as multicultural.
+Training and Development
+We focus on attracting, developing and retaining skilled and diverse talent, both from universities and the broader market. We recruit from among the best universities across markets in which we compete and are generally able to select from the top talent. We focus on developing our employees by providing a variety of job experiences, training programs and skill development opportunities. Given our develop-from-within model for staffing most of our senior leadership positions, it is particularly important for us to ensure holistic growth and full engagement of our employees.
+Diversity, Equality and Inclusion
+As a consumer products company, we believe that it is important for our workforce to reflect the diversity of our consumers worldwide. We also seek to foster an inclusive work environment where each individual can bring their authentic self, which helps drive innovation and enables us to better serve our consumers. We aspire to achieve equal gender representation globally and at key management and leadership levels. Within the U.S. workforce, our aspiration is to achieve 40% multicultural representation overall as well as at management and leadership levels.
+Compensation and Benefits
+Market-competitive compensation and reward programs are critical elements of our employee value equation to attract and retain the best talent. Our total rewards programs are based on the principles of paying for performance, paying competitively versus peer companies that we compete with for talent in the marketplace and focusing on long-term success through a combination of short-term and long-term incentive programs. We also offer competitive benefit programs, including retirement plans and health insurance in line with local country practices with flexibility to accommodate the needs of a diverse workforce.
+Sustainability
+. Environmental sustainability is integrated into our business strategy to offer consumers irresistibly superior products that are more sustainable. Our aim is to deliver balanced top- and bottom-line growth, value creation and key sustainability objectives. In 2021, the Company announced a 2040 net zero ambition and published a Climate Transition Action
+The Procter & Gamble Company 3
+Plan, which describes the Company’s ongoing efforts toward reducing greenhouse gas emissions across scopes 1 and 2 and elements of scope 3. This includes a long-term objective of net zero emissions for scopes 1 and 2, elements of scope 3 and interim goals to help us pace our progress. The Company has also declared goals towards using renewable electricity for our operations, reducing use of virgin petroleum-based plastic in packaging, increasing the recyclability or reusability of packaging, responsible sourcing of key forest-based commodities, improving efficiency of water usage in our operations and driving a global portfolio of water restoration projects to address water scarcity.
+We use the standards and guidelines of the Global Reporting Initiative, Sustainability Accounting Standards Board (SASB) industry specific standards and the Task Force on Climate-related Financial Disclosures (TCFD) to inform our sustainability and related disclosures included in this Annual Report, our Proxy Statement and our sustainability reports. The “materiality” thresholds in those standards and guidelines may differ from the concept of “materiality” for purposes of the federal securities laws and disclosures required by the Commission’s rules in this Annual Report. References to our sustainability reports and website are for informational purposes only and neither the sustainability reports nor the other information on our website is incorporated by reference into this Annual Report on Form 10-K. Additional detailed information on our sustainability efforts can be found on our website at https://pginvestor.com/esg.
+Item 1A.
+Risk Factors.
+We discuss our expectations regarding future performance, events and outcomes, such as our business outlook and objectives in this Form 10-K, as well as in our quarterly and annual reports, current reports on Form 8-K, press releases and other written and oral communications. All statements, except for historical and present factual information, are “forward-looking statements” and are based on financial data and business plans available only as of the time the statements are made, which may become outdated or incomplete. We assume no obligation to update any forward-looking statements as a result of new information, future events or other factors, except to the extent required by law. Forward-looking statements are inherently uncertain, and investors must recognize that events could significantly differ from our expectations.
+The following discussion of “risk factors” identifies significant factors that may adversely affect our business, operations, financial position or future financial performance. This information should be read in conjunction with Management's Discussion and Analysis and the Consolidated Financial Statements and related Notes incorporated in this report. The following discussion of risks is not all inclusive but is designed to highlight what we believe are important factors to consider when evaluating our expectations. These and other factors could cause our future results to differ from those in the forward-looking statements and from historical trends, perhaps materially.
+MACROECONOMIC CONDITIONS AND RELATED FINANCIAL RISKS
+Our business is subject to numerous risks as a result of having significant operations and sales in international markets, including foreign currency fluctuations, currency exchange or pricing controls and localized volatility.
+We are a global company, with operations in approximately 70 countries and products sold in approximately 180 countries and territories around the world. We hold assets, incur liabilities, generate sales and pay expenses in a variety of currencies other than the U.S. dollar, and our operations outside the U.S. generate more than 50% of our annual net sales. Fluctuations in exchange rates for foreign currencies have and could continue to reduce the U.S. dollar value of sales, earnings and cash flows we receive from non-U.S. markets, increase our supply costs (as measured in U.S. dollars) in those markets, negatively impact our competitiveness in those markets or otherwise adversely impact our business results or financial condition. Further, we have a significant amount of foreign currency debt and derivatives as part of our capital markets activities. The maturity cash outflows of these instruments could be adversely impacted by significant appreciation of foreign currency exchange rates (particularly the Euro), which could adversely impact our overall cash flows. Moreover, discriminatory or conflicting fiscal or trade policies in different countries, including changes to tariffs and existing trade policies and agreements, could adversely affect our results. See also the Results of Operations and Cash Flow, Financial Condition and Liquidity sections of the MD&A and the Consolidated Financial Statements and related Notes.
+We also have businesses and maintain local currency cash balances in a number of countries with currency exchange, import authorization, pricing or other controls or restrictions, such as Egypt, Argentina and Pakistan. Our results of operations, financial condition and cash flows could be adversely impacted if we are unable to successfully manage such controls and restrictions, continue existing business operations and repatriate earnings from overseas, or if new or increased tariffs, quotas, exchange or price controls, trade barriers or similar restrictions are imposed on our business.
+Additionally, our business, operations or employees have been and could continue to be adversely affected (including by the need to de-consolidate or even exit certain businesses in particular countries) by geopolitical conflicts, political volatility, trade controls, labor market disruptions or other crises or vulnerabilities in individual countries or regions. This could include political instability, upheaval or acts of war (such as the Russia-Ukraine War) and the related government and other entity responses, broad economic instability or sovereign risk related to a default by or deterioration in the creditworthiness of local governments, particularly in emerging markets.
+Uncertain economic or social conditions may adversely impact demand for our products or cause our customers and other business partners to suffer financial hardship, which could adversely impact our business.
+Our business could be negatively impacted by reduced demand for our products related to one or more significant local, regional or global economic or social disruptions. These disruptions have included and may in the future include: a slow-down,
+4 The Procter & Gamble Company
+recession or inflationary pressures in the general economy; reduced market growth rates; tighter credit markets for our suppliers, vendors or customers; a significant shift in government policies; significant social unrest; the deterioration of economic relations between countries or regions; potential negative consumer sentiment toward non-local products or sources; or the inability to conduct day-to-day transactions through our financial intermediaries to pay funds to or collect funds from our customers, vendors and suppliers. Additionally, these and other economic conditions may cause our suppliers, distributors, contractors or other third-party partners to suffer financial or operational difficulties that they cannot overcome, resulting in their inability to provide us with the materials and services we need, in which case our business and results of operations could be adversely affected. Customers may also suffer financial hardships due to economic conditions such that their accounts become uncollectible or are subject to longer collection cycles. In addition, if we are unable to generate sufficient sales, income and cash flow, it could affect the Company’s ability to achieve expected share repurchase and dividend payments.
+Disruptions in credit markets or to our banking partners or changes to our credit ratings may reduce our access to credit or overall liquidity.
+A disruption in the credit markets or a downgrade of our current credit rating could increase our future borrowing costs and impair our ability to access capital and credit markets on terms commercially acceptable to us, which could adversely affect our liquidity and capital resources or significantly increase our cost of capital. In addition, we rely on top-tier banking partners in key markets around the world, who themselves face economic, societal, political and other risks, for access to credit and to facilitate collection, payment and supply chain finance programs. A disruption to one or more of these top-tier partners could impact our ability to draw on existing credit facilities or otherwise adversely affect our cash flows or the cash flows of our customers and vendors.
+Changing political and geopolitical conditions could adversely impact our business and financial results.
+Changes in the political conditions in markets in which we manufacture, sell or distribute our products, as well as changing geopolitical conditions, may be difficult to predict and may adversely affect our business and financial results. Results of elections, referendums, sanctions or other political processes and pressures in certain markets in which our products are manufactured, sold or distributed could create uncertainty regarding how existing governmental policies, laws and regulations may change, including with respect to sanctions, taxes, tariffs, import and export controls and the general movement of goods, materials, services, capital, data and people between countries. The potential implications of such uncertainty, which include, among others, exchange rate fluctuations, new or increased tariffs, trade barriers and market contraction, could adversely affect the Company’s results of operations and cash flows.
+The Company operates a global business with sales, manufacturing, distribution and research and development organizations globally that contribute to our overall growth. If geopolitical tensions and trade controls were to increase or disrupt our business in markets where we have significant sales or operations, including disruptions due to governmental responses to such conflicts (such as the imposition of sanctions, retaliatory tariffs, increased business licensing requirements or limitations on profits), such disruptions could adversely impact our business, financial condition, results of operations and cash flows.
+The war between Russia and Ukraine has adversely impacted and could continue to adversely impact our business and financial results.
+The war between Russia and Ukraine has negatively impacted, and the situation it generates may continue to negatively impact, our operations. Beginning in March 2022, the Company reduced its product portfolio, discontinued new capital investments and suspended media, advertising and promotional activity in Russia. Future impacts to the Company are difficult to predict due to the high level of uncertainty as to how the overall situation will evolve. Within Ukraine, there is a possibility of physical damage and destruction of our two manufacturing facilities, our distribution centers or those of our customers. We may not be able to operate our manufacturing sites and source raw materials from our suppliers or ship finished products to our customers. Within Russia, we may reduce further or discontinue our operations due to sanctions and export controls and counter-sanctions, monetary, currency or payment controls, restrictions on access to financial institutions, supply and transportation challenges or other circumstances and considerations. Ultimately, these could result in loss of assets or impairments of our manufacturing plants and fixed assets or write-downs of other operating assets and working capital.
+The war between Russia and Ukraine could also amplify or affect the other risk factors set forth in this Part I, Item 1A, including, but not limited to, foreign exchange volatility, disruptions to the financial and credit markets, energy supply and supply chain disruptions, increased risks of an information security or operational technology incident, cost fluctuations and commodity cost increases and increased costs to ensure compliance with global and local laws and regulations. The occurrence of any of these risks, combined with the increased impact from the war between Russia and Ukraine, could adversely impact our business and financial results.
+More broadly, there could be additional negative impacts to our net sales, earnings and cash flows should the situation worsen, including, among other potential impacts, economic recessions in certain neighboring countries or globally due to inflationary pressures, energy and supply chain cost increases or the geographic proximity of the war relative to the rest of Europe.
+BUSINESS OPERATIONS RISKS
+Our business results depend on our ability to manage disruptions in our global supply chain.
+Our ability to meet our customers’ needs and achieve cost targets depends on our ability to maintain key manufacturing and supply arrangements, including execution of supply chain optimizations and certain sole supplier or sole manufacturing plant
+The Procter & Gamble Company 5
+arrangements. The loss or disruption of such manufacturing and supply arrangements, including for issues such as labor disputes or controversies, loss or impairment of key manufacturing sites, discontinuity or disruptions in our internal information and data systems or those of our suppliers, cybersecurity incidents, inability to procure sufficient raw or input materials (including water, recycled materials and materials that meet our labor standards), significant changes in trade policy, natural disasters, increasing severity or frequency of extreme weather events due to climate change or otherwise, acts of war or terrorism, disease outbreaks or other external factors over which we have no control, have at times interrupted and could, in the future, interrupt product supply and, if not effectively managed and remedied, could have an adverse impact on our business, financial condition, results of operations or cash flows.
+Our businesses face cost fluctuations and pressures that could affect our business results.
+Our costs are subject to fluctuations, particularly due to changes in the prices of commodities (including certain petroleum-derived materials like resins and paper-based materials like pulp) and raw and packaging materials and the costs of labor, transportation (including trucks and containers), energy, pension and healthcare. Inflation pressures could also result in increases in these input costs. Therefore, our business results depend, in part, on our continued ability to manage these fluctuations through pricing actions, cost saving projects and sourcing decisions, while maintaining and improving margins and market share. Failure to manage these fluctuations and to anticipate consumer reaction to our management of these fluctuations could adversely impact our results of operations or cash flows.
+The ability to achieve our business objectives depends on how well we can compete with our local and global competitors in new and existing markets and channels.
+The consumer products industry is highly competitive. Across all of our categories, we compete against a wide variety of global and local competitors. As a result, we experience ongoing competitive pressures in the environments in which we operate, which may result in challenges in maintaining sales and profit margins. To address these challenges, we must be able to successfully respond to competitive factors and emerging retail trends, including pricing, promotional incentives, product delivery windows and trade terms. In addition, evolving sales channels and business models may affect customer and consumer preferences as well as market dynamics, which, for example, may be seen in the growing consumer preference for shopping online, ease of competitive entry into certain categories and growth in hard discounter channels. Failure to successfully respond to competitive factors and emerging retail trends and effectively compete in growing sales channels and business models, particularly e-commerce and mobile or social commerce applications, could negatively impact our results of operations or cash flows.
+A significant change in customer relationships or in customer demand for our products could have a significant impact on our business.
+We sell most of our products via retail customers, which include mass merchandisers, e-commerce (including social commerce) channels, grocery stores, membership club stores, drug stores, department stores, distributors, wholesalers, specialty beauty stores (including airport duty-free stores), high-frequency stores, pharmacies, electronics stores and professional channels. Our success depends on our ability to successfully manage relationships with our retail trade customers, which includes our ability to offer trade terms that are mutually acceptable and are aligned with our pricing and profitability targets. Continued concentration among our retail customers could create significant cost and margin pressure on our business, and our business performance could suffer if we cannot reach agreement with a key customer on trade terms and principles. Our business could also be negatively impacted if a key customer were to significantly reduce the inventory level of or shelf space allocated to our products as a result of increased offerings of other branded manufacturers, private label brands and generic non-branded products or for other reasons, significantly tighten product delivery windows or experience a significant business disruption.
+If the reputation of the Company or one or more of our brands erodes significantly, it could have a material impact on our financial results.
+The Company's reputation, and the reputation of our brands, form the foundation of our relationships with key stakeholders and other constituencies, including consumers, customers and suppliers. The quality and safety of our products are critical to our business. Many of our brands have worldwide recognition and our financial success directly depends on the success of our brands. The success of our brands can suffer if our marketing plans or product initiatives do not have the desired impact on a brand's image or its ability to attract consumers. Our results of operations or cash flows could also be negatively impacted if the Company or one of our brands suffers substantial harm to its reputation due to a significant product recall, product-related litigation, defects or impurities in our products, product misuse, changing consumer perceptions of certain ingredients, negative perceptions of packaging (such as plastic and other petroleum-based materials), lack of recyclability or other environmental impacts, concerns about actual or alleged labor or equality and inclusion practices, privacy lapses or data breaches, allegations of product tampering or the distribution and sale of counterfeit products. Additionally, negative or inaccurate postings or comments on social media or networking websites about the Company or one of its brands could generate adverse publicity that could damage the reputation of our brands or the Company. If we are unable to effectively manage real or perceived issues, including concerns about safety, quality, ingredients, efficacy, environmental or social impacts or similar matters, sentiments toward the Company or our products could be negatively impacted, and our results of operations or cash flows could suffer. Our Company also devotes time and resources to citizenship efforts that are consistent with our corporate values and are designed to strengthen our business and protect and preserve our reputation, including programs driving ethics and corporate responsibility, strong communities, equality and inclusion and environmental sustainability. While the Company has many programs and
+6 The Procter & Gamble Company
+initiatives to further these goals, our ability to achieve these goals is impacted in part by the actions and efforts of third parties including local and other governmental authorities, suppliers, vendors and customers. Consumer or broader stakeholder perceptions of these programs and initiatives widely vary and could adversely affect our business. If these programs are not executed as planned or suffer negative publicity, the Company's reputation and results of operations or cash flows could be adversely impacted.
+We rely on third parties in many aspects of our business, which creates additional risk.
+Due to the scale and scope of our business, we must rely on relationships with third parties, including our suppliers, contract manufacturers, distributors, contractors, commercial banks, joint venture partners and external business partners, for certain functions. If we are unable to effectively manage our third-party relationships and the agreements under which our third-party partners operate, our results of operations and cash flows could be adversely impacted. Further, failure of these third parties to meet their obligations to the Company or substantial disruptions in the relationships between the Company and these third parties could adversely impact our operations and financial results. Additionally, while we have policies and procedures for managing these relationships, they inherently involve a lesser degree of control over business operations, governance and compliance, thereby potentially increasing our financial, legal, reputational and operational risk.
+A significant information security or operational technology incident, including a cybersecurity breach, or the failure of one or more key information or operations technology systems, networks, hardware, processes and/or associated sites owned or operated by the Company or one of its service providers could have a material adverse impact on our business or reputation.
+We rely extensively on information and operational technology (IT/OT) systems, networks and services, including internet and intranet sites, data hosting and processing facilities and technologies, physical security systems and other hardware, software and technical applications and platforms, many of which are managed, hosted, provided and/or used by third parties or their vendors, to assist in conducting our business. The various uses of these IT/OT systems, networks and services include, but are not limited to:
+•
+ordering and managing materials from suppliers;
+•
+converting materials to finished products;
+•
+shipping products to customers;
+•
+marketing and selling products to consumers;
+•
+collecting, transferring, storing and/or processing customer, consumer, employee, vendor, investor and other stakeholder information and personal data, including such data from persons covered by an expanding landscape of privacy and data regulations, such as citizens of the European Union who are covered by the General Data Protection Regulation (GDPR), residents of California covered by the California Consumer Privacy Act (CCPA), citizens of China covered by the Personal Information Protection Law (PIPL) and citizens of Brazil covered by the General Personal Data Protection Law (LGPD);
+•
+summarizing and reporting results of operations, including financial reporting;
+•
+managing our banking and other cash liquidity systems and platforms;
+•
+hosting, processing and sharing, as appropriate, confidential and proprietary research, business plans and financial information;
+•
+collaborating via an online and efficient means of global business communications;
+•
+complying with regulatory, legal and tax requirements;
+•
+providing data security; and
+•
+handling other processes necessary to manage our business.
+Numerous and evolving information security threats, including advanced persistent cybersecurity threats, pose a risk to the security of our services, systems, networks and supply chain, as well as to the confidentiality, availability and integrity of our data and of our critical business operations. In addition, because the techniques, tools and tactics used in cyber-attacks frequently change and may be difficult to detect for periods of time, we may face difficulties in anticipating and implementing adequate preventative measures or fully mitigating harms after such an attack.
+Our IT/OT databases and systems and our third-party providers’ databases and systems have been, and will likely continue to be, subject to advanced computer viruses or other malicious codes, ransomware, unauthorized access attempts, denial of service attacks, phishing, social engineering, hacking and other cyber-attacks. Such attacks may originate from outside parties, hackers, criminal organizations or other threat actors, including nation states. In addition, insider actors - malicious or otherwise - could cause technical disruptions and/or confidential data leakage. We cannot guarantee that our security efforts or the security efforts of our third-party providers will prevent material breaches, operational incidents or other breakdowns to our or our third-party providers’ IT/OT databases or systems.
+A breach of our data security systems or failure of our IT/OT databases and systems may have a material adverse impact on our business operations and financial results. If the IT/OT systems, networks or service providers we rely upon fail to function properly or cause operational outages or aberrations, or if we or one of our third-party providers suffer significant unavailability of key operations, or inadvertent disclosure of, lack of integrity of, or loss of our sensitive business or stakeholder information,
+The Procter & Gamble Company 7
+including personal information, due to any number of causes, including catastrophic events, natural disasters, power outages, computer and telecommunications failures, improper data handling, viruses, phishing attempts, cyber-attacks, malware and ransomware attacks, security breaches, security incidents or employee error or malfeasance, and our business continuity plans do not effectively address these failures on a timely basis, we may suffer interruptions in our ability to manage operations and be exposed to reputational, competitive, operational, financial and business harm as well as litigation and regulatory action. If our critical IT systems or back-up systems or those of our third-party vendors are damaged or cease to function properly, we may have to make a significant investment to repair or replace them.
+In addition, if a ransomware attack or other cybersecurity incident occurs, either internally or at our third-party technology service providers, we could be prevented from accessing our data or systems, which may cause interruptions or delays in our business operations, cause us to incur remediation costs, subject us to demands to pay a ransom or damage our reputation. In addition, such events could result in unauthorized disclosure of confidential information or stakeholder information, including personal information, and we may suffer financial and reputational damage because of lost or misappropriated information belonging to us or to our partners, our employees, customers and suppliers. Additionally, we could be exposed to potential liability, litigation, governmental inquiries, investigations or regulatory enforcement actions; and we could be subject to payment of fines or other penalties, legal claims by our suppliers, customers or employees and significant remediation costs.
+Periodically, we also upgrade our IT/OT systems or adopt new technologies. If such a new system or technology does not function properly or otherwise exposes us to increased cybersecurity breaches and failures, it could affect our ability to order materials, make and ship orders and process payments in addition to other operational and information integrity and loss issues. The costs and operational consequences of responding to the above items and implementing remediation measures could be significant and could adversely impact our results of operations and cash flows.
+We must successfully manage the demand, supply and operational challenges associated with the effects of any future disease outbreak, including epidemics, pandemics or similar widespread public health concerns.
+Our business may be negatively impacted by the fear of exposure to or actual effects of a disease outbreak, epidemic, pandemic or similar widespread public health concern. These impacts may include, but are not limited to:
+•
+Significant reductions in demand or significant volatility in demand for one or more of our products, which may be caused by, among other things: the temporary inability of consumers to purchase our products due to illness, quarantine or other travel restrictions or financial hardship, shifts in demand away from one or more of our more discretionary or higher priced products to lower priced products, or stockpiling or similar pantry-loading activity. If prolonged, such impacts can further increase the difficulty of business or operations planning and may adversely impact our results of operations and cash flows; or
+•
+Significant changes in the political conditions in markets in which we manufacture, sell or distribute our products, including quarantines, import/export restrictions, price controls, or governmental or regulatory actions, closures or other restrictions that limit or close our operating and manufacturing facilities, restrict our employees’ ability to travel or perform necessary business functions, or otherwise prevent our third-party partners, suppliers or customers from sufficiently staffing operations.
+Despite efforts to manage and remedy these impacts, their ultimate impact also depends on factors beyond our knowledge or control, including the duration and severity of any such outbreak as well as third-party actions taken to contain its spread and mitigate its public health effects.
+BUSINESS STRATEGY & ORGANIZATIONAL RISKS
+Our ability to meet our growth targets depends on successful product, marketing and operations innovation and successful responses to competitive innovation, evolving digital marketing and selling platforms and changing consumer habits
+.
+We are a consumer products company that relies on continued global demand for our brands and products. Achieving our business results depends, in part, on successfully developing, introducing and marketing new products and on making significant improvements to our equipment and manufacturing processes. The success of such innovation depends on our ability to correctly anticipate customer and consumer acceptance and trends, to obtain, maintain and enforce necessary intellectual property protections and to avoid infringing upon the intellectual property rights of others and to continue to deliver efficient and effective marketing across evolving media and mobile platforms with dynamic and increasingly more restrictive privacy requirements. We must also successfully respond to technological advances made by, and intellectual property rights granted to, competitors, customers and vendors. Failure to continually innovate, improve and respond to competitive moves, platform evolution and changing consumer habits could compromise our competitive position and adversely impact our financial condition, results of operations or cash flows.
+We must successfully manage ongoing acquisition, joint venture and divestiture activities.
+As a company that manages a portfolio of consumer brands, our ongoing business model includes a certain level of acquisition, joint venture and divestiture activities. We must be able to successfully manage the impacts of these activities, while at the same time delivering against our business objectives. Specifically, our financial results have been, and in the future could be, adversely impacted by the dilutive impacts from the loss of earnings associated with divested brands or dissolution of joint ventures. Our results of operations and cash flows have been, and in the future could also be, impacted by acquisitions or joint
+8 The Procter & Gamble Company
+venture activities, if: 1) changes in the cash flows or other market-based assumptions cause the value of acquired assets to fall below book value, or 2) we are not able to deliver the expected cost and growth synergies associated with such acquisitions and joint ventures, including as a result of integration and collaboration challenges, which could also result in an impairment of goodwill and intangible assets.
+Our business results depend on our ability to successfully manage productivity improvements and ongoing organizational change, including attracting and retaining key talent as part of our overall succession planning.
+Our financial projections assume certain ongoing productivity improvements and cost savings, including staffing adjustments and employee departures. Failure to deliver these planned productivity improvements and cost savings, while continuing to invest in business growth, could adversely impact our results of operations and cash flows. Additionally, successfully executing organizational change, management transitions at leadership levels of the Company and motivation and retention of key employees is critical to our business success. Factors that may affect our ability to attract and retain sufficient numbers of qualified employees include employee morale, our reputation, competition from other employers and availability of qualified individuals. Our success depends on identifying, developing and retaining key employees to provide uninterrupted leadership and direction for our business. This includes developing and retaining organizational capabilities in key growth markets where the depth of skilled or experienced employees may be limited and competition for these resources is intense as well as continuing the development and execution of robust leadership succession plans.
+
+LEGAL & REGULATORY RISKS
+We must successfully manage compliance with current and expanding laws and regulations, as well as manage new and pending legal and regulatory matters in the U.S. and abroad.
+Our business is subject to a wide variety of laws and regulations across the countries in which we do business, including those laws and regulations involving intellectual property, product liability, product composition or formulation, packaging content or corporate responsibility for packaging and product disposal, marketing, antitrust and competition, privacy, data protection, environmental (including increasing focus on the climate, water and waste impacts of consumer packaged goods companies' operations and products), employment, healthcare, anti-bribery and anti-corruption (including interactions with health care professionals and government officials as well as corresponding internal controls and record-keeping requirements), trade (including tariffs, sanctions and export controls), tax, accounting and financial reporting or other matters. In addition, increasing governmental and societal attention to environmental, social and governance (ESG) matters, including expanding mandatory and voluntary reporting, diligence and disclosure on topics such as climate change, waste production, water usage, human capital, labor and risk oversight, could expand the nature, scope and complexity of matters that we are required to control, assess and report. These and other rapidly changing laws, regulations, policies and related interpretations as well as increased enforcement actions by various governmental and regulatory agencies, create challenges for the Company, may alter the environment in which we do business, may increase the ongoing costs and complexities of compliance including by requiring investments in technology or other compliance systems, and may ultimately result in the need to cease manufacturing, sales or other business activities in certain jurisdictions, which could adversely impact our results of operations and cash flows. If we are unable to continue to meet these challenges and comply with all laws, regulations, policies and related interpretations, it could negatively impact our reputation and our business results. Additionally, we are currently, and in the future may be, subject to a number of inquiries, investigations, claims, proceedings and requests for information from governmental agencies or private parties, the adverse outcomes of which could harm our business. Failure to successfully manage these new or pending regulatory and legal matters and resolve such matters without significant liability or damage to our reputation may materially adversely impact our financial condition, results of operations and cash flows. Furthermore, if new or pending legal or regulatory matters result in fines or costs in excess of the amounts accrued to date, that may also materially impact our results of operations and financial position.
+Changes in applicable tax laws and regulations and resolutions of tax disputes could negatively affect our financial results.
+The Company is subject to taxation in the U.S. and numerous foreign jurisdictions. Changes in the various tax laws can and do occur. For example, in December 2017, the U.S. government enacted comprehensive tax legislation commonly referred to as the Tax Cuts and Jobs Act (the U.S. Tax Act). The changes included in the U.S. Tax Act were broad and complex. Under the current U.S. presidential administration, comprehensive federal income tax reform has been proposed, including an increase in the U.S. Federal corporate income tax rate, elimination of certain investment incentives and an increase in U.S. taxation of non-U.S. earnings. While these proposals are controversial, likely to change during the legislative process and may prove difficult to enact as proposed in the current closely divided U.S. Congress, their impact could nonetheless be significant.
+Additionally, longstanding international tax norms that determine each country’s jurisdiction to tax cross-border international trade are subject to potential evolution. An outgrowth of the original Base Erosion and Profit Shifting (BEPS) project is a project undertaken by the approximately 140 member countries of the expanded Organisation for Economic Co-operation and Development (OECD) Inclusive Framework focused on "Addressing the Challenges of the Digitalization of the Economy." The breadth of this project extends beyond pure digital businesses and, as proposed, would likely impact a large portion of multinational businesses by potentially redefining jurisdictional taxation rights in market countries and establishing a global minimum tax. In December 2022, the European Union (EU) approved a directive requiring member states to incorporate a 15% global minimum tax into their respective domestic laws effective for fiscal years beginning on or after December 31, 2023.
+
+In
+The Procter & Gamble Company 9
+addition, several non-EU countries have recently proposed and/or adopted legislation consistent with the global minimum tax framework. Important details of these minimum tax developments are still to be determined and, in some cases, enactment and timing remain uncertain.
+While it is too early to assess the overall impact of these potential changes, as these and other tax laws and related regulations are revised, enacted and implemented, our financial condition, results of operations and cash flows could be materially impacted.
+Furthermore, we are subject to regular review and audit by both foreign and domestic tax authorities. While we believe our tax positions will be sustained, the final outcome of tax audits and related litigation, including maintaining our intended tax treatment of divestiture transactions such as the fiscal 2017 Beauty Brands transaction with Coty, may differ materially from the tax amounts recorded in our Consolidated Financial Statements, which could adversely impact our results of operations and cash flows.
+Item 1B.
+Unresolved Staff Comments.
+None.
+Item 2.
+Properties.
+In the U.S., we own and operate 24 manufacturing sites located in 18 different states. In addition, we own and operate 80 manufacturing sites in 34 other countries. Many of the domestic and international sites manufacture products for multiple businesses. Beauty products are manufactured at 23 of these locations; Grooming products at 17; Health Care products at 20; Fabric & Home Care products at 37; and Baby, Feminine & Family Care products at 37. We own our Corporate headquarters in Cincinnati, Ohio. We own or lease our principal regional general offices in Switzerland, Panama, Singapore, China and the United Arab Emirates. We own or lease our principal regional shared service centers in Costa Rica, the United Kingdom and the Philippines. Management believes that the Company's sites are adequate to support the business and that the properties and equipment have been well maintained.
+Item 3.
+Legal Proceedings.
+The Company is subject, from time to time, to certain legal proceedings and claims arising out of our business, which cover a wide range of matters, including antitrust and trade regulation, product liability, advertising, contracts, environmental issues, patent and trademark matters, labor and employment matters and tax. In addition, SEC regulations require that we disclose certain environmental proceedings arising under Federal, State or local law when a governmental authority is a party and such proceeding involves potential monetary sanctions that the Company reasonably believes will exceed a certain threshold ($1 million or more). There are no relevant matters to disclose under this Item for this period. See Note 13 to our Consolidated Financial Statements for information on certain legal proceedings for which there are contingencies.
+This item should be read in conjunction with the Company's Risk Factors in Part I, Item 1A for additional information.
+Item 4.
+Mine Safety Disclosure.
+Not applicable.
+10 The Procter & Gamble Company
+INFORMATION ABOUT OUR EXECUTIVE OFFICERS
+The names, ages and positions held by the Executive Officers of the Company on August 4, 2023, are:
+Name
+Position
+Age
+First Elected to
+Officer Position
+Jon R. Moeller
+Chairman of the Board, President and Chief Executive Officer
+59
+2009
+(1)
+Shailesh Jejurikar
+Chief Operating Officer
+56
+2018
+(2)
+Andre Schulten
+Chief Financial Officer
+52
+2021
+(3)
+Gary A. Coombe
+Chief Executive Officer - Grooming
+59
+2014
+(4)
+Jennifer L. Davis
+Chief Executive Officer - Health Care
+52
+2022
+(5)
+Ma. Fatima D. Francisco
+Chief Executive Officer - Baby, Feminine and Family Care and Executive Sponsor for Gender Equality
+55
+2018
+(6)
+R. Alexandra Keith
+Chief Executive Officer - Beauty and Executive Sponsor for Corporate Sustainability
+55
+2017
+(7)
+Sundar Raman
+Chief Executive Officer - Fabric and Home Care
+48
+2021
+(8)
+Victor Aguilar
+Chief Research, Development and Innovation Officer
+56
+2020
+(9)
+Marc S. Pritchard
+Chief Brand Officer
+63
+2008
+
+(( )
+Balaji Purushothaman
+Chief Human Resources Officer
+54
+2023
+(10)
+Susan Street Whaley
+Chief Legal Officer and Secretary
+49
+2022
+(11)
+All the Executive Officers named above have been employed by the Company for more than the past five years.
+(1)
+Mr. Moeller previously served as President and Chief Executive Officer (2021 - 2022), Vice Chairman, Chief Operating Officer and Chief Financial Officer (2019 - 2021), Vice Chairman and Chief Financial Officer (2017 - 2019) and as Chief Financial Officer (2009 - 2017).
+(2)
+Mr. Jejurikar previously served as Chief Executive Officer - Fabric and Home Care (2019 - 2021), President - Global Fabric, Home Care and P&G Professional (2018 - 2019), and President - Global Fabric Care and Brand-Building Officer Global Fabric & Home Care (2015 - 2018).
+(3)
+Mr. Schulten previously served as Senior Vice President - Baby Care, North America (2018 - 2021) and Senior Vice President - Finance & Accounting, Global Baby, Feminine and Family Care (2014 - 2018).
+(4)
+Mr. Coombe previously served as President - Europe Selling & Market Operations (2014 - 2018).
+(5)
+Ms. Davis previously served as President - Feminine Care (2019 - 2022), President - Global Feminine Care (2018 - 2019), and Vice President - Feminine Care, North America and Brand Franchise Leader, Tampax (2016 - 2018).
+(6)
+Ms. Francisco previously served as Chief Executive Officer - Baby and Feminine Care (2019 - 2021), President - Global Baby Care and Baby & Feminine Care Sector (2018 - 2019), and President - Global Feminine Care (2015 - 2018).
+(7)
+Ms. Keith previously served as Chief Executive Officer - Beauty (2017 - 2022).
+(8)
+Mr. Raman previously served as President - Home Care and P&G Professional (2020 - 2021), President - Fabric Care, North America and P&G Professional (2019 - 2020), and Vice President - Fabric Care, North America (2015 - 2019).
+(9)
+Mr. Aguilar previously served as Senior Vice President - Research & Development, Corporate Function Research & Development (2020), Senior Vice President - Research & Development, Corporate Function Research & Development and Global Fabric Care (2019), and Senior Vice President - Research & Development Global Fabric Care; and Sector Leader, Research & Development Global Fabric and Home Care (2014 - 2019).
+(10)
+Mr. Purushothaman previously served as Senior Vice President - Human Resources, Global Total Rewards, Employee and Labor Relations and Corporate Services (2020 - 2022) and as Senior Vice President - Human Resources, Beauty, Grooming, and Family Care (2015 - 2020).
+(11)
+Ms. Whaley previously served as Senior Vice President and General Counsel - North America, Practice Groups and Sector Business Units (2019 - 2022), and Vice President and General Counsel - North America, Global Go-To-Market and Practice Groups, and Global Business Units (2016 - 2019).
+The Procter & Gamble Company 11
+PART II
+Item 5.
+Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+ISSUER PURCHASES OF EQUITY SECURITIES
+Period
+Total Number of
+Shares Purchased
+(1)
+Average Price Paid per Share
+(2)
+Total Number of Shares Purchased as
+Part of Publicly Announced Plans or Programs
+(3)
+Approximate Dollar Value of Shares that May Yet Be Purchased Under Our Share Repurchase Program
+4/1/2023 - 4/30/2023
+—
+—
+—
+(3)
+5/1/2023 - 5/31/2023
+—
+—
+—
+(3)
+6/1/2023 - 6/30/2023
+914,324
+$149.95
+—
+(3)
+Total
+914,324
+$149.95
+—
+(3)
+(1)
+All transactions are reported on a trade date basis and were made in the open market with large financial institutions. This table excludes shares withheld from employees to satisfy minimum tax withholding requirements on option exercises and other equity-based transactions. The Company administers cashless exercises through an independent third party and does not repurchase stock in connection with cashless exercises.
+(2)
+Average price paid per share for open market transactions excludes commission.
+(3)
+On April 21, 2023, the Company stated that in fiscal year 2023 the Company expected to reduce outstanding shares through direct share repurchases at a value of $7.4 to $8.0 billion, notwithstanding any purchases under the Company's compensation and benefit plans. The share repurchases were authorized pursuant to a resolution issued by the Company's Board of Directors and were financed through a combination of operating cash flows and issuance of debt. The total value of the shares purchased under the share repurchase plan was $7.4 billion. The share repurchase plan ended on June 30, 2023.
+Additional information required by this item can be found in Part III, Item 12 of this Form 10-K.
+SHAREHOLDER RETURN PERFORMANCE GRAPHS
+Market and Dividend Information
+P&G has been paying a dividend for 133 consecutive years since its incorporation in 1890 and has increased its dividend for 67 consecutive years since 1956. Over the past ten years, the dividend has increased at an annual compound average rate of 5%. Nevertheless, as in the past, further dividends will be considered after reviewing dividend yields, profitability and cash flow expectations and financing needs and will be declared at the discretion of the Company's Board of Directors.
+(in dollars; split-adjusted)
+1956
+1963
+1973
+1983
+1993
+2003
+2013
+2023
+Dividends per share
+$
+0.01
+$
+0.02
+$
+0.05
+$
+0.14
+$
+0.28
+$
+0.82
+$
+2.29
+$
+3.68
+12 The Procter & Gamble Company
+Common Stock Information
+P&G trades on the New York Stock Exchange under the stock symbol PG. As of June 30, 2023, there were approximately five million common stock shareowners, including shareowners of record, participants in P&G stock ownership plans and beneficial owners with accounts at banks and brokerage firms.
+Shareholder Return
+The following graph compares the cumulative total return of P&G’s common stock for the five-year period ended June 30, 2023, against the cumulative total return of the S&P 500 Stock Index (broad market comparison) and the S&P 500 Consumer Staples Index (line of business comparison). The graph and table assume $100 was invested on June 30, 2018, and that all dividends were reinvested.
+Cumulative Value of $100 Investment, through June 30
+Company Name/Index
+2018
+2019
+2020
+2021
+2022
+2023
+P&G
+$
+100 
+$
+145 
+$
+162 
+$
+188 
+$
+205 
+$
+222
+ 
+S&P 500
+100 
+110 
+119 
+167 
+149 
+179
+ 
+S&P 500 Consumer Staples
+100 
+116 
+121 
+149 
+159 
+169
+ 
+Item 6.
+Intentionally Omitted.
+Item 7.
+Management's Discussion and Analysis of Financial Condition and Results of Operations.
+Forward-Looking Statements
+Certain statements in this report, other than purely historical information, including estimates, projections, statements relating to our business plans, objectives and expected operating results, and the assumptions upon which those statements are based, are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements may appear throughout this report, including without limitation, the following sections: “Management's Discussion and Analysis,” “Risk Factors” and "Notes 4, 8 and 13 to the Consolidated Financial Statements." These forward-looking statements generally are identified by the words “believe,” “project,” “expect,” “anticipate,” “estimate,” “intend,” “strategy,” “future,” “opportunity,” “plan,” “may,” “should,” “will,” “would,” “will be,” “will continue,” “will likely result” and similar expressions. Forward-looking statements are based on current expectations and assumptions, which are subject to risks and uncertainties that may cause results to differ materially from those expressed or implied in the forward-looking statements. We undertake no obligation to update or revise publicly any forward-looking statements, whether because of new information, future events or otherwise, except to the extent required by law.
+The Procter & Gamble Company 13
+Risks and uncertainties to which our forward-looking statements are subject include, without limitation: (1) the ability to successfully manage global financial risks, including foreign currency fluctuations, currency exchange or pricing controls and localized volatility; (2) the ability to successfully manage local, regional or global economic volatility, including reduced market growth rates, and to generate sufficient income and cash flow to allow the Company to effect the expected share repurchases and dividend payments; (3) the ability to manage disruptions in credit markets or to our banking partners or changes to our credit rating; (4) the ability to maintain key manufacturing and supply arrangements (including execution of supply chain optimizations and sole supplier and sole manufacturing plant arrangements) and to manage disruption of business due to various factors, including ones outside of our control, such as natural disasters, acts of war (including the Russia-Ukraine War) or terrorism or disease outbreaks; (5) the ability to successfully manage cost fluctuations and pressures, including prices of commodities and raw materials and costs of labor, transportation, energy, pension and healthcare; (6) the ability to stay on the leading edge of innovation, obtain necessary intellectual property protections and successfully respond to changing consumer habits, evolving digital marketing and selling platform requirements and technological advances attained by, and patents granted to, competitors; (7) the ability to compete with our local and global competitors in new and existing sales channels, including by successfully responding to competitive factors such as prices, promotional incentives and trade terms for products; (8) the ability to manage and maintain key customer relationships; (9) the ability to protect our reputation and brand equity by successfully managing real or perceived issues, including concerns about safety, quality, ingredients, efficacy, packaging content, supply chain practices or similar matters that may arise; (10) the ability to successfully manage the financial, legal, reputational and operational risk associated with third-party relationships, such as our suppliers, contract manufacturers, distributors, contractors and external business partners; (11) the ability to rely on and maintain key company and third-party information and operational technology systems, networks and services and maintain the security and functionality of such systems, networks and services and the data contained therein; (12) the ability to successfully manage uncertainties related to changing political and geopolitical conditions and potential implications such as exchange rate fluctuations and market contraction; (13) the ability to successfully manage current and expanding regulatory and legal requirements and matters (including, without limitation, those laws and regulations involving product liability, product and packaging composition, intellectual property, labor and employment, antitrust, privacy and data protection, tax, the environment, due diligence, risk oversight, accounting and financial reporting) and to resolve new and pending matters within current estimates; (14) the ability to manage changes in applicable tax laws and regulations; (15) the ability to successfully manage our ongoing acquisition, divestiture and joint venture activities, in each case to achieve the Company’s overall business strategy and financial objectives, without impacting the delivery of base business objectives; (16) the ability to successfully achieve productivity improvements and cost savings and manage ongoing organizational changes while successfully identifying, developing and retaining key employees, including in key growth markets where the availability of skilled or experienced employees may be limited; (17) the ability to successfully manage the demand, supply and operational challenges, as well as governmental responses or mandates, associated with a disease outbreak, including epidemics, pandemics or similar widespread public health concerns; (18) the ability to manage the uncertainties, sanctions and economic effects from the war between Russia and Ukraine; and (19) the ability to successfully achieve our ambition of reducing our greenhouse gas emissions and delivering progress towards our environmental sustainability priorities. A detailed discussion of risks and uncertainties that could cause actual results and events to differ materially from those projected herein is included in the section titled "Economic Conditions and Uncertainties" and the section titled "Risk Factors" (Part I, Item 1A) of this Form 10-K.
+Purpose, Approach and Non-GAAP Measures
+The purpose of Management's Discussion and Analysis (MD&A) is to provide an understanding of Procter & Gamble's financial condition, results of operations and cash flows by focusing on changes in certain key measures from year to year. The MD&A is provided as a supplement to, and should be read in conjunction with, our Consolidated Financial Statements and accompanying Notes. The MD&A is organized in the following sections:
+•
+Overview
+•
+Summary of 2023 Results
+•
+Economic Conditions and Uncertainties
+•
+Results of Operations
+•
+Segment Results
+•
+Cash Flow, Financial Condition and Liquidity
+•
+Critical Accounting Policies and Estimates
+•
+Other Information
+Throughout the MD&A we refer to measures used by management to evaluate performance, including unit volume growth, net sales, net earnings, diluted net earnings per common share (diluted EPS) and operating cash flow. We also refer to a number of financial measures that are not defined under accounting principles generally accepted in the United States of America (U.S. GAAP), consisting of organic sales growth, core earnings per share (Core EPS), adjusted free cash flow and adjusted free cash flow productivity. Organic sales growth is net sales growth excluding the impacts of acquisitions and divestitures and foreign exchange from year-over-year comparisons. Core EPS is diluted EPS excluding certain items that are not judged by management to be part of the Company's sustainable results or trends.
+ Adjusted free cash flow is operating cash flow less
+14 The Procter & Gamble Company
+capital spending and
+excluding payments for the transitional tax resulting from
+ the U.S. Tax Act. Adjusted free cash flow productivity is the ratio of adjusted free cash flow to net earnings excluding certain one-time items. We believe these m
+easures provide our investors with additional information about our underlying results and trends as well as insight to some of the metrics used to evaluate management. The explanation at the end of the MD&A provides more details on the use and the derivation of these measures as well as reconciliations to the most directly comparable U.S. GAAP measure.
+Management also uses certain market share and market consumption estimates to evaluate performance relative to competition despite some limitations on the availability and comparability of share and consumption information. References to market share and consumption in the MD&A are based on a combination of vendor-purchased traditional brick-and-mortar and online data in key markets as well as internal estimates. All market share references represent the percentage of sales of our products in dollar terms on a constant currency basis relative to all product sales in the category. The Company measures quarter and fiscal year-to-date market shares through the most recent period for which market share data is available, which typically reflects a lag time of one or two months as compared to the end of the reporting period. Management also uses unit volume growth to evaluate drivers of changes in net sales. Organic volume growth reflects year-over-year changes in unit volume excluding the impacts of acquisitions, divestitures and certain one-time items, if applicable, and is used to explain changes in organic sales.
+OVERVIEW
+Procter & Gamble is a global leader in the fast-moving consumer goods industry, focused on providing branded consumer packaged goods of superior quality and value to our consumers around the world. Our products are sold in approximately 180 countries and territories primarily through mass merchandisers, e-commerce (including social commerce) channels, grocery stores, membership club stores, drug stores, department stores, distributors, wholesalers, specialty beauty stores (including airport duty-free stores), high-frequency stores, pharmacies, electronics stores and professional channels. We also sell direct to individual consumers. We have on-the-ground operations in approximately 70 countries.
+Our market environment is highly competitive with global, regional and local competitors. In many of the markets and industry segments in which we sell our products, we compete against other branded products, as well as retailers' private-label brands. Additionally, many of the product segments in which we compete are differentiated by price tiers (referred to as super-premium, premium, mid-tier and value-tier products). We believe we are well positioned in the industry segments and markets in which we operate, often holding a leadership or significant market share position.
+Organizational Structure
+Our organizational structure is comprised of Sector Business Units (SBUs), Enterprise Markets (EMs), Corporate Functions (CF) and Global Business Services (GBS).
+Sector Business Units
+The Company's ten product categories are organized into five SBUs and five reportable segments (under U.S. GAAP): Beauty; Grooming; Health Care; Fabric & Home Care; and Baby, Feminine & Family Care. The SBUs are responsible for global brand strategy, product upgrades and innovation, marketing plans and supply chain. They have direct profit responsibility for markets (referred to as Focus Markets) representing the large majority of the Company's sales and earnings and are also responsible for innovation plans, supply plans and operating frameworks to drive growth and value creation in the remaining markets (referred to as Enterprise Markets). Throughout the MD&A, we reference business results by region, which are comprised of North America, Europe, Greater China, Latin America, Asia Pacific and India, Middle East and Africa (IMEA).
+The Procter & Gamble Company 15
+The following provides additional detail on our reportable segments and the ten product categories and brand composition within each segment.
+Reportable Segments
+% of
+Net Sales
+(1)
+% of Net
+Earnings
+(1)
+Product Categories (Sub-Categories)
+Major Brands
+Beauty
+18%
+21%
+Hair Care (
+Conditioners, Shampoos, Styling Aids, Treatments
+)
+Head & Shoulders, Herbal Essences, Pantene, Rejoice
+Skin and Personal Care (
+Antiperspirants and Deodorants, Personal Cleansing, Skin Care
+)
+Olay, Old Spice, Safeguard, Secret, SK-II
+Grooming
+(2)
+8%
+10%
+Grooming (
+Appliances, Female Blades & Razors, Male Blades & Razors, Pre- and Post-Shave Products, Other Grooming
+)
+Braun, Gillette, Venus
+Health Care
+14%
+14%
+Oral Care (
+Toothbrushes, Toothpastes, Other Oral Care
+)
+Crest, Oral-B
+Personal Health Care (
+Gastrointestinal, Pain Relief, Rapid Diagnostics, Respiratory, Vitamins/Minerals/Supplements, Other Personal Health Care
+)
+Metamucil, Neurobion, Pepto-Bismol, Vicks
+Fabric & Home Care
+35%
+32%
+Fabric Care (
+Fabric Enhancers, Laundry Additives, Laundry Detergents
+)
+Ariel, Downy, Gain, Tide
+Home Care (
+Air Care, Dish Care, P&G Professional, Surface Care
+)
+Cascade, Dawn, Fairy, Febreze, Mr. Clean, Swiffer
+Baby, Feminine & Family Care
+25%
+23%
+Baby Care (
+Baby Wipes, Taped Diapers and Pants
+)
+Luvs, Pampers
+Feminine Care (
+Adult Incontinence, Feminine Care
+)
+Always, Always Discreet, Tampax
+Family Care (
+Paper Towels, Tissues, Toilet Paper
+)
+Bounty, Charmin, Puffs
+(1)
+Percent of Net sales and Net earnings for the fiscal year ended June 30, 2023 (excluding results held in Corporate).
+(2)
+Effective July 1, 2022, the Grooming Sector Business Unit completed the full integration of its Shave Care and Appliances categories to cohesively serve consumers' grooming needs. This transition included the integration of the management team, strategic decision-making, innovation plans, financial targets, budgets and internal management reporting.
+
+Organization Design:
+Sector Business Units
+Beauty:
+ We are a global market leader amongst the beauty categories in which we compete, including hair care and skin and personal care. We are a global market leader in the retail hair care market with nearly 20% global market share primarily behind our Pantene and Head & Shoulders brands. In skin and personal care, we offer a wide variety of products, ranging from deodorants to personal cleansing to skin care, such as our Olay brand, which is one of the top facial skin care brands in the world with nearly 5% global market share.
+Grooming:
+ We are the global market leader in the blades and razors market. Our global blades and razors market share is more than 60%, primarily behind our Gillette and Venus brands. Our appliances, such as electric shavers and epilators, are sold primarily under the Braun brand in a number of markets around the world where we compete against both global and regional competitors. We hold nearly 25% of the male electric shavers market and over 50% of the female epilators market.
+Health Care:
+ We compete in oral care and personal health care. In oral care, there are several global competitors in the market, and we have the number two market share position with nearly 20% global market share behind our Crest and Oral-B brands. In personal health care, we are a global market leader among the categories in which we compete, including respiratory treatments, digestive wellness, vitamins and analgesics behind our Vicks, Metamucil, Pepto-Bismol and Neurobion brands.
+Fabric & Home Care:
+ This segment is comprised of a variety of fabric care products, including laundry detergents, additives and fabric enhancers; and home care products, including dishwashing liquids and detergents, surface cleaners and air fresheners. In fabric care, we generally have the number one or number two market share position in the markets in which we compete and are the global market leader with over 35% global market share, primarily behind our Tide, Ariel and Downy brands. Our global home care market share is about 25% across the categories in which we compete, primarily behind our Cascade, Dawn, Febreze and Swiffer brands.
+Baby, Feminine & Family Care:
+In baby care, we are a global market leader and compete mainly in taped diapers, pants and baby wipes, with more than 20% global market share. We have the number one or number two market share position in the markets in which we compete, primarily behind our Pampers brand. We are a global market leader in the feminine care category with over 25% global market share, primarily behind our Always and Tampax brands. We also compete in the adult incontinence category in certain markets behind Always Discreet, with over 10% market share in the key markets in which we compete. Our family care business is predominantly a North American business comprised primarily of the Bounty paper towel and Charmin toilet paper brands. North America market shares are over 40% for Bounty and over 25% for Charmin.
+16 The Procter & Gamble Company
+Enterprise Markets
+Enterprise Markets are responsible for sales and profit delivery in specific countries, supported by SBU-agreed innovation and supply chain plans, along with scaled services like planning, distribution and customer management.
+Corporate Functions
+Corporate Functions provides company-level strategy and portfolio analysis, corporate accounting, treasury, tax, external relations, governance, human resources, information technology and legal services.
+Global Business Services
+Global Business Services provides scaled services in technology, process and data tools to enable the SBUs, the EMs and CF to better serve consumers and customers. The GBS organization is responsible for providing world-class services and solutions that drive value for P&G.
+Strategic Focus
+Procter & Gamble aspires to serve the world’s consumers better than our best competitors in every category and in every country in which we compete and, as a result, deliver total shareholder return in the top one-third of our peer group. Delivering and sustaining leadership levels of shareholder value creation requires balanced top- and bottom-line growth and strong cash generation.
+The Company competes in daily-use product categories where performance plays a significant role in the consumer's choice of brands, and therefore, play to P&G's strengths. Our focused portfolio of businesses consists of ten product categories where P&G has leading market positions, strong brands and consumer-meaningful product technologies.
+Within these categories, our strategic choices are focused on delighting and winning with consumers. Our consumers are at the center of everything we do. We win with consumers by delivering irresistible superiority across five key vectors - product performance, packaging, brand communication, retail execution and value. Winning with consumers around the world and against our best competitors requires superior innovation. Innovation has always been, and continues to be, P&G’s lifeblood. Superior products delivered with superior execution drive market growth, value creation for retailers and build share growth for P&G.
+Ongoing productivity improvement is crucial to delivering our balanced top- and bottom-line growth, cash generation and value creation objectives. Productivity improvement enables investments to strengthen the superiority of our brands via product and packaging innovation, more efficient and effective supply chains, equity and awareness-building brand advertising and other programs and expansion of sales coverage and R&D programs. Productivity improvements also enable us to mitigate challenging cost environments (including periods of increasing commodity and negative foreign exchange impacts). Our objective is to drive productivity improvements across all elements of the statement of earnings and balance sheet, including cost of goods sold, marketing and promotional spending, overhead costs and capital spending.
+We act with agility and are constructively disrupting our highly competitive industry and the way we do business, including how we innovate, communicate and leverage new technologies, to create more value.
+We are improving operational effectiveness and organizational culture through enhanced clarity of roles and responsibilities, accountability and incentive compensation programs.
+Additionally, within this strategy of superiority, productivity, constructive disruption and organization, we have declared four focus areas to strengthen our performance going forward. These are 1) leveraging environmental sustainability as an additional driver of superior performing products and packaging innovations, 2) increasing digital acumen to drive consumer and customer preference, reduce cost and enable rapid and efficient decision making, 3) developing next-level supply chain capabilities to enable flexibility, agility, resilience and a new level of productivity and 4) delivering employee value equation for all gender identities, races, ethnicities, sexual orientations, ages and abilities for all roles to ensure we continue to attract, retain and develop the best talent.
+We believe this strategy is right for the long-term health of the Company and our objective of delivering total shareholder return in the top one-third of our peer group.
+The Company expects the delivery of the following long-term growth algorithm will result in total shareholder returns in the top third of the competitive, fast-moving consumer goods peer group:

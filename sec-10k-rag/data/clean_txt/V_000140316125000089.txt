@@ -1,0 +1,2323 @@
+0001403161
+2025
+FY
+FALSE
+50
+50
+http://fasb.org/us-gaap/2025#OtherAssetsNoncurrent
+http://fasb.org/us-gaap/2025#OtherAssetsNoncurrent
+http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent
+http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent
+P9Y
+P8Y
+http://fasb.org/us-gaap/2025#LongTermDebtNoncurrent
+http://fasb.org/us-gaap/2025#LongTermDebtNoncurrent
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+v:country
+xbrli:pure
+iso4217:EUR
+v:segment
+v:preferredStockSeries
+v:case
+v:complaint
+v:state
+v:plaintiff
+v:case_filed
+v:merchant
+v:class_action_case
+v:non-bankATMOperator
+v:claim
+v:financial_institution
+0001403161
+2024-10-01
+2025-09-30
+0001403161
+us-gaap:CommonClassAMember
+2024-10-01
+2025-09-30
+0001403161
+v:A2026NotesMember
+2024-10-01
+2025-09-30
+0001403161
+v:A2028NotesMember
+2024-10-01
+2025-09-30
+0001403161
+v:A2029NotesMember
+2024-10-01
+2025-09-30
+0001403161
+v:A2033NotesMember
+2024-10-01
+2025-09-30
+0001403161
+v:A2034NotesMember
+2024-10-01
+2025-09-30
+0001403161
+v:A2037NotesMember
+2024-10-01
+2025-09-30
+0001403161
+v:A2044NotesMember
+2024-10-01
+2025-09-30
+0001403161
+v:CommonClassB1Member
+2024-10-01
+2025-09-30
+0001403161
+v:CommonClassB2Member
+2024-10-01
+2025-09-30
+0001403161
+us-gaap:CommonClassCMember
+2024-10-01
+2025-09-30
+0001403161
+2025-03-31
+0001403161
+us-gaap:CommonClassAMember
+2025-10-30
+0001403161
+v:CommonClassB1Member
+2025-10-30
+0001403161
+v:CommonClassB2Member
+2025-10-30
+0001403161
+us-gaap:CommonClassCMember
+2025-10-30
+0001403161
+2025-09-30
+0001403161
+2024-09-30
+0001403161
+us-gaap:CommonStockMember
+2025-09-30
+0001403161
+us-gaap:CommonStockMember
+2024-09-30
+0001403161
+us-gaap:CommonClassAMember
+2025-09-30
+0001403161
+us-gaap:CommonClassAMember
+2024-09-30
+0001403161
+v:CommonClassB1AndB2Member
+2024-09-30
+0001403161
+v:CommonClassB1AndB2Member
+2025-09-30
+0001403161
+us-gaap:CommonClassCMember
+2025-09-30
+0001403161
+us-gaap:CommonClassCMember
+2024-09-30
+0001403161
+2023-10-01
+2024-09-30
+0001403161
+2022-10-01
+2023-09-30
+0001403161
+us-gaap:CommonClassAMember
+2023-10-01
+2024-09-30
+0001403161
+us-gaap:CommonClassAMember
+2022-10-01
+2023-09-30
+0001403161
+v:CommonClassB1Member
+2023-10-01
+2024-09-30
+0001403161
+v:CommonClassB1Member
+2022-10-01
+2023-09-30
+0001403161
+v:CommonClassB2Member
+2023-10-01
+2024-09-30
+0001403161
+v:CommonClassB2Member
+2022-10-01
+2023-09-30
+0001403161
+us-gaap:CommonClassCMember
+2023-10-01
+2024-09-30
+0001403161
+us-gaap:CommonClassCMember
+2022-10-01
+2023-09-30
+0001403161
+us-gaap:PreferredStockMember
+2024-09-30
+0001403161
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2024-09-30
+0001403161
+v:RighttoRecoverforCoveredLossesMember
+2024-09-30
+0001403161
+us-gaap:RetainedEarningsMember
+2024-09-30
+0001403161
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-09-30
+0001403161
+us-gaap:RetainedEarningsMember
+2024-10-01
+2025-09-30
+0001403161
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-10-01
+2025-09-30
+0001403161
+v:RighttoRecoverforCoveredLossesMember
+2024-10-01
+2025-09-30
+0001403161
+us-gaap:PreferredStockMember
+2024-10-01
+2025-09-30
+0001403161
+us-gaap:SeriesAPreferredStockMember
+us-gaap:PreferredStockMember
+2024-10-01
+2025-09-30
+0001403161
+us-gaap:SeriesAPreferredStockMember
+2024-10-01
+2025-09-30
+0001403161
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2024-10-01
+2025-09-30
+0001403161
+us-gaap:PreferredStockMember
+2025-09-30
+0001403161
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2025-09-30
+0001403161
+v:RighttoRecoverforCoveredLossesMember
+2025-09-30
+0001403161
+us-gaap:RetainedEarningsMember
+2025-09-30
+0001403161
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-09-30
+0001403161
+us-gaap:SeriesAPreferredStockMember
+2025-09-30
+0001403161
+us-gaap:SeriesAPreferredStockMember
+2024-09-30
+0001403161
+us-gaap:PreferredStockMember
+2023-09-30
+0001403161
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2023-09-30
+0001403161
+v:RighttoRecoverforCoveredLossesMember
+2023-09-30
+0001403161
+us-gaap:RetainedEarningsMember
+2023-09-30
+0001403161
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-09-30
+0001403161
+2023-09-30
+0001403161
+us-gaap:RetainedEarningsMember
+2023-10-01
+2024-09-30
+0001403161
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-10-01
+2024-09-30
+0001403161
+v:RighttoRecoverforCoveredLossesMember
+2023-10-01
+2024-09-30
+0001403161
+us-gaap:PreferredStockMember
+2023-10-01
+2024-09-30
+0001403161
+us-gaap:SeriesAPreferredStockMember
+us-gaap:PreferredStockMember
+2023-10-01
+2024-09-30
+0001403161
+us-gaap:SeriesAPreferredStockMember
+2023-10-01
+2024-09-30
+0001403161
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2023-10-01
+2024-09-30
+0001403161
+us-gaap:SeriesAPreferredStockMember
+2023-09-30
+0001403161
+us-gaap:PreferredStockMember
+2022-09-30
+0001403161
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2022-09-30
+0001403161
+v:RighttoRecoverforCoveredLossesMember
+2022-09-30
+0001403161
+us-gaap:RetainedEarningsMember
+2022-09-30
+0001403161
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-09-30
+0001403161
+2022-09-30
+0001403161
+us-gaap:RetainedEarningsMember
+2022-10-01
+2023-09-30
+0001403161
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-10-01
+2023-09-30
+0001403161
+v:RighttoRecoverforCoveredLossesMember
+2022-10-01
+2023-09-30
+0001403161
+us-gaap:PreferredStockMember
+2022-10-01
+2023-09-30
+0001403161
+us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember
+2022-10-01
+2023-09-30
+0001403161
+us-gaap:SeriesAPreferredStockMember
+2022-09-30
+0001403161
+srt:MinimumMember
+v:TechnologyFurnitureFixturesAndEquipmentMember
+2025-09-30
+0001403161
+srt:MaximumMember
+v:TechnologyFurnitureFixturesAndEquipmentMember
+2025-09-30
+0001403161
+srt:MinimumMember
+us-gaap:BuildingImprovementsMember
+2025-09-30
+0001403161
+srt:MaximumMember
+us-gaap:BuildingImprovementsMember
+2025-09-30
+0001403161
+us-gaap:BuildingMember
+2025-09-30
+0001403161
+srt:MinimumMember
+2025-09-30
+0001403161
+srt:MaximumMember
+2025-09-30
+0001403161
+2025-02-01
+2025-02-01
+0001403161
+v:FeaturespaceLimitedMember
+2024-12-01
+2024-12-31
+0001403161
+v:FeaturespaceLimitedMember
+2024-12-31
+0001403161
+v:PismoHoldingsMember
+2024-01-01
+2024-01-31
+0001403161
+v:PismoHoldingsMember
+2024-01-31
+0001403161
+us-gaap:ServiceMember
+2024-10-01
+2025-09-30
+0001403161
+us-gaap:ServiceMember
+2023-10-01
+2024-09-30
+0001403161
+us-gaap:ServiceMember
+2022-10-01
+2023-09-30
+0001403161
+v:DataProcessingRevenuesMember
+2024-10-01
+2025-09-30
+0001403161
+v:DataProcessingRevenuesMember
+2023-10-01
+2024-09-30
+0001403161
+v:DataProcessingRevenuesMember
+2022-10-01
+2023-09-30
+0001403161
+v:InternationalTransactionRevenuesMember
+2024-10-01
+2025-09-30
+0001403161
+v:InternationalTransactionRevenuesMember
+2023-10-01
+2024-09-30
+0001403161
+v:InternationalTransactionRevenuesMember
+2022-10-01
+2023-09-30
+0001403161
+us-gaap:ServiceOtherMember
+2024-10-01
+2025-09-30
+0001403161
+us-gaap:ServiceOtherMember
+2023-10-01
+2024-09-30
+0001403161
+us-gaap:ServiceOtherMember
+2022-10-01
+2023-09-30
+0001403161
+v:ClientIncentivesMember
+2024-10-01
+2025-09-30
+0001403161
+v:ClientIncentivesMember
+2023-10-01
+2024-09-30
+0001403161
+v:ClientIncentivesMember
+2022-10-01
+2023-09-30
+0001403161
+country:US
+2024-10-01
+2025-09-30
+0001403161
+country:US
+2023-10-01
+2024-09-30
+0001403161
+country:US
+2022-10-01
+2023-09-30
+0001403161
+us-gaap:NonUsMember
+2024-10-01
+2025-09-30
+0001403161
+us-gaap:NonUsMember
+2023-10-01
+2024-09-30
+0001403161
+us-gaap:NonUsMember
+2022-10-01
+2023-09-30
+0001403161
+v:ValueAddedServicesMember
+2024-10-01
+2025-09-30
+0001403161
+v:ValueAddedServicesMember
+2023-10-01
+2024-09-30
+0001403161
+v:ValueAddedServicesMember
+2022-10-01
+2023-09-30
+0001403161
+2025-10-01
+2025-09-30
+0001403161
+2027-10-01
+2025-09-30
+0001403161
+v:U.S.LitigationEscrowMember
+2025-09-30
+0001403161
+v:U.S.LitigationEscrowMember
+2024-09-30
+0001403161
+v:CustomerCollateralAssetsMember
+2025-09-30
+0001403161
+v:CustomerCollateralAssetsMember
+2024-09-30
+0001403161
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+2025-09-30
+0001403161
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+2024-09-30
+0001403161
+v:OptoutMerchantsMember
+us-gaap:InterestIncomeMember
+2024-10-01
+2025-09-30
+0001403161
+v:OptoutMerchantsMember
+us-gaap:InterestIncomeMember
+2023-10-01
+2024-09-30
+0001403161
+v:MasterCardMember
+2025-09-30
+0001403161
+2016-06-21
+0001403161
+v:SeriesBPreferredStockAndSeriesCPreferredStockMember
+2025-08-01
+2025-08-31
+0001403161
+v:SeriesBPreferredStockAndSeriesCPreferredStockMember
+2024-07-01
+2024-07-31
+0001403161
+us-gaap:SeriesAPreferredStockMember
+2025-08-01
+2025-08-31
+0001403161
+us-gaap:SeriesAPreferredStockMember
+2024-07-01
+2024-07-31
+0001403161
+2025-08-01
+2025-08-31
+0001403161
+2024-07-01
+2024-07-31
+0001403161
+us-gaap:SeriesBPreferredStockMember
+us-gaap:PreferredStockMember
+2024-09-30
+0001403161
+us-gaap:SeriesCPreferredStockMember
+us-gaap:PreferredStockMember
+2024-09-30
+0001403161
+us-gaap:SeriesBPreferredStockMember
+us-gaap:PreferredStockMember
+2024-10-01
+2025-09-30
+0001403161
+us-gaap:SeriesCPreferredStockMember
+us-gaap:PreferredStockMember
+2024-10-01
+2025-09-30
+0001403161
+us-gaap:SeriesBPreferredStockMember
+us-gaap:PreferredStockMember
+2025-09-30
+0001403161
+us-gaap:SeriesCPreferredStockMember
+us-gaap:PreferredStockMember
+2025-09-30
+0001403161
+us-gaap:SeriesBPreferredStockMember
+us-gaap:PreferredStockMember
+2023-09-30
+0001403161
+us-gaap:SeriesCPreferredStockMember
+us-gaap:PreferredStockMember
+2023-09-30
+0001403161
+us-gaap:SeriesBPreferredStockMember
+us-gaap:PreferredStockMember
+2023-10-01
+2024-09-30
+0001403161
+us-gaap:SeriesCPreferredStockMember
+us-gaap:PreferredStockMember
+2023-10-01
+2024-09-30
+0001403161
+us-gaap:SeriesBPreferredStockMember
+2025-09-30
+0001403161
+us-gaap:SeriesBPreferredStockMember
+2024-09-30
+0001403161
+us-gaap:SeriesCPreferredStockMember
+2025-09-30
+0001403161
+us-gaap:SeriesCPreferredStockMember
+2024-09-30
+0001403161
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001403161
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-09-30
+0001403161
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001403161
+us-gaap:MoneyMarketFundsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-09-30
+0001403161
+us-gaap:USTreasurySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001403161
+us-gaap:USTreasurySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-09-30
+0001403161
+us-gaap:USTreasurySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001403161
+us-gaap:USTreasurySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-09-30
+0001403161
+us-gaap:EquitySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001403161
+us-gaap:EquitySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-09-30
+0001403161
+us-gaap:EquitySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001403161
+us-gaap:EquitySecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-09-30
+0001403161
+us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001403161
+us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-09-30
+0001403161
+us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001403161
+us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-09-30
+0001403161
+us-gaap:DerivativeFinancialInstrumentsAssetsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001403161
+us-gaap:DerivativeFinancialInstrumentsAssetsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-09-30
+0001403161
+us-gaap:DerivativeFinancialInstrumentsAssetsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001403161
+us-gaap:DerivativeFinancialInstrumentsAssetsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-09-30
+0001403161
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001403161
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-09-30
+0001403161
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001403161
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-09-30
+0001403161
+v:DeferredCompensationLiabilityMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001403161
+v:DeferredCompensationLiabilityMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-09-30
+0001403161
+v:DeferredCompensationLiabilityMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001403161
+v:DeferredCompensationLiabilityMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-09-30
+0001403161
+us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-09-30
+0001403161
+us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2024-09-30
+0001403161
+us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-09-30
+0001403161
+us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2024-09-30
+0001403161
+us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember
+2025-09-30
+0001403161
+us-gaap:USTreasurySecuritiesMember
+2025-09-30
+0001403161
+us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember
+2024-09-30
+0001403161
+us-gaap:USTreasurySecuritiesMember
+2024-09-30
+0001403161
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+us-gaap:LandMember
+2025-09-30
+0001403161
+us-gaap:LandMember
+2024-09-30
+0001403161
+us-gaap:BuildingMember
+2024-09-30
+0001403161
+us-gaap:LeaseholdImprovementsMember
+2025-09-30
+0001403161
+us-gaap:LeaseholdImprovementsMember
+2024-09-30
+0001403161
+v:TechnologyAssetsMember
+2025-09-30
+0001403161
+v:TechnologyAssetsMember
+2024-09-30
+0001403161
+v:AssetsNotYetPlacedInServiceMember
+2025-09-30
+0001403161
+v:AssetsNotYetPlacedInServiceMember
+2024-09-30
+0001403161
+v:PropertyEquipmentAndTechnologyMember
+2024-10-01
+2025-09-30
+0001403161
+v:PropertyEquipmentAndTechnologyMember
+2023-10-01
+2024-09-30
+0001403161
+v:PropertyEquipmentAndTechnologyMember
+2022-10-01
+2023-09-30
+0001403161
+v:TechnologyAndSoftwareMember
+2025-09-30
+0001403161
+us-gaap:CustomerRelationshipsMember
+2025-09-30
+0001403161
+us-gaap:CustomerRelationshipsMember
+2024-09-30
+0001403161
+us-gaap:TradeNamesMember
+2025-09-30
+0001403161
+us-gaap:TradeNamesMember
+2024-09-30
+0001403161
+us-gaap:ContractualRightsMember
+2025-09-30
+0001403161
+us-gaap:ContractualRightsMember
+2024-09-30
+0001403161
+us-gaap:TrademarksAndTradeNamesMember
+2025-09-30
+0001403161
+us-gaap:TrademarksAndTradeNamesMember
+2024-09-30
+0001403161
+v:IntangiblesFromAcquiredEntitiesMember
+2025-09-30
+0001403161
+country:US
+v:December2025NotesMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+country:US
+v:December2025NotesMember
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+country:US
+v:April2027NotesMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+country:US
+v:April2027NotesMember
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+country:US
+v:August2027NotesMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+country:US
+v:August2027NotesMember
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+country:US
+v:September2027NotesMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+country:US
+v:September2027NotesMember
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+country:US
+v:April2030NotesMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+country:US
+v:April2030NotesMember
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+country:US
+v:February2031NotesMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+country:US
+v:February2031NotesMember
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+country:US
+v:December2035NotesMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+country:US
+v:December2035NotesMember
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+country:US
+v:April2040NotesMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+country:US
+v:April2040NotesMember
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+country:US
+v:December2045NotesMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+country:US
+v:December2045NotesMember
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+country:US
+v:September2047NotesMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+country:US
+v:September2047NotesMember
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+country:US
+v:August2050NotesMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+country:US
+v:August2050NotesMember
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+srt:EuropeMember
+v:June2026SeniorNotesMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+srt:EuropeMember
+v:June2026SeniorNotesMember
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+srt:EuropeMember
+v:May2028SeniorNotesMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+srt:EuropeMember
+v:May2028SeniorNotesMember
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+srt:EuropeMember
+v:June2029SeniorNotesMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+srt:EuropeMember
+v:June2029SeniorNotesMember
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+srt:EuropeMember
+v:May2033SeniorNotesMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+srt:EuropeMember
+v:May2033SeniorNotesMember
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+srt:EuropeMember
+v:June2034SeniorNotesMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+srt:EuropeMember
+v:June2034SeniorNotesMember
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+srt:EuropeMember
+v:May2037SeniorNotesMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+srt:EuropeMember
+v:May2037SeniorNotesMember
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+srt:EuropeMember
+v:May2044SeniorNotesMember
+us-gaap:SeniorNotesMember
+2025-09-30
+0001403161
+srt:EuropeMember
+v:May2044SeniorNotesMember
+us-gaap:SeniorNotesMember
+2024-09-30
+0001403161
+srt:EuropeMember
+us-gaap:SeniorNotesMember
+2025-05-31
+0001403161
+srt:EuropeMember
+srt:MinimumMember
+us-gaap:SeniorNotesMember
+2025-05-01
+2025-05-31
+0001403161
+srt:EuropeMember
+srt:MaximumMember
+us-gaap:SeniorNotesMember
+2025-05-01
+2025-05-31
+0001403161
+srt:EuropeMember
+v:May2028SeniorNotesMember
+us-gaap:SeniorNotesMember
+2025-05-31
+0001403161
+srt:EuropeMember
+v:May2033SeniorNotesMember
+us-gaap:SeniorNotesMember
+2025-05-31
+0001403161
+srt:EuropeMember
+v:May2037SeniorNotesMember
+us-gaap:SeniorNotesMember
+2025-05-31
+0001403161
+srt:EuropeMember
+v:May2044SeniorNotesMember
+us-gaap:SeniorNotesMember
+2025-05-31
+0001403161
+srt:EuropeMember
+us-gaap:SeniorNotesMember
+2025-05-01
+2025-05-31
+0001403161
+us-gaap:CommercialPaperMember
+2025-09-30
+0001403161
+us-gaap:CommercialPaperMember
+2024-10-01
+2025-09-30
+0001403161
+us-gaap:CommercialPaperMember
+2024-09-30
+0001403161
+us-gaap:RevolvingCreditFacilityMember
+v:AmendedAndRestatedCreditAgreementMember
+us-gaap:LineOfCreditMember
+2023-05-01
+2023-05-31
+0001403161
+us-gaap:RevolvingCreditFacilityMember
+v:AmendedAndRestatedCreditAgreementMember
+us-gaap:LineOfCreditMember
+2023-05-31
+0001403161
+us-gaap:RevolvingCreditFacilityMember
+v:AmendedAndRestatedCreditAgreementMember
+us-gaap:LineOfCreditMember
+2025-09-30
+0001403161
+us-gaap:RevolvingCreditFacilityMember
+v:AmendedAndRestatedCreditAgreementMember
+us-gaap:LineOfCreditMember
+2024-09-30
+0001403161
+country:US
+us-gaap:FairValueMeasurementsRecurringMember
+2024-09-30
+0001403161
+country:US
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001403161
+country:US
+2025-09-30
+0001403161
+country:US
+2024-09-30
+0001403161
+us-gaap:ForeignPlanMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-09-30
+0001403161
+us-gaap:ForeignPlanMember
+us-gaap:FairValueMeasurementsRecurringMember
+2024-09-30
+0001403161
+us-gaap:ForeignPlanMember
+2025-09-30
+0001403161
+us-gaap:ForeignPlanMember
+2024-09-30
+0001403161
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-09-30
+0001403161
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-09-30
+0001403161
+us-gaap:NondesignatedMember
+2025-09-30
+0001403161
+us-gaap:NondesignatedMember
+2024-09-30
+0001403161
+us-gaap:ForeignExchangeContractMember
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-09-30
+0001403161
+us-gaap:ForeignExchangeContractMember
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-09-30
+0001403161
+us-gaap:CrossCurrencyInterestRateContractMember
+us-gaap:OtherNoncurrentAssetsMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-09-30
+0001403161
+us-gaap:CrossCurrencyInterestRateContractMember
+us-gaap:OtherNoncurrentAssetsMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-09-30
+0001403161
+us-gaap:ForeignExchangeContractMember
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+us-gaap:NondesignatedMember
+2025-09-30
+0001403161
+us-gaap:ForeignExchangeContractMember
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+us-gaap:NondesignatedMember
+2024-09-30
+0001403161
+us-gaap:ForeignExchangeContractMember
+us-gaap:AccruedLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-09-30
+0001403161
+us-gaap:ForeignExchangeContractMember
+us-gaap:AccruedLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-09-30
+0001403161
+us-gaap:CrossCurrencyInterestRateContractMember
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-09-30
+0001403161
+us-gaap:CrossCurrencyInterestRateContractMember
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-09-30
+0001403161
+us-gaap:InterestRateSwapMember
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2025-09-30
+0001403161
+us-gaap:InterestRateSwapMember
+us-gaap:OtherNoncurrentLiabilitiesMember
+us-gaap:DesignatedAsHedgingInstrumentMember
+2024-09-30
+0001403161
+us-gaap:ForeignExchangeContractMember
+us-gaap:AccruedLiabilitiesMember
+us-gaap:NondesignatedMember
+2025-09-30
+0001403161
+us-gaap:ForeignExchangeContractMember
+us-gaap:AccruedLiabilitiesMember
+us-gaap:NondesignatedMember
+2024-09-30
+0001403161
+us-gaap:NetInvestmentHedgingMember
+2025-09-30
+0001403161
+us-gaap:NetInvestmentHedgingMember
+2024-09-30
+0001403161
+us-gaap:AccruedLiabilitiesMember
+2025-09-30
+0001403161
+us-gaap:OtherAssetsMember
+2025-09-30
+0001403161
+country:US
+2025-09-30
+0001403161
+country:US
+2024-09-30
+0001403161
+us-gaap:NonUsMember
+2025-09-30
+0001403161
+us-gaap:NonUsMember
+2024-09-30
+0001403161
+country:US
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2024-10-01
+2025-09-30
+0001403161
+country:US
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2023-10-01
+2024-09-30
+0001403161
+country:US
+us-gaap:GeographicConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2022-10-01
+2023-09-30
+0001403161
+v:CustomerOneMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2022-10-01
+2023-09-30
+0001403161
+v:CustomerOneMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2024-10-01
+2025-09-30
+0001403161
+v:CustomerOneMember
+us-gaap:CustomerConcentrationRiskMember
+us-gaap:SalesRevenueNetMember
+2023-10-01
+2024-09-30
+0001403161
+v:CommonClassB1Member
+2025-09-30
+0001403161
+v:CommonClassB1Member
+2024-09-30
+0001403161
+v:CommonClassB2Member
+2025-09-30
+0001403161
+v:CommonClassB2Member
+2024-09-30
+0001403161
+us-gaap:SeriesBPreferredStockMember
+2024-10-01
+2025-09-30
+0001403161
+us-gaap:SeriesCPreferredStockMember
+2024-10-01
+2025-09-30
+0001403161
+us-gaap:SeriesBPreferredStockMember
+2023-10-01
+2024-09-30
+0001403161
+us-gaap:SeriesCPreferredStockMember
+2023-10-01
+2024-09-30
+0001403161
+us-gaap:SeriesBPreferredStockMember
+2022-10-01
+2023-09-30
+0001403161
+us-gaap:SeriesCPreferredStockMember
+2022-10-01
+2023-09-30
+0001403161
+2023-10-31
+0001403161
+2025-04-30
+0001403161
+us-gaap:SubsequentEventMember
+2025-10-28
+0001403161
+us-gaap:PreferredStockMember
+2025-09-30
+0001403161
+us-gaap:PreferredStockMember
+2024-09-30
+0001403161
+v:CommonClassB3Member
+2025-09-30
+0001403161
+v:CommonClassB4Member
+2025-09-30
+0001403161
+v:CommonClassB5Member
+2025-09-30
+0001403161
+v:CommonClassB1Member
+2024-05-31
+0001403161
+v:CommonClassB2Member
+2024-05-01
+2024-05-31
+0001403161
+us-gaap:CommonClassCMember
+2024-05-01
+2024-05-31
+0001403161
+v:VisaEuropeMember
+us-gaap:PreferredClassAMember
+2025-09-30
+0001403161
+v:ParticipatingSecuritiesMember
+2024-10-01
+2025-09-30
+0001403161
+v:ParticipatingSecuritiesMember
+2023-10-01
+2024-09-30
+0001403161
+v:ParticipatingSecuritiesMember
+2022-10-01
+2023-09-30
+0001403161
+v:EquityIncentiveCompensationPlan2007Member
+2025-09-30
+0001403161
+v:EquityIncentiveCompensationPlan2007Member
+2024-10-01
+2025-09-30
+0001403161
+v:EquityIncentiveCompensationPlan2007Member
+2023-10-01
+2024-09-30
+0001403161
+v:EquityIncentiveCompensationPlan2007Member
+2022-10-01
+2023-09-30
+0001403161
+us-gaap:EmployeeStockOptionMember
+2024-10-01
+2025-09-30
+0001403161
+us-gaap:EmployeeStockOptionMember
+2023-10-01
+2024-09-30
+0001403161
+us-gaap:EmployeeStockOptionMember
+2022-10-01
+2023-09-30
+0001403161
+us-gaap:EmployeeStockOptionMember
+2024-09-30
+0001403161
+us-gaap:EmployeeStockOptionMember
+2025-09-30
+0001403161
+us-gaap:RestrictedStockUnitsRSUMember
+2024-10-01
+2025-09-30
+0001403161
+us-gaap:RestrictedStockUnitsRSUMember
+2023-10-01
+2024-09-30
+0001403161
+us-gaap:RestrictedStockUnitsRSUMember
+2022-10-01
+2023-09-30
+0001403161
+us-gaap:RestrictedStockUnitsRSUMember
+2024-09-30
+0001403161
+us-gaap:RestrictedStockUnitsRSUMember
+2025-09-30
+0001403161
+us-gaap:PerformanceSharesMember
+2024-10-01
+2025-09-30
+0001403161
+us-gaap:PerformanceSharesMember
+2023-10-01
+2024-09-30
+0001403161
+us-gaap:PerformanceSharesMember
+2022-10-01
+2023-09-30
+0001403161
+us-gaap:PerformanceSharesMember
+2024-09-30
+0001403161
+us-gaap:PerformanceSharesMember
+2025-09-30
+0001403161
+v:NonUnitedStatesCustomersMember
+2024-10-01
+2025-09-30
+0001403161
+v:NonUnitedStatesCustomersMember
+2023-10-01
+2024-09-30
+0001403161
+v:NonUnitedStatesCustomersMember
+2022-10-01
+2023-09-30
+0001403161
+us-gaap:OtherAssetsMember
+2024-09-30
+0001403161
+us-gaap:ForeignCountryMember
+2025-09-30
+0001403161
+v:UncoveredLitigationMember
+2024-10-01
+2025-09-30
+0001403161
+v:UncoveredLitigationMember
+2023-10-01
+2024-09-30
+0001403161
+v:CoveredLitigationMember
+2024-10-01
+2025-09-30
+0001403161
+v:CoveredLitigationMember
+2023-10-01
+2024-09-30
+0001403161
+v:U.S.CoveredLitigationMember
+2024-09-30
+0001403161
+v:U.S.CoveredLitigationMember
+2023-09-30
+0001403161
+v:U.S.CoveredLitigationMember
+2024-10-01
+2025-09-30
+0001403161
+v:U.S.CoveredLitigationMember
+2023-10-01
+2024-09-30
+0001403161
+v:U.S.CoveredLitigationMember
+2025-09-30
+0001403161
+v:U.S.CoveredLitigationsMember
+2024-10-01
+2025-09-30
+0001403161
+v:VETerritoryCoveredLitigationMember
+2024-09-30
+0001403161
+v:VETerritoryCoveredLitigationMember
+2023-09-30
+0001403161
+v:VETerritoryCoveredLitigationMember
+2024-10-01
+2025-09-30
+0001403161
+v:VETerritoryCoveredLitigationMember
+2023-10-01
+2024-09-30
+0001403161
+v:VETerritoryCoveredLitigationMember
+2025-09-30
+0001403161
+v:ClassPlaintiffsMember
+2011-10-01
+2012-09-30
+0001403161
+v:U.S.CoveredLitigationMember
+v:InterchangeMultidistrictLitigationMember
+2011-10-01
+2012-09-30
+0001403161
+v:ClassPlaintiffsMember
+2016-06-30
+2016-06-30
+0001403161
+v:U.S.CoveredLitigationMember
+2018-09-17
+2018-09-17
+0001403161
+v:InterchangeMultidistrictLitigationMember
+v:U.S.CoveredLitigationMember
+v:VisaMasterCardandCertainU.S.FinancialInstitutionsMember
+2018-09-17
+2018-09-17
+0001403161
+us-gaap:SettledLitigationMember
+v:U.S.CoveredLitigationMember
+2018-09-17
+2018-09-17
+0001403161
+v:VisaMasterCardandCertainU.S.FinancialInstitutionsMember
+2018-09-17
+0001403161
+v:VisaMasterCardandCertainU.S.FinancialInstitutionsMember
+2019-12-13
+2019-12-13
+0001403161
+v:U.S.CoveredLitigationMember
+2019-12-13
+2019-12-13
+0001403161
+2020-05-29
+2024-09-30
+0001403161
+2020-05-29
+2020-05-29
+0001403161
+2021-04-28
+2021-06-16
+0001403161
+v:InterchangeOptOutLitigationMember
+2013-05-01
+2024-09-30
+0001403161
+v:InterchangeMultidistrictLitigationMember
+2025-09-30
+0001403161
+v:U.K.MerchantLitigationMember
+2013-07-01
+2024-11-13
+0001403161
+v:U.K.MerchantLitigationMember
+2024-11-13
+0001403161
+2022-06-01
+0001403161
+v:NationalATMCouncilClassActionMember
+2011-10-31
+0001403161
+v:ConsumerClassActionsMember
+2011-10-31
+0001403161
+v:MackimV.VisaInc.Member
+2011-10-01
+2011-10-31
+0001403161
+2025-07-01
+2025-09-30
+Table
+of Contents
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+10-K
+
+☑
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended
+September 30
+, 2025
+
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from                      to                     
+Commission file number
+001-33977
+
+VISA INC.
+
+(Exact name of Registrant as specified in its charter)
+Delaware
+ 
+26-0267673
+(State or other jurisdiction
+of incorporation or organization)
+ 
+(IRS Employer
+Identification No.)
+P.O. Box 8999
+ 
+94128-8999
+San Francisco,
+California
+ 
+(Address of principal executive offices)
+ 
+(Zip Code)
+(
+650
+) 
+432-3200
+
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:    
+Title of each class
+Trading symbol
+Name of each exchange on which registered
+Class A Common Stock, par value $0.0001 per share
+V
+New York Stock Exchange
+1.500% Senior Notes due 2026
+V26
+New York Stock Exchange
+2.250% Senior Notes due 2028
+V28
+New York Stock Exchange
+2.000% Senior Notes due 2029
+V29
+New York Stock Exchange
+3.125% Senior Notes due 2033
+V33
+New York Stock Exchange
+2.375% Senior Notes due 2034
+V34
+New York Stock Exchange
+3.500% Senior Notes due 2037
+V37
+New York Stock Exchange
+3.875% Senior Notes due 2044
+V44
+New York Stock Exchange
+Securities registered pursuant to Section 12(g) of the Act:
+Class B-1 common stock, par value $0.0001 per share
+
+Class B-2 common stock, par value $0.0001 per share
+Class C common stock, par value $0.0001 per share
+
+(Title of each class)
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    
+Yes
+  
+☑
+    No  
+☐
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act.    Yes  
+☐
+    
+No
+  
+☑
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    
+Yes
+  
+☑
+    No  
+☐
+Indicate by check mark whether the registrant has submitted electronically, every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    
+Yes
+  
+☑
+    No  
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☑
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+☐
+ 
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.
+☑
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements.
+☐
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b).
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).    Yes  
+☐
+    No  
+☑
+The aggregate market value of the registrant’s class A common stock, held by non-affiliates (using the New York Stock Exchange closing price as of March 31, 2025, the last business day of the registrant’s most recently completed second fiscal quarter) was approximately $
+601.1
+ billion. There is currently no established public trading market for the registrant’s class B-1, B-2 or class C common stock.
+ As of October 30, 2025, the registrant’s shares of common stock outstanding were as follows.
+Class
+Shares outstanding
+Class A common stock
+1,687,629,770
+Class B-1 common stock
+4,835,384
+Class B-2 common stock
+120,338,948
+Class C common stock
+8,938,707
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the Registrant’s Proxy Statement for the 2026 Annual Meeting of Shareholders are incorporated herein by reference in Part III of this Annual Report on Form 10-K to the extent stated herein. Such Proxy Statement will be filed with the Securities and Exchange Commission within 120 days of the Registrant’s fiscal year ended September 30, 2025.
+Table
+of Contents
+TABLE OF CONTENTS
+ 
+ 
+ 
+Page
+PART I
+Item 1
+Business
+4
+Item 1A
+Risk Factors
+21
+Item 1B
+Unresolved Staff Comments
+36
+Item 1C
+Cybersecurity
+36
+Item 2
+Properties
+38
+Item 3
+Legal Proceedings
+38
+Item 4
+Mine Safety Disclosures
+38
+PART II
+Item 5
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+39
+Item 6
+[Reserved]
+39
+Item 7
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+40
+Item 7A
+Quantitative and Qualitative Disclosures About Market Risk
+53
+Item 8
+Financial Statements and Supplementary Data
+55
+Item 9
+Changes in and Disagreements
+W
+ith Accountants on Accounting and Financial Disclosure
+s
+108
+Item 9A
+Controls and Procedures
+108
+Item 9B
+Other Information
+108
+Item 9C
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+109
+PART III
+Item 10
+Directors, Executive Officers and Corporate Governance
+110
+Item 11
+Executive Compensation
+110
+Item 12
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+110
+Item 13
+Certain Relationships and Related Transactions, and Director Independence
+110
+Item 14
+Principal Account
+ant
+ Fees and Services
+110
+PART IV
+Item 15
+Exhibits
+ and
+ Financial Statement Schedules
+111
+Item 16
+Form 10-K Summary
+111
+Unless the context indicates otherwise, reference to Visa, we, us, our or the Company refers to Visa Inc. and its subsidiaries.
+Visa and our other trademarks referenced in this report are Visa’s property. This report may contain additional trade names and trademarks of other companies. The use or display of other companies’ trade names or trademarks does not imply our endorsement or sponsorship of, or a relationship with, these companies.
+    
+2
+Table
+of Contents
+Forward-Looking Statements
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995 that relate to, among other things, the impact on our future financial position, results of operations and cash flows; prospects, developments, strategies and growth of our business; anticipated expansion of our products in certain countries and territories; size and growth of the total addressable opportunities in consumer payments, commercial and money movement solutions and value-added services and our ability to capture such opportunities; industry developments; anticipated timing and benefits of our acquisitions; expectations regarding litigation matters, investigations and proceedings; timing and amount of stock repurchases; sufficiency of sources of liquidity and funding; effectiveness of our risk management programs; and expectations regarding the impact of recent accounting pronouncements on our consolidated financial statements. Forward-looking statements generally are identified by words such as “anticipates,” “believes,” “estimates,” “expects,” “intends,” “may,” “projects,” “could,” “should,” “will,” “continue” and other similar expressions. All statements other than statements of historical fact could be forward-looking statements, which speak only as of the date they are made, are not guarantees of future performance and are subject to certain risks, uncertainties and other factors, many of which are beyond our control and are difficult to predict. We describe risks and uncertainties that could cause actual results to differ materially from those expressed in, or implied by, any of these forward-looking statements in
+Item 1
+,
+Item 1A
+,
+Item 7
+ and elsewhere in this report. Except as required by law, we do not intend to update or revise any forward-looking statements as a result of new information, future events or otherwise.
+3
+Table
+of Contents
+PART I
+ 
+ITEM 1.    Business
+OVERVIEW
+Visa is one of the world’s leaders in digital payments. Our purpose is to uplift everyone, everywhere by being the best way to pay and be paid. Since Visa’s early days in 1958, we have been in the business of facilitating secure, reliable and efficient global commerce and money movement. We provide transaction processing services (primarily authorization, clearing and settlement) among consumers, issuing and acquiring financial institutions and sellers in a structure we call the “four-party” model. Please see
+Our Core Business
+ discussion below. As the payments ecosystem continues to evolve, we have broadened this model to include digital banks, digital wallets, a range of financial technology companies (fintechs), governments and non-governmental organizations (NGOs). We are focused on extending, enhancing and investing in our proprietary advanced transaction processing network, VisaNet, to offer a single connection point for facilitating money movement to multiple endpoints through various form factors and innovative technologies across more than 200 countries and territories. Visa is committed to advancing innovation within the payment technology sector. Building upon our track record of industry leadership, including early adoption and integration of artificial intelligence (AI) models in payment systems, Visa continues to invest in the development and deployment of next-generation technologies, such as generative AI (GenAI), stablecoins and agentic commerce. During fiscal 2025, 329 billion payments and cash transactions with Visa’s brand were processed by Visa or other networks, equating to an average of 901 million transactions per day. Of the 329 billion total transactions, 258 billion were processed by Visa.
+•
+We offer a wide range of Visa-branded payment products
+ that our clients, including nearly 14,500 financial institutions, use to develop and offer payment solutions or services, including credit, debit, prepaid and cash access programs for individual, business and government account holders. During fiscal 2025, Visa’s total payments and cash volume was $17 trillion, and we had nearly 5 billion payment credentials, which are issued
+Visa card accounts, that
+ were available to be used at more than 175 million merchant locations worldwide.
+(1)
+•
+We take an open partnership approach
+ and seek to provide value by enabling access to our global network through multiple integration methods, including programmatic access via application programming interfaces (APIs) and structured data exchange through our Model Context Protocol (MCP) server. We partner with traditional financial institutions and emerging fintech and AI companies to innovate and expand the payments ecosystem, enabling them to leverage our platform infrastructure to accelerate their business growth and market expansion.
+•
+We are using our componentized capabilities and global connectivity
+to power all types of payments and deliver services to all types of clients worldwide through our Visa as a Service stack, which has four layers: the foundation layer, the services layer, the solutions layer and the access layer. Our foundation layer comprises the network infrastructure that enables connections to approximately 12 billion cards, bank accounts and digital wallets with more than 175 million merchant locations across more than 200 countries and territories. Our services layer organizes core capabilities, including authentication, risk management and fraud detection, into discrete, reusable components that can be utilized individually or combined into solutions. These modular services are the building blocks of our comprehensive portfolio in our solutions layer, which are enhanced to create new features and capabilities for our clients. Finally, the access layer provides clients the entry point to these solutions via on-demand APIs, our MCP server that enables AI systems to interface with our Visa Intelligent Commerce APIs, and fully managed solutions. The Visa as a Service stack enables organizations of any size to access and scale Visa’s network capabilities globally.
+•
+We are accelerating the migration to digital payments
+ through our network of networks strategy. We aim to provide a single connection point so that Visa clients can enable money movement for businesses, governments and consumers, regardless of which network is used to start or complete the transaction. This model ultimately helps to unify a complex payments ecosystem.
+
+Visa’s network of networks approach creates opportunities by facilitating person-to-person (P2P), business-to-consumer (B2C), business-to-business (B2B) and government-to-consumer (G2C) payments, in addition to consumer-to-business (C2B) payments.
+(1)
+
+Data provided to Visa by acquiring institutions and other third parties as of June 30, 2025.
+4
+Table
+of Contents
+•
+We provide value-added services
+ to our clients, including Issuing Solutions, Acceptance Solutions, Risk and Security Solutions and Advisory and Other Services.
+•
+We invest in and promote our brand
+ to benefit our clients and partners through advertising, promotional and sponsorship initiatives with the International Olympic Committee, the International Paralympic Committee, the National Football League, the FIFA World Cup 2026
+TM
+ and the Red Bull Formula One Teams (the Oracle Red Bull Racing Team and the Visa Cash App RB Formula One Team), among others. We also use these sponsorship assets to showcase our payment innovations.
+FISCAL 2025 KEY STATISTICS
+(1)
+Please see
+Item 7
+ of this report for a reconciliation of our GAAP to non-GAAP financial results.
+OUR CORE BUSINESS
+In a typical Visa C2B payment transaction, the consumer purchases goods or services from a seller using a Visa card or payment product. The seller presents the transaction data to an acquirer, usually a bank or third-party processing firm that supports acceptance of Visa cards or payment products, for verification and processing. Through VisaNet, the acquirer presents the transaction data to Visa, which in turn sends the transaction data to the issuer to check the account holder’s account balance or credit line for authorization. After the transaction is authorized, the issuer posts the transaction to the consumer’s account and effectively pays the acquirer an amount equal to the value of the transaction, minus the interchange reimbursement fee (IRF).
+
+The acquirer pays the amount of the purchase, minus the merchant discount rate (MDR), to the seller.
+Visa earns revenue by facilitating money movement across more than 200 countries and territories, among a global set of consumers, sellers, financial institutions and government entities, through innovative technologies.
+5
+Table
+of Contents
+Our net revenue in fiscal 2025 consisted of the following:
+SERVICE
+
+REVENUE
+Earned for services provided in support of client usage of Visa’s payment services and value-added services related to certain Issuing Solutions
+OTHER REVENUE
+Consists mainly of value-added services primarily related to Advisory and Other Services and certain Issuing Solutions; license fees for use of the Visa brand or technology; and fees for account holder services, certification and licensing
+DATA PROCESSING REVENUE
+Earned for authorization, clearing and settlement; value-added services primarily related to Acceptance Solutions, Risk and Security Solutions and certain Issuing Solutions; network access; and other maintenance and support services that facilitate transaction and information processing among our clients globally
+CLIENT INCENTIVES
+Paid to financial institution clients, sellers and other business partners to grow payments volume; increase Visa product acceptance; encourage seller acceptance and use of Visa’s payment services; and drive innovation
+INTERNATIONAL TRANSACTION REVENUE
+Earned for cross-border transaction processing and currency conversion activities
+Please see
+Item 7
+ and
+Note 1—Summary of Significant Accounting Policies
+ to our consolidated financial statements included in
+Item 8
+ of this report, which include disclosures on how we earn and recognize our revenue.
+Visa provides payment processing for both non-Visa-branded and Visa-branded card transactions. In the context of non-Visa-branded card transactions, we facilitate payment processing by providing gateway routing services to other payment networks. At the client’s request, we may provide authorization, clearing or settlement services on our network before or after we route the transaction to the other payments network. In those instances, Visa may earn data processing revenue for the specific services provided. In the context of Visa-branded card transactions on our network, we provide authorization, clearing and settlement services and may earn service, data processing, international transaction or other revenue. Depending on applicable regulations, some payment processors may or may not use our network to process Visa-branded card transactions. If they use our network, we may earn service revenue and data processing revenue. If they do not use our network, we may earn only service revenue.
+Visa is not a financial institution. We do not issue cards, extend credit or set rates and fees for account holders of Visa products nor do we earn revenue from or bear credit risk with respect to any of these activities.
+Interchange reimbursement fees reflect the value sellers receive from accepting our products and play a key role in balancing the costs and benefits that account holders and sellers derive from participating in our payments network. Generally, IRFs are paid by acquirers to issuers. We establish default IRFs that apply absent other established settlement terms. These default IRFs are set independently from the revenue we receive from issuers and acquirers. Our acquiring clients are responsible for soliciting sellers and for setting the fees they charge to sellers for the MDR. Visa sets fees to acquirers independently from any fees that acquirers may charge sellers. Therefore, the fees we receive from issuers and acquirers are not derived from IRFs or MDRs.
+6
+Table
+of Contents
+Visa’s strategy is to accelerate revenue growth through consumer payments (CP), commercial and money movement solutions (CMS) and value-added services (VAS), as well as fortify the key foundations of our business model. In CP, we are focused on strengthening our impact in card-based consumer payments and expanding our reach in non-card-based payments. In CMS, formerly known as new flows, we are driving and enabling further penetration of commercial payments and money movement. Finally, in VAS, we are delivering innovative services to deepen our partnerships with our clients.
+We seek to accelerate revenue growth through the following areas:
+Consumer Payments
+
+On an annual basis, we see more than $40 trillion
+(2)
+ of addressable consumer spend, excluding Russia and China. Of this spend opportunity, we are pursuing an estimated more than $20 trillion annual opportunity in underserved consumer spend, spread across cash, check, legacy Automated Clearing House (ACH), account to account (A2A) payments and real time payments (RTP) or other less effective forms of digital payments.
+We aim to grow CP by strengthening Visa’s impact in card-based consumer payments and expanding our reach in non-card-based payments. We are investing in Tap to Everything, token technology, cross-border capabilities, offerings to affluent consumers, consumer credit capabilities and other opportunities to drive our volume and expand the scope of our transactions and our payment credentials on top of which we can deliver a growing array of Visa services.
+Core Products
+Visa’s growth has been driven by the strength of our core products — credit, debit and prepaid.
+(2)
+
+Visa analysis based on third-party studies for the period covering calendar year 2024.
+7
+Table
+of Contents
+Credit:
+ Credit cards and digital payment credentials allow consumers and businesses to access credit to pay for goods and services. Credit cards are affiliated with programs operated by financial institution clients, co-brand partners, fintechs and affinity partners.
+Debit:
+Debit cards and digital payment credentials allow consumers and small businesses to purchase goods and services using funds held in their deposit accounts. Debit cards enable account holders to transact in person, online or via mobile without cash or checks and without accessing a line of credit. The Visa/PLUS Global ATM network also provides debit, credit and prepaid account holders with cash access and other banking capabilities. Issuing and acquiring partnerships with both financial institutions and independent ATM operators enable these capabilities.
+Prepaid:
+ Prepaid cards and digital payment credentials draw from a designated balance funded by individuals, businesses or governments. Prepaid cards address many use cases and needs, including general purpose reloadable, payroll, government and corporate disbursements, healthcare, gifting and travel. Visa-branded prepaid cards also play an important part in financial inclusion, bringing payment solutions to those with limited or no access to traditional banking products.
+Key Enablers
+By enabling CP, we help our clients grow as digital commerce, new technologies and new participants continue to transform the payments ecosystem.
+Tap to Everything
+Since we introduced Tap to Pay technology 20 years ago, it has emerged as a preferred way to pay in the face-to-face environment. Tap to Pay adoption is growing and Tap to Pay has become the default way Visa cardholders pay, comprising 79% and 66% of all face-to-face transactions, globally and in the United States in fiscal 2025, respectively. In addition, we have activated more than 1,000 contactless public transport projects worldwide. We processed more than 2.4 billion contactless transactions on global transit systems in fiscal 2025, surpassing the number of transactions in 2024.
+Building on the momentum of Tap to Pay, we continue to expand into new ‘Tap to Everything’ use cases. Our Tap to Phone capabilities, enabling any mobile device with near field communication capability to be converted to a payment acceptance terminal, has expanded. During fiscal 2025, we passed 20 million Tap to Phone transacting devices. In 2024, we launched our Tap to Add Card capability, enabling a consumer to add a payment credential to a digital wallet by tapping their card to their mobile device. This functionality is expanding and has more than 600 issuers participating globally, resulting in the service being live for more than 1.4 billion Visa credit and debit cards around the world. Tap to P2P, another ‘Tap to Everything’ use case, is a product that uses tokenization for security, incorporating Visa's Tap to Consumer Device and Software Development Kit (SDK) technology for contactless data transmission between devices and the convenience of Visa Direct's real time money movement for fund transfers. Finally, we are piloting our newest tap capability, Tap to Confirm, for issuers. In high-risk transaction types where an issuer might otherwise have declined the transaction, issuers can ask the consumer to tap to confirm the transaction, demonstrating that the consumer is in possession of the physical card.
+Token Technology
+We are adding identity-based authentication and other capabilities to our token technology to further drive preference for Visa payment types, including a solution for agentic commerce. Please see our
+ Looking Ahead
+ discussion below. Visa Token Service (VTS) brings trust to digital commerce innovation. As consumers increasingly rely on digital transactions, VTS is designed to enhance the digital ecosystem through improved authorization, reduced fraud and enhanced consumer experience. VTS helps protect digital transactions by replacing 16-digit Visa account numbers with a token that includes a surrogate account number, cryptographic information and other data to protect the underlying account information. This security technology can work for a variety of in-person or ecommerce payment transactions. As of September 30, 2025, Visa has provisioned more than 16 billion tokens.
+In addition, the Visa Cloud Token Framework is a cloud-based security technology program that expands token use cases to mobile wallets, ecommerce platforms and Internet of Things devices, all while adding fraud mitigation functionality. We continue to build new capabilities, such as Visa Payment Passkey, which links the token to the consumer’s device passkey information, adding another layer of security to the payment experience. Building on these capabilities, we are progressing beyond earlier implementations like Click to Pay, which provides a simplified and more consistent ecommerce checkout experience by removing time-consuming key entry of personal
+8
+Table
+of Contents
+information and enabling consumer and transaction data to be passed securely between payments network participants.
+Cross-Border
+We are a preferred global payments network for cross-border travelers in key markets, differentiated by our risk management and fraud prevention capabilities, including tokenization, and our cross-border currency and settlement capabilities, which include foreign exchange solutions.
+As our cross-border volume continues to grow year-over-year, we are investing in cross-border commerce through several strategic initiatives. These include expanding the scope and utility of our cross-border network, particularly in key travel corridors, where cash usage remains high, and increasing acceptance locations. We are also enhancing our value proposition in travel and ecommerce to drive consumer preference for Visa payment credentials and improving cross-border transaction performance and authorization rates. In addition, we are focused on improving the performance of cross-border portfolios and tapping into high-potential verticals with a significant mix of cross-border payments. We are also building more feature functionality with products like multi-currency payment credentials that allow travelers to hold and transact in multiple currencies seamlessly.
+Offerings to Affluent Consumers
+Visa is a global leader in affluent and premium co-branded programs, including our Infinite brand, which is designed to bring together benefits, experiences and product features to deliver a premium value proposition to our affluent cardholders. Our strength in this focus area is driven by core capabilities that align with the needs of affluent consumers, such as our global acceptance footprint, differentiated credit products, advanced fraud protection and dispute resolution services, brand equity and premium benefits.
+We continue to invest in experiential benefits to better serve this consumer base, including music series, concierge services and access to premier hotels and restaurants, such as the Visa Dining Collection OpenTable Benefit. In addition, we leverage our portfolio of sponsorship assets to deliver unique experiences at events, including the Super Bowl, the Olympic and Paralympic Games, the FIFA World Cup 2026
+TM
+ and through our partnership with Visa’s two Red Bull Formula One racing teams. These benefits enhance our premium value proposition and strengthen relationships with issuing partners.
+Affluent consumers represent a highly attractive market opportunity within our CP business. This focus area demonstrates significantly higher spend per cardholder in cross-border, credit and ecommerce volumes, generating more revenue for Visa compared to the average Visa cardholder.
+Powering Credit
+We have built a strong reputation and brand around our credit products by offering robust security, advanced fraud mitigation and effective dispute management. Over time, we have introduced several innovations that differentiate our credit offerings and drive consumer preference for Visa. For example, we were a pioneer in dual-message technology, which enables real-time transaction authorization, a capability that only a few payments providers globally can provide.
+Even with our strong foundation in credit, significant opportunity remains in international markets, where the penetration of card-linked credit products as a percentage of consumer spending is less than half that of the U.S. To address this, we continue to develop new products that provide greater control and insight to our issuing clients and their customers. For example, Visa Flex Credential allows consumers to use a single Visa payment credential to access and switch between multiple funding sources, like debit and credit. As of September 30, 2025, we have more than 20 signed clients in more than 20 countries across all regions.
+9
+Table
+of Contents
+Expanding Our Reach in Consumer Payments
+We aim to capture value and drive yield from CP currently routed through A2A networks via two primary strategies. First, we are focused on capturing A2A payments through card-enabled payment flows. One example of our most recent innovations in this space is Visa Pay, which we launched in 2025, expanding digital payment access by connecting participating digital wallets to Visa’s network with digital credentials for payments globally. In certain regions, digital wallet providers, A2A schemes and banks can adopt Visa Pay by connecting to our APIs directly, enabling access to Visa’s global acceptance as a white-label solution within the user’s app. In addition, we are piloting these same functionalities through our full stack SDK. In the Central and Eastern Europe, Middle East and Africa markets, a stand-alone Visa Pay app enables banks to offer their customers the ability to set up a Visa account or payment credential and conduct payments at Visa acceptance locations.
+Second, we leverage A2A networks to deliver Visa-branded A2A products, most notably through Tink, our open banking solution in regions, such as Europe and Latin America. Tink enables open banking and data exchange for A2A transactions. Since acquiring Tink in 2022, we have scaled our open banking payments network, reaching thousands of bank connections as of September 30, 2025. Please see our
+Advisory and Other Services
+ discussion below. Visa is collaborating with our financial institution and fintech partners to bring Visa A2A to United Kingdom customers. In addition, as we expand the Visa as a Service stack, we are providing value-added services to local payment methods operating on A2A or RTP networks. Please see our
+ Risk and Security Solutions
+ discussion below.
+Commercial & Money Movement Solutions
+CMS is focused on driving digitization and improving the payments and money movement experience across all payment flows, beyond C2B, through our network of networks. These include P2P, B2C, B2B and G2C payments, which provide some of the largest payment opportunities in the world. Representing a total addressable opportunity of approximately $200 trillion
+(3)
+ of payment flows annually, excluding Russia and China, this pillar of our business aims to make payments and money movement easier for businesses, consumers and governments, using both Visa’s global network and connectivity to other networks around the world
+.
+We have two key objectives in this business area. The first objective is to address B2B payments flows from small businesses up to large enterprises and governments through our Visa Commercial Solutions, a card and virtual payments-led business. This part of the business focuses on addressing approximately $35 trillion of annual opportunity by converting small and medium business spend to our solutions; scaling our existing large and middle market use cases to more countries, corporates and partners; delivering product innovation and network flexibility, driving more B2B spend to cards and virtual payments, enabling new and emerging B2B verticals; and unlocking new commercial card acceptance with suppliers.
+The second objective is to address money movement and a subset of B2B flows through Visa Direct. This part of the business focuses on growing our domestic business through our core P2P use case and penetrating new use cases, growing our cross-border flows through enhanced network capabilities; and deepening our relationships with existing clients through new use cases, corridors and services. Through our Visa Direct strategy, we are pursuing approximately $55 trillion of annual opportunity in P2P, B2C and G2C money movement flows and approximately $25 trillion of annual opportunity in B2B money movement flows.
+Visa Commercial Solutions
+As a long-time participant in the B2B ecosystem, we have been supporting small businesses, large and middle market companies, and governments with their payments needs. We continue to see opportunities for growth as businesses seek simple digital experiences, similar to those available to consumers. Visa offers a holistic suite of tailored solutions for businesses, providing payment, reconciliation and data to help manage working capital and drive efficiency, set spend controls, manage expenses and automate payment processes.
+(3)
+ Visa analysis based on third-party studies as of 2022.
+10
+Table
+of Contents
+Our portfolio of commercial payments solutions includes small business cards, corporate (travel) cards, purchasing cards, virtual cards and digital payment credentials. Businesses look to optimize processes and effectively manage working capital by utilizing our commercial payments solutions. To support small businesses we expanded the small business supplier matching webtool so that it is directly accessible to small- and medium-size businesses, enhancing their ability to use their payment credentials for business payments. For large business spend, we have been expanding our presence in specific commercial spend verticals, such as fleet and fuel, travel and agriculture. We have also extended our products and capabilities specifically for accounts receivable and accounts payable spend, through either embedded finance capabilities, or new solutions like our Accounts Receivable Manager virtual card automation solution in the U.S.
+Visa Direct
+We have the largest money movement platform in the world
+—
+by transactions, volumes and endpoints
+—
+through years of product innovation and acquisitions. Visa Direct began with cards, by taking our existing Visa network and allowing users to receive money to their bank accounts via their debit cards as an endpoint. We have also expanded our network of networks by adding connectivity to accounts through our acquisition of Earthport. Through further innovation, we added digital wallets.
+We have strengthened our position in the money movement space through additional assets we have acquired and built, such as Currencycloud and YellowPepper, to create the Visa Direct platform. The Visa Direct platform facilitates domestic and cross-border money movement, enabling clients to collect, hold, convert and send funds across our network. Visa Direct enables P2P payments and A2A transfers, business and government payouts to individuals or small businesses, seller settlements and refunds, among other use cases, across more than 195 countries and territories. Visa Direct utilizes more than 90 domestic payment schemes and more than 60 card and wallet networks, with the potential to reach approximately 12 billion endpoints, through approximately 4 billion cards, bank accounts and digital wallets, respectively. In fiscal 2025, Visa Direct processed more than 12.5 billion transactions for more than 650 partners.
+Through Visa+, we aim to provide simplified reach and delivery of funds through alias-linked accounts and wallets, giving flexibility and additional choices to consumers when receiving payments. Visa+ does not require users to have a Visa card; instead, it is based on an alias credential that is linked to their participating payment apps.
+Value-Added Services
+VAS represents approximately a $520 billion annual revenue opportunity
+(4)
+ for us to diversify our revenue with products and solutions that help our clients and partners optimize their performance, differentiate their offerings and create better experiences for their consumers. Our comprehensive suite of value-added services spans four portfolios: Issuing Solutions, Acceptance Solutions, Risk and Security Solutions and Advisory and Other Services, which represent approximately $125 billion, $95 billion, $150 billion and $150 billion, respectively, of our overall $520 billion annual revenue opportunity in VAS.
+Our VAS strategy, aimed at deepening our partnerships, has three areas of focus: (1) enhance Visa payments by making the Visa network easier to access, more attractive and more secure, increasing yield per transaction; (2) enable all payments by providing access and managing experiences for A2A, alternative payment methods and other card schemes; and (3) go beyond payments by helping clients optimize their payments businesses and achieve multiplier effects. We have made significant progress across each of these areas and offer more than 200 products and services as of September 30, 2025, many of which are designed to work together to deliver high-impact business outcomes.
+(4)
+
+Visa analysis based on third-party studies as of 2024.
+11
+Table
+of Contents
+Issuing Solutions
+The largest division under our Issuing Solutions business is our Cardholder Engagement solutions, which provide issuers with benefits including airport lounge access, dining reservations, shopping experiences, event tickets, seller offers and access to unique experiences with the goal of driving engagement and spend on Visa payment credentials. We provide a range of other services and digital solutions to issuers, such as account controls, digital issuance and branded consumer experiences. In addition, Visa offers loyalty and benefits solutions to issuers aimed at creating compelling and differentiated cardholder experiences, as well as Buy Now, Pay Later (BNPL) capabilities, which allow shoppers the flexibility to pay for a purchase in equal payments over a defined period of time. Visa is investing in installments as a payments strategy by offering Visa payment credentials and BNPL solutions to issuers and fintechs.
+In Cardholder Experiences, we cover a wide variety of use cases enabling issuers to offer payment experiences to their consumers, which in turn can help drive higher engagement and spend on Visa payment credentials. Our digital enablement solutions help issuers build and deploy new functionalities to their account holders, such as our subscription manager solution that offers an issuer’s consumers enhanced visibility into card-on-file transactions and the ability to manage or discontinue recurring payments. In addition, our Smarter Stand-In Processing uses AI to authorize transactions on behalf of issuers in the event of system outages or maintenance, while our digital enablement solutions allow issuers to easily build and deploy new functionalities for their customers.
+Our last two solutions are Issuer Processing and Core Banking, which are primarily delivered by our Visa DPS and Pismo platforms. Visa DPS is a large issuer processor of multi-network transactions, which also provides a wide range of value-added services, including fraud mitigation, dispute management, data analytics, campaign management, a suite of digital solutions and contact center services. Our capabilities in API-based issuer processing solutions, such as DPS Forward, allow our clients to create new payments use cases and provide them with modular capabilities for digital payments. Finally, Pismo’s technology platform provides core banking and card-issuer processing capabilities across credit, debit and prepaid payment credentials via cloud native APIs. It also provides core banking, support and connectivity for emerging payment frameworks and RTP networks for financial institution clients.
+Acceptance Solutions
+Visa Acceptance Solutions provide modular, value-added services in addition to the traditional gateway function of connecting sellers to payment processing, as well as secure, reliable services for sellers and acquirers that help reduce friction and drive acceptance. Our Network Products represent a suite of solutions designed to enhance Visa transactions for sellers and acquirers. For example, our account verification service checks for invalid or compromised payment credentials before a purchase to help prevent fraud. In addition, our Account Updater provides updated account information for sellers to help strengthen customer relationships and retention.
+Using the Visa Acceptance Platform, acquirers, payment service providers, independent software vendors and sellers can improve the way their consumers engage and transact, while helping to mitigate fraud and lower operational costs. These solutions enable them to enhance, complement or supplement their existing payment services to adapt to changing business requirements. Built on a cloud-based architecture, our Acceptance Platform solutions such as Cybersource and Authorize.net provide new and enhanced omnichannel payment integrations with ecommerce platforms, enabling sellers and acquirers to provide tailored commerce experiences with seamlessly embedded payments tools. Token Management Service, another example, helps simplify network token adoption, offers access and management for seller and acquiring clients, provides a single integration point into major card networks and is used standalone or easily integrated into other payment solutions For more information, see the
+Token Technology
+ discussion above.
+12
+Table
+of Contents
+Our Post-Purchase solutions include a network-agnostic solution from Verifi that enables sellers to prevent and resolve disputes on a single platform as well as dispute tools for issuers and acquirers like Visa Resolve Online.
+Risk and Security Solutions
+Visa’s Risk and Security Solutions offer risk detection and prevention solutions underpinned by real-time AI-driven scores. These solutions are increasingly becoming payment-type and card-network agnostic. We transform data into insights for near real-time decisions and facilitate account holder authentication to help financial institutions and seller clients prevent fraud and protect account holder data. Transaction Risk includes the Visa Protect suite of solutions with a range of products that empower financial institutions and sellers with tools that facilitate automation, simplify fraud prevention and enhance payment security, such as Visa Consumer Authentication Service, Visa Advanced Authorization and Visa Provisioning Intelligence. These offerings highlight our AI and machine learning capabilities. For example, Visa Consumer Authentication Service provides an AI-powered, real-time, network-agnostic risk score that enables clients to reduce fraud and false declines for intelligent authentication decisions. Visa Advanced Authorization uses machine learning algorithms to help identify fraud for Visa card payments and Visa Provisioning Intelligence is an AI-powered risk score designed to help prevent tokens from being fraudulently provisioned.
+Visa also has products in the Visa Protect suite that are designed to reduce fraud across immediate A2A and ecommerce payments, as well as transactions both on and off Visa’s network. Visa Deep Authorization is an AI-powered transaction risk scoring solution tailored to better manage ecommerce payments, which strengthens the protection of Visa’s transactions through transaction risk scoring. Visa Protect for A2A Payments is our first fraud prevention solution built specifically for real-time non-card payments. Finally, Visa Risk Manager with network-agnostic Visa Advanced Authorization is a comprehensive AI-powered fraud risk management solution. Visa’s value-added fraud prevention tools layer on top of a suite of our network programs that protect the safety and integrity of the payment ecosystem, and help to prevent, detect and mitigate threats. In addition, Visa's Cybersource Decision Manager helps our seller and acquirer clients manage and reduce fraud in payments acceptance.
+In Authentication solutions, we offer a range of authentication and transaction risk solutions to help acquirers and sellers identify customers and limit fraud across multiple payment methods and sales channels. Meanwhile, our Cybersecurity solutions provide risk mitigation against newer threats such as enumeration and device protection. For example, clients use the Visa Account Attack Intelligence Score to make more informed decisions around enumeration transaction blocking. In December 2024, we expanded our Risk and Security Solutions offerings by acquiring Featurespace, a developer of real-time behavioral analytics and AI-powered payments protection technology that helps prevent and mitigate payments fraud and financial crime risks.
+Advisory and Other Services
+Visa Advisory Services offers deep payments expertise through a global consulting practice, proprietary analytics models, data scientists and economists, marketing services and managed services to deliver insights for issuers, acquirers, sellers, fintechs and other partners that help them optimize business decisions and scale their operations. Operating as the payments consulting arm of Visa, Visa Consulting and Analytics (VCA) utilizes our payments expertise and economic intelligence to identify actionable insights, make recommendations and help implement solutions. VCA is comprised of specialized advisory practices such as strategy and commercial money movement, portfolio optimization, digital, AI, stablecoin, cybersecurity, risk and implementation support, which drive measurable outcomes for our clients. VCA Implementation Services embeds teams within client organizations to help execute key initiatives.
+Visa Marketing Services offers a full suite of solutions that spans across the entire campaign lifecycle. This includes research, strategy, campaign design, execution and measurement. We bring customized solutions to Visa clients with unique activation opportunities with Visa’s sponsorships, and we utilize our data analytics and understanding of consumers’ transactional behavior to provide marketing solutions designed to deliver effective results, drive brand preference and influence consumer behavior. Our Data Solutions suite uses Visa transaction data to help clients analyze and improve performance across a range of areas, including consumer spend, peer benchmarking and fraud performance. For example, Visa Analytics Platform is a web-based, self-service analytics solution that provides customizable views of payments data and insights to a broad range of clients.
+In addition, through our open banking platform, Tink, we continue to accelerate the development and adoption of open banking securely and at scale. Visa’s open banking capabilities range from data access use cases, such as account verification, balance check and personal finance management, to payment initiation capabilities, such as A2A transactions and seller payments. These capabilities can help our partner businesses deliver valuable services
+13
+Table
+of Contents
+to their customers. In fiscal 2025, we launched Visa A2A in the UK, an open system bringing standards, rules and a dispute management service to eligible banks and businesses, enabling them to provide consumers with a more streamlined bill payment experience. Key features include increased protection, more optionality by allowing consumers to pay directly from their bank accounts and enhanced controls over payment permissions.
+Looking Ahead
+As commerce evolves, so do buyer and seller preferences and to fulfill our purpose, we develop and deploy solutions that enable our expanding network of partners to meet and exceed the needs of their users as we build the future of payments across our three growth pillars. Two examples of this include our agentic commerce and stablecoin efforts.
+Our token infrastructure enables expansion into emerging payments use cases, including autonomous and agentic commerce. Visa Intelligent Commerce is an innovative offering in this space that integrates Visa’s tokenization technology with authentication and predictive analytics, empowering partners to deploy secure, personalized commerce experiences. The platform comprises a suite of integrated APIs, including tokenized payment credentials with authentication for agent-driven transactions, AI-powered personalization services using Visa transaction insights to optimize search and commerce recommendations and intelligent payment processing with authenticated payment instructions and contextual signals. These capabilities are supported by a commercial partner program for platforms and developers, providing the tools and infrastructure to deploy AI-driven commerce solutions securely and at scale. Additionally, these APIs are accessible through our MCP server, connecting AI systems to Visa’s payment network infrastructure and Visa’s Trusted Agent Protocol, which enables safer agent-driven checkout by helping sellers verify agents and malicious bots, utilizing existing web infrastructure. In 2025, we deployed a pilot program that processed live agentic token transactions within the ecommerce and enterprise environments.
+We see opportunity for stablecoins in two important areas: emerging markets where the local fiat currency is volatile and/or where consumers do not have easy or affordable access to U.S. dollars; and cross-border money movement, through both B2B payments and consumer remittances. We have provided both the on-ramp and off-ramp platform for buying and spending crypto assets and stablecoins through cards. Since 2020, Visa has facilitated the purchase of over $100 billion worth of crypto and stablecoin assets and we have facilitated the spend of more than $35 billion in crypto and stablecoin assets through crypto-linked Visa payment credentials. We are also developing cross-border money movement capabilities for P2P and B2B in certain emerging markets. As part of this initiative, we are building out a full stack stablecoin platform with integrations into leading stablecoin issuers and payment platforms across the world that enable Visa to access, redeem, convert and transfer stablecoins. We believe that these offerings have the potential to leverage the advantages of stablecoins, including enhancing the speed, cost efficiency and transparency of cross-border money movement as transactions can settle quickly seven days a week. We continue to expand our stablecoin settlement activities, enabling support for four stablecoins and four blockchains. This serves as an extension of our Visa treasury infrastructure, which already facilitates settlement in more than 25 traditional fiat currencies. As of September 30, 2025, stablecoin settlement volume surpassed a $2.5 billion annualized run rate. In addition, in September 2025, we announced a stablecoin prefunding pilot targeting banks, remitters and financial institutions seeking faster, more flexible ways to manage liquidity. Such clients will have the ability to pre-fund Visa Direct with stablecoins to cover payouts. We treat these stablecoins equivalent to funds on deposit available for payout in fiat currency. Lastly, we are enabling banks to issue and manage their own stablecoins through the Visa Tokenized Asset Platform.
+We are fortifying the key foundations of our business model, which consist of our brand, product innovation, platforms and security, government affairs, sales and service and talent and people, in order to execute our strategy and deliver our purpose.
+14
+Table
+of Contents
+Brand
+Visa’s strong brand helps deliver added value to financial institutions, sellers and partners through compelling brand expressions, a wide range of products and services as well as innovative brand and marketing efforts. In line with our commitment to an expansive and diverse range of partnerships for the benefit of our stakeholders, Visa is a sponsor of top entertainment and sports events including the FIFA World Cup 2026
+TM
+, the Olympic and Paralympic Games and the Super Bowl.
+Product Innovation
+We are focused on our product innovation to build new capabilities and enhance our existing solutions. For companies that want to be in the money movement or payments business, they can build on top of the Visa as a Service stack in order to connect billions of buyers and sellers through secure and seamless digital payments. We believe this scale and reach will continue to drive innovative forms of commerce and support Visa’s long-term growth.
+Platforms and Security
+Our technology platforms form the backbone of what Visa does and provide security, reliability, uptime and operational excellence, all while fueling our product development and innovation. Visa’s leading technology platforms comprise software, hardware, data centers and a large telecommunications infrastructure. Visa’s four global data centers are a critical part of our global processing environment and have a high redundancy of network connectivity, power and cooling designed to provide continuous availability of systems.
+Our in-depth, multi-layer security approach includes a formal program to devalue sensitive and/or personal data through various cryptographic means; embedded security in the software development lifecycle; identity and access management controls to protect against unauthorized access; and advanced cyber detection and response capabilities. We use information security tools that help keep our clients and consumers safe and invest significantly in our comprehensive approach to cybersecurity. We deploy information security technologies to protect data confidentiality, the integrity of our network and service availability and to strengthen our core cybersecurity capabilities to minimize risk. Our payments ecosystem risk and control team continually monitors threats to the payments ecosystem to help ensure attacks are detected and prevented efficiently and effectively through the pairing of our AI capabilities with our security experts.
+Government Affairs
+Our team of Government Affairs professionals engage with governments across the more than 200 countries and territories where Visa operates. Our Government Affairs team seeks to proactively influence the policy and regulatory landscape to expand our business and support Visa’s mission of uplifting everyone, everywhere, by being the best way to pay and be paid. The team plays a crucial role in creating opportunities to expand access to digital payments and shape public policy that empowers governments, businesses and individual consumers to succeed. Visa actively works with governments, officials, policymakers and stakeholders to shape the future of digital payments. We also leverage our country managers around the world who are deeply connected with the governments where we operate. Our engagement is as important as it has ever been, and we have a proven track record of partnering with governments to advance digitization of payments and shape regulatory policies. Through our work with governments, we foster innovation and find opportunities to drive digital transformation and further enable access to financial services.
+Sales and Service
+Our Sales and Service teams are the vital link between Visa and our clients, delivering innovative, data-driven solutions that enable secure digital commerce. As the first point of contact for our clients, our Sales and Service teams help our clients grow by providing services that anticipate and meet their needs and drive tangible business results.
+Talent and People
+Attracting, developing and advancing the best talent globally is critical to our continued success. This year, we grew our total workforce from approximately 31,600 in fiscal 2024 to approximately 34,100 employees in fiscal 2025, an increase of 8% year-over-year. As of September 30, 2025, our voluntary workforce turnover (rolling 12-month attrition) was approximately 6%. Visa employees are located in 86 countries and territories, with more than 60% located outside the U.S.
+15
+Table
+of Contents
+As Visa strives to achieve our purpose and our growth objectives, we have focused on enhancing our employees’ expertise across our business. We offer unique career pathways for employees and provide them with tools and support to build on their leadership impact and develop their careers. Along with our educational assistance program and Visa University learning pathways, employees are encouraged to broaden their knowledge and develop new skills by participating in leadership development programs (e.g., New to Visa People Leadership). Visa’s commitment to innovation and collaboration is reflected in how we equip employees with GenAI capabilities that can enhance content creation, productivity and business automation. At the heart of this effort is our internal GenAI hub that serves as an easy-to-access entry point to AI models, applications and developer tools available to Visa employees. The GenAI Hub brings together Visa’s chatbots, apps and internal platforms, enabling AI to be a driver of everyday decision making and problem solving. Additionally, Visa’s own AI assistant for employees connects knowledge across Visa’s systems and uses agentic AI to empower employees with fast self-service solutions. From its launch in March 2025 through the fiscal year ended September 30, 2025, it has been embraced by nearly 26,000 employees launching over 261,000 AI-powered chats to get answers, automate tasks and accelerate outcomes.
+We are committed to providing benefits that support our employees. As part of our inclusive “whole person” approach to benefits, Visa offers a robust package of curated tools, resources and benefits for our employees. While programs vary by location, some of our financial benefits include retirement savings, employee stock purchase plan and financial well-being sessions and resources. We also expanded our mental health first aid training and continued to grow our peer-to-peer ambassador network to strengthen our well-being support and culture of community for employees in addition to our enhanced mental well-being benefits.
+We are also dedicated to ensuring that employees feel valued in their day-to-day work. In recent years, Visa has prioritized and invested in employee recognition, which in turn drives engagement and innovation. Our UPLIFT program enables employees to recognize, appreciate and celebrate each other, no matter their role or level. In fiscal 2025, users with active participation in the UPLIFT platform as a percentage of all users remained strong at 76%.The UPLIFT program also drives Visa’s culture by grounding the recognition categories in our Visa Leadership Principles (VLPs), further reinforcing that at Visa, it is not only about
+what
+you achieve, but
+how
+you do it.
+Based on our latest employee engagement survey, 85% of employees would recommend Visa as a great place to work. We strive to put our people first and continually seek ways to enhance our robust culture in which everyone upholds our VLPs, which are at the heart of everything we do. We conducted a digital campaign to integrate the VLPs in fresh, creative ways across the employee experience. We also launched tools to help leaders across all levels of the company communicate more openly and transparently, with actionable and practical tips that managers can incorporate day to day, especially when leading through change. We created a new digital People Leader Hub to engage people leaders on major initiatives and help them easily access resources and timely information.
+We also invest in our internal channels to ensure that employees feel closely connected to one another and to our business at large. Viva Engage, our internal social network, is visited by 95% of employees at least once a month, with 89% reading six or more posts a month. This year we also modernized our corporate intranet to enable the integration of GenAI tools as well as content tailored to the individual user. For additional information regarding our human capital management, please see the section titled “People and Talent Management” in Visa’s 2025 Proxy Statement as well as our website at
+visa.com/crs
+, which includes our 2024 Consolidated EEO-1 Report and our 2024 Corporate Responsibility and Sustainability (CRS) Report. See
+Available Information
+ below.
+MERGERS AND ACQUISITIONS, JOINT VENTURES AND STRATEGIC INVESTMENTS
+Visa continually explores opportunities to augment our capabilities and provide meaningful value to our clients. Mergers and acquisitions, joint ventures and strategic investments complement our internal development and enhance our partnerships to align with Visa’s priorities. Visa applies a rigorous business analysis to our acquisitions, joint ventures and investments to ensure they will differentiate our network, provide value-added services and accelerate growth.
+In fiscal 2024, we completed our acquisition of Pismo, a global cloud-native issuer processing and core banking platform with operations in Latin America, Asia Pacific and Europe, and we entered into a definitive agreement to acquire a majority interest in Prosa, a leading payments processor in Mexico. After closing, Prosa will continue to operate as an independent company. The Prosa acquisition is subject to customary closing conditions, including applicable regulatory approvals. In fiscal 2025, we completed our acquisition of Featurespace, a developer of real-time artificial intelligence payments protection technology that helps prevent and mitigate payments fraud and financial crime risks.
+16
+Table
+of Contents
+CORPORATE RESPONSIBILITY AND SUSTAINABILITY
+Visa is committed to operating as a responsible, ethical, inclusive and sustainable company. As a trusted network and global leader in digital payments, Visa strives to join with clients, partners and other stakeholders to empower people, businesses and communities to thrive. Visa’s purpose is to uplift everyone, everywhere by being the best way to pay and be paid. While we work toward this goal, we are committed to managing the risks and opportunities that arise from environmental and social issues and providing strong executive and Board oversight of our overall strategy. Our 2024 CRS Report, as well as other CRS-related resources are available in the CRS Resources section of our corporate website at
+corporate.visa.com/en/about-visa/crs/resources.html
+. See
+Available Information
+ below.
+INTELLECTUAL PROPERTY
+We own and manage the Visa brand, which stands for acceptance, security, convenience, speed and reliability. Our portfolio of Visa-owned trademarks is important to our business. Generally, trademark registrations are valid indefinitely as long as they are in use and/or maintained. We give our clients access to these assets through agreements with our issuers and acquirers, which authorize the use of our trademarks in connection with their participation in our payments network. Additionally, we own many patents and patent applications related to our business and continue to pursue patents in emerging technologies that may have applications in our business. We rely on a combination of patent, trademark, copyright and trade secret laws in the U.S. and other jurisdictions, as well as confidentiality procedures and contractual provisions, to protect our proprietary technology.
+COMPETITION
+The global payments industry continues to undergo dynamic and rapid change. Existing and emerging competitors compete with Visa’s network and payment solutions for consumers and for participation by financial institutions and sellers. Technology and innovation are shifting consumer habits and driving growth opportunities in ecommerce, GenAI agent-based commerce, mobile payments, blockchain technology and digital currencies, including stablecoins. These advances are enabling new entrants, many of which depart from traditional network payment models. In certain countries, the evolving regulatory landscape is creating local networks or enabling additional processing competition.
+We compete against all forms of payment. These include paper-based payments, primarily cash and checks, and all forms of electronic payments. Our electronic payment competitors principally include the ones listed below.
+Global or Multi-regional Networks:
+ These networks typically offer a range of branded, general purpose card payment products that consumers can use at millions of merchant locations around the world. Examples include American Express, Diners Club/Discover (now owned by Capital One), JCB, Mastercard and UnionPay. These competitors may be more concentrated in specific geographic regions, such as Discover in the U.S. and JCB in Japan, or have a leading position in certain countries, such as UnionPay in China. See
+ Item 1A—Regulatory Risks—Government-imposed obligations and/or restrictions on international payments systems may prevent us from competing against providers in certain countries, including significant markets such as China and India
+. Based on available data, Visa is one of the largest retail electronic funds transfer networks used throughout the world.
+The following chart compares our network with certain network competitors for calendar year 2024
+(1)
+:
+Visa
+American Express
+Diners Club / Discover
+JCB
+Mastercard
+Payments Volume ($B)
+13,433 
+1,750 
+253 
+319 
+8,014 
+Total Volume ($B)
+(2)
+15,927 
+1,765 
+266 
+327 
+9,757 
+Total Transactions (B)
+311 
+12 
+4 
+7 
+204 
+Cards (M)
+4,805 
+147 
+72 
+167 
+3,146 
+(1)
+American Express, Diners Club / Discover, JCB and Mastercard data sourced from The Nilson Report issue 1288 (June 2025). Includes all consumer, small business and commercial credit, debit and prepaid cards for Visa and Mastercard and includes all consumer, small business and commercial credit cards, including business from third-party issuers, for American Express, Diners Club / Discover, and JCB. JCB figures include other payment-related products and some figures are estimates. Mastercard excludes Maestro and Cirrus figures.
+(2)
+Total volume is the sum of payments volume and cash volume. Cash volume generally consists of cash access transactions, balance access transactions, balance transfers and convenience checks.
+Local and Regional Networks:
+ Operated in many countries, these networks often have the support of government influence or mandate. In some cases, they are owned by financial institutions or payment processors.
+17
+Table
+of Contents
+These networks typically focus on debit payment products, and may have strong local acceptance and recognizable brands. Examples include NYCE, Pulse and STAR in the U.S.; Interac in Canada; and eftpos in Australia.
+Alternative Payments Providers:
+ These providers, such as closed commerce ecosystems, BNPL solutions and cryptocurrency platforms (including stablecoins), often have a primary focus of enabling payments through ecommerce and mobile channels; however, they are expanding or may expand their offerings to the physical point of sale. These companies may process payments using in-house account transfers between parties, electronic funds transfer networks like the ACH, global or local networks like Visa, or some combination of the foregoing. In some cases, these entities can be both a partner and a competitor to Visa.
+RTP Networks:
+ RTP networks have launched in at least 80 countries and continue to be driven by strong government sponsorship and regulatory initiatives to enable and drive adoption (e.g., FedNow in the U.S., PIX in Brazil and United Payments Interface (UPI) in India), increasing their position as an alternative to payment card schemes. These networks primarily focus on domestic transactions, with adoption varying by use cases and geographies. However, with linkages such as PayNow in Singapore and UPI in India, cross-border RTP networks are advancing and will compete with our cross-border business. RTP networks can compete with Visa on consumer payments and other payment flows (e.g., B2B and P2P) but can also be customers for value-added services, such as risk management.
+Digital Wallet Providers:
+
+Digital wallet providers continue to expand payment capabilities in person and online for consumers and sellers and provide consumers with additional ways to pay. While digital wallets can help drive Visa volumes, they can also be funded by non-card payment options. Digital wallet providers who utilize RTP networks provide additional competition.
+Payment Processors:
+ Payment processors may perform processing services on third-party payments networks on behalf of issuers or acquirers
+.
+We compete with payment processors for the processing of Visa transactions. These processors may benefit from mandates requiring them to handle processing under local regulation. For example, as a result of the Interchange Fee Regulation (IFR) in Europe, we may face competition from other networks, processors and other third parties who could process Visa transactions directly with issuers and acquirers.
+CMS Providers:
+We compete with alternative solutions to our CMS (e.g., Visa Direct) such as ACH, RTP and wires. We compete with other global and local card networks for commercial card portfolios. Additionally, we may face competition from industry players who are experimenting with B2B blockchain payments, including stablecoins, which are gaining regulatory clarity, can operate globally 24/7, and have the capability to support cross-border transactions.
+Value-Added Service Providers:
+We face competition from companies that provide alternatives to our value-added services. These include a wide range of players, such as technology companies, information services and consulting firms, governments and merchant services companies. The integration of technology like GenAI can create new and better offerings that compete with our value-added services, such as strengthened risk monitoring and managing digital identification. Regulatory initiatives could also lead to increased competition in these areas.
+We believe our fundamental value proposition of security, convenience, speed and reliability as well as the number of payment credentials and our acceptance footprint help us to succeed. In addition, we understand the needs of the individual markets in which we operate and partner with local financial institutions, sellers, fintechs, governments, NGOs and business organizations to provide tailored and innovative solutions. We will continue to utilize our network of networks strategy to facilitate the movement of money. We believe Visa is well-positioned competitively due to our global brand, our broad set of payment products, CMS offerings and value-added services and our proven track record of processing payment transactions securely and reliably.
+GOVERNMENT REGULATION
+As a global payments technology company, we are subject to complex and evolving global regulations in the various jurisdictions in which our products and services are used. The most significant government regulations that impact our business are discussed below. For further discussion of how global regulations may impact our business, see
+Item 1A—Regulatory Risks
+.
+Anti-Corruption, Anti-Money Laundering, Anti-Terrorism and Sanctions:
+We are subject to anti-corruption laws and regulations, including the U.S. Foreign Corrupt Practices Act (FCPA), the UK Bribery Act and other laws that generally prohibit the making or offering of improper payments to foreign government officials and political
+18
+Table
+of Contents
+figures for the purpose of obtaining or retaining business or to gain an unfair business advantage. We are also subject to anti-money laundering and anti-terrorist financing laws and regulations, including the U.S. Bank Secrecy Act. In addition, we are subject to economic and trade sanctions programs administered by the Office of Foreign Assets Control (OFAC) in the U.S. Therefore, we do not permit financial institutions or other entities that are domiciled in countries or territories subject to comprehensive OFAC trade sanctions (currently, Cuba, Iran, North Korea, Crimea and the Donetsk People’s Republic and Luhansk People’s Republic regions of Ukraine), or that are included on OFAC’s list of Specially Designated Nationals and Blocked Persons, to issue or acquire Visa cards or engage in transactions using our products and services.
+Government-imposed Market Participation Restrictions:
+ Certain governments, including China, India, Indonesia, Thailand, Vietnam, and South Africa, have taken actions to promote domestic payments systems and/or certain issuers, payments networks or processors, by imposing regulations that favor domestic providers, impose local ownership requirements on processors, require data localization or mandate that domestic processing be done in that country.
+Interchange Rates and Fees:
+An increasing number of jurisdictions around the world regulate or influence debit and credit interchange reimbursement rates in their regions. For example, the U.S. Dodd-Frank Wall Street Reform and Consumer Act (Dodd-Frank Act) limits interchange reimbursement rates for certain debit card transactions in the U.S.; the European Union (EU) Interchange Fee Regulation (IFR) limits interchange rates in the European Economic Area (EEA) (as discussed below); and the Reserve Bank of Australia (RBA) regulates average permissible levels of interchange.
+Internet Transactions:
+Many jurisdictions have adopted regulations that require payments system participants to monitor, identify, filter, restrict or take other actions with regard to certain types of payment transactions on the Internet, such as gambling, digital currencies, the purchase of cigarettes or alcohol and other controversial transaction types.
+Network Exclusivity and Routing:
+ In the U.S., the Dodd-Frank Act limits network exclusivity and restrictions on seller routing choice for the debit and prepaid market segments. Other jurisdictions impose similar limitations, such as the IFR’s prohibition in Europe on restrictions that prevent multiple payment brands or functionality on the same card.
+No-surcharge Rules:
+We have historically enforced rules that prohibit sellers from charging higher prices to consumers who pay using Visa products instead of other means. However, sellers’ ability to surcharge varies by geographic market as well as Visa product type, and continues to be impacted by litigation, regulation and legislation.
+Privacy, Data Use, AI and Cybersecurity:
+Aspects of our operations or business are subject to increasingly complex and fragmented data-related regulations, including with respect to privacy, data use, AI and cybersecurity, which impact the way we collect, use and handle data, operate our products and services and even impact our ability to offer a product or service. In addition, legislatures and regulators globally are proposing new laws or regulations on these topics that could require Visa to adopt more restrictive data collection and processing practices; expand cybersecurity requirements; limit cross-border data flows; impact the adoption of advanced AI systems; and impose increased obligations on companies handling personal data.
+Supervisory Oversight of the Payments Industry:
+Visa is subject to financial sector oversight and regulation in substantially all of the jurisdictions in which we operate. In the U.S., for example, the Federal Banking Agencies (FBA) have supervisory oversight over Visa under applicable federal banking laws and policies as a technology service provider to U.S. financial institutions. The federal banking agencies comprising the FBA are the Federal Reserve Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation and the National Credit Union Administration. Visa may also be separately examined by the Consumer Financial Protection Bureau (CFPB) as a service provider to the banks that issue Visa-branded consumer credit and debit card products. Central banks in other countries/regions, including Canada, Europe, India, Ukraine and the UK (as discussed below), have recognized or designated Visa as a retail payment system under various types of financial stability regulations. Visa is also subject to oversight by banking and financial sector authorities in other jurisdictions, such as Brazil and Hong Kong.
+European and United Kingdom Regulations and Supervisory Oversight:
+Visa in Europe continues to be subject to complex and evolving regulation in the European Economic Area (EEA) and the UK.
+19
+Table
+of Contents
+There are several EU regulations that impact our business. As discussed above, the IFR regulates interchange rates within the EEA, requires Visa Europe to separate its payment card scheme activities from processing activities for accounting, organization and decision-making purposes within the EEA, and imposes limitations on network exclusivity and routing. National competent authorities in the EEA are responsible for monitoring and enforcing the IFR in their markets. We are also subject to regulations governing areas such as privacy and data protection, anti-bribery, anti-money laundering, anti-terrorism and sanctions. Other regulations in Europe, such as the second Payment Services Directive (PSD2), require, among other things, that our financial institution clients provide certain customer account access rights to emerging non-financial institution players. PSD2 also includes strong customer authentication requirements for certain transactions that could impose both operational complexity on Visa and impact consumer payment experiences. Visa Europe is also subject to supervisory oversight by the European Central Bank and certain competent authorities in Europe.
+In the UK, Visa Europe is designated as a Recognized Payment System, bringing it within the scope of the Bank of England’s supervisory powers and subjecting it to various requirements, including on issues such as governance and risk management designed to maintain the stability of the UK’s financial system. Visa Europe is also regulated by the UK’s Payment Systems Regulator (PSR), which has wide-ranging powers and authority to review our business practices, systems, rules and fees with respect to promoting competition and innovation in the UK, and ensuring payment systems take care of, and promote, the interests of service users. The PSR established a supervisory team to specifically oversee payment system operators like Visa in the aforementioned areas. Post-Brexit, the UK has adopted various European regulations, including regulations that impact the payments ecosystem, such as the IFR and PSD2. The PSR is responsible for monitoring Visa Europe’s compliance with the IFR as adopted in the UK.
+Corporate Responsibility and Sustainability:
+Certain governments around the world are adopting laws and regulations pertaining to corporate responsibility and sustainability performance, transparency and reporting. Regulations may include mandated corporate reporting (e.g., Corporate Sustainability Reporting Directive) or in individual areas, such as mandated reporting on climate-related financial disclosures.
+Additional Regulatory Developments:
+Various regulatory agencies across the world also continue to examine a wide variety of other issues, including mobile payment transactions, tokenization, access rights for non-financial institutions, money transfer services, identity theft, account management guidelines, disclosure rules, security and marketing that could affect our financial institution clients and our business. Furthermore, following the passage of PSD2 in Europe, several countries, including Australia, Brazil, Canada, Hong Kong and Mexico, are contemplating granting or have already granted various types of access rights to third-party processors, including access to consumer account data maintained by our financial institution clients. In October 2024, the CFPB in the U.S. issued a final rule on personal financial data rights that would provide consumers (and third parties authorized by consumers) with access to consumers’ financial data. While the regulatory status of the CFPB’s rule is uncertain, all these changes have the
+
+potential to change the competitive landscape, which would present new challenges and opportunities to our business.
+AVAILABLE INFORMATION
+Our corporate website is
+corporate.visa.com
+. Our annual reports on Form 10-K, our quarterly reports on Form 10-Q, our current reports on Form 8-K, proxy statements and any amendments to those reports filed or furnished pursuant to the U.S. Securities Exchange Act of 1934 can be viewed at
+sec.gov
+and our investor relations website at
+investor.visa.com
+as soon as reasonably practicable after these materials are electronically filed with or furnished to the U.S. Securities and Exchange Commission (SEC). In addition, we routinely post financial and other information, which could be deemed to be material to investors, on our investor relations website. Information regarding our corporate responsibility and sustainability initiatives is also available on our website at
+corporate.visa.com/en/about-visa/crs/resources.html.
+ The content of any of our websites referred to in this report is not incorporated by reference into this report or any other filings with the SEC.
+20
+Table
+of Contents
+ITEM 1A.    Risk Factors
+Regulatory Risks
+We are subject to complex and evolving global regulations that could harm our business and financial results.
+As a global payments technology company, we are subject to complex and evolving regulations that govern our operations. Such regulations may increase in quantity, complexity and scope in response to heightened geopolitical tensions. See
+Item 1
+—
+Government Regulation
+ for more information on the most significant areas of regulation that affect our business. The impact of these regulations on us, our clients, and other third parties could limit our ability to enforce our payments system rules; require us to adopt new rules or change existing rules; affect our existing contractual arrangements; and increase our compliance costs. As discussed in more detail below, we may face differing rules and regulations in matters like interchange reimbursement rates, preferred routing, domestic processing and localization requirements, currency conversion, point-of-sale transaction rules and practices, privacy, data use and protection, licensing requirements and associated product technology. As a result, the Visa operating rules and our other contractual commitments may differ from country to country, state to state, or product to product. Complying with these and other regulations increases our costs and operational complexity, and reduces our revenue opportunities.
+If widely varying regulations come into existence worldwide, we may have difficulty rapidly adjusting our products, services, fees and other important aspects of our business to comply with the regulations. Our compliance programs and policies are designed to support our compliance with a wide array of regulations and laws, such as regulations regarding anti-money laundering, anti-corruption, competition, money transfer services, privacy and sanctions, and we continually adjust our compliance programs as regulations evolve. However, we cannot guarantee that our practices will be deemed compliant by all applicable regulatory authorities. In the event our controls should fail or we are found to be out of compliance for other reasons, we could be subject to monetary damages, civil and criminal penalties, litigation, investigations and proceedings, and damage to our global brands and reputation.
+Increased scrutiny and regulation of the global payments industry, including with respect to interchange reimbursement fees, merchant discount rates, operating rules, risk management protocols and other related practices, could harm our business.
+Regulators around the world have been establishing or increasing their authority to regulate various aspects of the payments industry. See
+ Item 1—Government Regulation
+for more information
+.
+ In the U.S. and many other jurisdictions, we have historically set default IRFs. Even though we generally do not receive any revenue related to IRFs in a payment transaction (in the context of credit and debit transactions, those fees are paid by the acquirers to the issuers; the reverse is true for certain transactions like ATM transactions), IRFs are a factor on which we compete with other payments providers and are therefore an important determinant of the volume of transactions we process. Consequently, changes to these fees, whether voluntarily or by mandate, can substantially affect our overall payments volume and net revenue.
+Interchange reimbursement fees, certain operating rules and related practices continue to be subject to increased government regulation globally, and regulatory authorities and central banks in a number of jurisdictions have reviewed or are reviewing these fees, rules and practices. For example:
+•
+Regulations adopted by the U.S. Federal Reserve cap the maximum U.S. debit interchange reimbursement rate received by large financial institutions at 21 cents plus 5 basis points per transaction, plus a possible fraud adjustment of 1 cent. Additionally, the Dodd-Frank Act limits issuers’ and payment networks’ ability to adopt network exclusivity and preferred routing in the debit and prepaid area, which also impacts our business. In response to seller requests, the Federal Reserve has recently taken actions to revisit its regulations that implement these aspects of the Dodd-Frank Act. For example, in October 2022, the Federal Reserve published a final rule effectively requiring issuers to ensure that at least two unaffiliated networks are available for routing ecommerce debit transactions by July 1, 2023. In October 2023, the Federal Reserve issued a proposal for comment that further lowers debit interchange rates, with a mechanism for automatic adjustment every two years. Finally,
+in August 2025, the District Court for the District of North Dakota ruled that the Federal Reserve exceeded its authori
+ty in implementing Regulation II, which sets debit card interchange fees. The court found the Federal Reserve improperly included various costs beyond what the Durbin Amendment allows, such as fraud losses, network fees and other fixed costs, when setting the debit interchange fee standard. As a result, the court vacated Regulation II’s debit interchange fee
+21
+Table
+of Contents
+standard. Subsequently, however, the District Court in Kentucky ruled that the Federal Reserve acted within its discretion in setting the debit interchange cap.
+ If the District Court of North Dakota’s decision is affirmed on appeal and ultimately prevails, it could potentially result in the Federal Reserve setting a significantly lower interchange cap for relevant debit transactions in the U.S.
+Separately, there continues to be interest in regulation of credit interchange fees and routing practices by members of Congress and state legislators. It is possible that the Credit Card Competition Act may be reintroduced in Congress or attempted to be offered as an amendment to unrelated legislation. Previous versions of the legislation were introduced in 2022 and 2023, and required among other things, that large issuing banks offer a choice of at least two unaffiliated networks over which electronic credit transactions may be processed. Finally, some states have passed or are considering passing laws that regulate how interchange can be set and assessed. For example, in May 2024, Illinois passed a law that restricts the assessment of interchange on the state tax and gratuity portions of a transaction, and restricts financial institutions and payment networks, among others, from using payment transaction data for any purpose other than facilitating or processing a transaction. While the Illinois law remains subject to legal challenge, if such laws are allowed to go into effect, they may also impose significant technical and compliance burdens on our business.
+•
+In Europe, the EU’s IFR places an effective cap on consumer credit and consumer debit interchange fees for both domestic and cross-border transactions within the European Economic Area of 30 basis points and 20 basis points, respectively. EU member states have the ability to further reduce these interchange levels within their territories. The European Commission has announced its intention to conduct another impact assessment of the IFR, which could result in even lower caps on interchange rates and the expansion of regulation to other types of products, services and fees.
+•
+Several countries in Latin America continue to explore regulatory measures against payments networks and have either adopted or are exploring interchange caps, including Argentina, Brazil, Chile and Costa Rica. In Asia Pacific, the Reserve Bank of Australia (RBA) which already regulates interchange, recently proposed reducing existing interchange caps on domestic credit and debit transactions and not allowing differential interchange treatment for consumer and commercial transactions. Similarly, in New Zealand, the Commerce Commission recently lowered existing caps on domestic credit transactions. Interchange is also regulated in certain countries in the Central and Eastern Europe, Middle East and Africa region, including the United Arab Emirates. Finally, many governments, including but not limited to governments in India, Costa Rica, and Turkey, are using regulation to further drive down MDR, which could negatively affect the economics of our transactions.
+•
+While the focus of interchange and MDR regulation has primarily been on domestic rates, interest on cross-border rates has been growing. For example, we agreed to limit certain cross-border interchange rates in a settlement with the European Commission in 2019, which was extended through 2029. In 2020,
+
+Costa Rica became the first country to formally regulate cross-border interchange rates by regulation. In June 2022, the UK’s PSR initiated a market review
+
+focusing on post-Brexit increases in interchange rates for e-commerce transactions between the UK and Europe and is proposing to cap cross-border interchange on certain transactions in that geographic corridor. Most recently, in July 2025, New Zealand adopted interchange caps on cross-border transactions including commercial credit transactions. Australia has also proposed adopting caps for cross-border transactions. Cross-border MDR is also regulated in Costa Rica and Turkey.
+•
+With increased lobbying by sellers and other industry participants, we are also beginning to see regulatory interest in network fees. For example, the UK’s PSR is conducting a market review into scheme and processing fees. In its interim report, the PSR indicated that it is reviewing possible remedies in the areas of governance, reporting and transparency, any of which, if adopted, could impose additional complexity and burdens on our business in the UK. Other regulators, for example, those in Australia, the EU, Chile and New Zealand have expressed an interest in network fees, including issues related to transparency. Finally, in 2024, the Greek Parliament limited acquirer fees for certain small ticket transactions in some seller categories for a period of three years.
+•
+In addition, industry participants in some countries, including Argentina, Chile, Colombia, the Dominican Republic, Paraguay, Peru, South Africa and Turkey have sought intervention from competition regulators or filed claims relating to certain network rules, including Visa’s restrictions on cross-border acquiring. The Central Banks of Chile and the Dominican Republic recently enacted regulation that will permit cross-border acquiring for ecommerce transactions under certain conditions. Other countries, like Brazil, have adopted regulations that require us to seek government pre-approval for certain of our network rules, which could also impact the way we operate in those markets.
+22
+Table
+of Contents
+•
+Government regulations or pressure may also impact our rules and practices and require us to allow other payments networks to support Visa products or services, to have the other networks’ functionality or brand marks on our products, or to share our intellectual property with other networks. In addition, the EU’s requirement to separate scheme and processing adds costs and impacts the execution of our commercial, innovation and product strategies.
+•
+We are also subject to central bank oversight in a growing number of countries, including Brazil, India, the UK and within the EU. In several jurisdictions, we have been designated as a “systemically important payment system.” Some countries with existing oversight frameworks are looking to further enhance their regulatory powers, while regulators in other jurisdictions are considering or adopting approaches based on these regulatory principles. For example, in October 2023, VisaNet was designated as a prominent payment system in Canada. These types of designations generally result in oversight of authorization, clearing and settlement activities, including policies, procedures and requirements related to governance, client and seller access to our payment systems, reporting, cybersecurity, processing infrastructure, capital and/or credit risk management. We could also be required to adopt policies and practices designed to mitigate settlement and liquidity risks, including increased requirements to maintain sufficient levels of capital and financial resources locally, as well as localized risk management or governance.
+•
+As innovations in payment technology have enabled us to expand into new products and services, they have also expanded the potential scope of regulatory influence. For instance, new products and capabilities, including tokenization, push payments and cross-border money movement solutions could bring increased licensing or authorization requirements in the countries where the product or capability is offered. Furthermore, certain portions of our business are regulated as payment institutions or as money transmitters, subjecting us to various licensing, supervisory and other requirements. As we continue to expand our capabilities and offerings in furtherance of our multi-year growth strategy, we will need to obtain new types of licenses. These licenses could result in increased supervisory and compliance obligations that are distinct from the obligations we are subject to in our capacity as a payment card network.
+Regulators around the world increasingly take note of each other’s approaches to regulating the payments industry. Consequently, development in one jurisdiction may influence regulatory approaches in another. The risks created by a new law, regulation or regulatory outcome in one jurisdiction have the potential to be replicated and to negatively affect our business in another jurisdiction or in other product offerings. For example, our settlement with the European Commission on cross-border interchange rates has drawn attention from some regulators in other parts of the world. Similarly, new regulations involving one product offering may prompt regulators to extend the regulations to other product offerings. For example, credit payments could become subject to similar regulation as debit payments (or vice versa). The RBA initially capped credit interchange, but subsequently capped debit interchange as well.
+When we cannot set default interchange reimbursement rates at optimal levels, issuers and acquirers may find our payments system less attractive. This may increase the attractiveness of other payments systems, such as our competitors’ closed-loop payments systems with direct connections to both sellers and consumers. We believe some issuers may react to such regulations by charging new or higher fees, or reducing certain benefits to consumers, which makes our products less appealing to consumers. Some acquirers may elect to charge higher MDR regardless of the Visa interchange reimbursement rate, causing sellers not to accept our products or to steer consumers to alternative payments systems or forms of payment. In addition, in an effort to reduce the expense of their payment programs, some issuers and acquirers have obtained, and may continue to obtain, incentives from us, including reductions in the fees that we charge, which directly impacts our net revenue. The evolving and increasing regulatory focus on the payments industry could negatively impact or reduce the number of Visa products our clients issue, the volume of payments we process, our net revenue, our brands, our competitive positioning, our ability to use our intellectual property to differentiate our products and services, the quality and types of products and services we offer, the countries in which our products and services are used, and the types of consumers and sellers who can obtain or accept our products and services, all of which could harm our business and financial results.
+Finally, policymakers and regulatory bodies in the U.S., Europe and other parts of the world are exploring ways to reform existing competition laws to meet the needs of the digital economy, including restricting large technology companies from engaging in mergers and acquisitions, requiring them to interoperate with potential competitors, and prohibiting certain kinds of self-preferencing behaviors. While the focus of these efforts remains primarily on increasing regulation of large technology, ecommerce and social media companies, they could also have implications for other types of companies including payments networks, which could constrain our ability to
+23
+Table
+of Contents
+effectively manage our business. Recent political developments around the world, including recent shifts in trade policy, have added additional uncertainty with respect to new laws and regulations or changes in the interpretations or enforcement of existing laws and regulations, and increased risk of financial regulatory fragmentation.
+Government-imposed obligations and/or restrictions on international payments systems may prevent us from competing against providers in certain countries, including significant markets such as China and India.
+Governments in a number of jurisdictions shield domestic payments providers, including card networks, brands, and processors, from international competition by imposing market access barriers and preferential domestic regulations. To varying degrees, these policies and regulations affect the terms of competition in the marketplace and impair the ability of international payments networks to compete. Public authorities may also impose regulatory requirements that favor domestic providers or mandate that domestic payments or data processing be performed entirely within that country, which could prevent us from managing the end-to-end processing of certain transactions.
+In China, UnionPay remains the predominant processor of domestic payment card transactions and operates the predominant domestic acceptance market. Although we filed an application with the People’s Bank of China (PBOC) in May 2020 to operate a Bank Card Clearing Institution (BCCI) in China, the timing and the procedural steps for approval remain uncertain. There is no guarantee that the license to operate a BCCI will be approved or, if we obtain such license, that we will be able to successfully compete with domestic payments networks. Co-badging and co-residency regulations also pose additional challenges in markets where Visa competes with national networks for issuance and routing. Certain banks have issued dual-branded cards for which domestic transactions in China are processed by UnionPay and transactions outside of China are processed by Visa, UnionPay or other international payments networks. Although the PBOC has permitted Visa and UnionPay’s cooperation on upgrading magstripe dual-branded cards to chip cards, these modernization efforts are limited to existing cards and not new issuances. Looking forward, the PBOC is considering phasing out dual-branded cards over time as new licenses are issued to international companies to participate in China’s domestic payments market. In response, we have been working with Chinese issuers to issue Visa-only branded cards for international travel, and later for domestic transactions should we obtain a BCCI license. However, notwithstanding such efforts, these restrictions on dual-branded cards have decreased our payments volume and impacted the net revenue we generate in China.
+UnionPay has grown rapidly in China and is actively pursuing international expansion plans, which could potentially lead to regulatory pressures on our international routing rule (which requires that international transactions on Visa cards be routed over VisaNet). Furthermore, although regulatory barriers shield UnionPay from competition in China, alternative payments providers such as Alipay and WeChat Pay have rapidly expanded into ecommerce, offline and cross-border payments, which could make it difficult for us to compete even if our license is approved in China. NetsUnion Clearing Corp, a Chinese digital transaction routing system, and other such systems could have a competitive advantage in comparison with international payments networks
+.
+Ongoing regulatory initiatives in India, including data localization requirements which continue to evolve, have cost implications for us and could affect our ability to effectively compete with domestic payments providers. Furthermore, any inability to meet the requirements of the data localization mandate could impact our ability to do business in India. In Europe, the European Central Bank has announced initiatives to reduce reliance on international payment networks. For example, with the support of the European Central Bank, the European Payments Initiative (EPI), led by a group of European banks, launched a pan-European A2A payment system, Wero. More recently, the European Central Bank has embarked on a multi-year effort to explore a digital euro, an alternative to foreign digital currency and payment service providers. In addition, regional groups of countries, such as the Gulf Cooperation Council (GCC) and a number of countries in Southeast Asia (e.g., Malaysia), have adopted or may consider, efforts to restrict our participation in the processing of regional transactions. The African Development Bank has also indicated an interest in supporting national payment systems in its efforts to expand financial inclusion and strengthen regional financial stability. Finally, some countries such as Nigeria and South Africa are mandating on-shore processing of domestic transactions. Geopolitical events, including sanctions and trade tensions have intensified these activities, which could adversely affect our business. For example, some countries have expressed concerns about their reliance on U.S. financial services companies, including payments networks, and have taken steps to bolster the development of domestic solutions, in light of U.S., European and UK sanctions against Russia and the decision by U.S. payments networks, including Visa, to suspend operations in the country. Separately, Russia has called for the BRICS countries (led by Brazil, Russia, India, China and South Africa, and which has recently expanded to include countries such as Egypt, Ethiopia, Iran, Saudi Arabia and the United
+24
+Table
+of Contents
+Arab Emirates), to lessen dependence on the U.S. dollar and on Western payments systems by, among other things, integrating payments systems and cards across member countries.
+Central banks in a number of countries, including those in Argentina, Australia, Brazil, Canada, Europe, India, Indonesia and Mexico, are in the process of developing or expanding national RTP networks and instant payment solutions with the goal of driving a greater number of domestic transactions onto these systems.
+
+In July 2023, the U.S. Federal Reserve launched its FedNow Service with core clearing and settlement functionality, and expects to add more features and enhancements over time. Some countries are also exploring cross-border connectivity of their respective RTP systems. Finally, an increasing number of jurisdictions are exploring the concept of building central bank digital currencies for retail payments, such as the European Central Bank’s digital euro initiative.
+
+If successfully deployed, these national payment platforms and digital currencies could have significant implications for Visa’s domestic and cross-border payments, including potential disintermediation.
+Due to our inability to manage the end-to-end processing of transactions for cards in certain countries (e.g., Thailand, Mexico), we depend on our close working relationships with our clients or third-party service providers to ensure transactions involving our products are processed effectively. Our ability to do so may be adversely affected by regulatory requirements and policies pertaining to transaction routing or on-shore processing. In general, national laws that protect or otherwise support domestic providers or processing may increase our costs; decrease our payments volume and impact the net revenue we generate in those countries; decrease the number of Visa products issued or processed; impede us from utilizing our global processing capabilities and controlling the quality of the services supporting our brands; restrict our activities; limit our growth and the ability to introduce new products, services and innovations; force us to leave countries or prevent us from entering new markets; and create new competitors, all of which could harm our business.
+Laws and regulations regarding the handling of personal data, including laws and regulations related to privacy, cybersecurity and AI, may impede our services or result in increased costs, legal claims or fines against us
+.
+Our business relies on the processing of data across national borders. Legislators and regulators around the world are increasingly adopting or revising privacy, data protection, data management, data transfer, AI and cybersecurity laws and regulations. For example, our ongoing efforts to comply with complex U.S. and international privacy and data protection laws may increase the complexity of our compliance operations, entail substantial expenses, divert resources from other initiatives and projects, require us to modify our data processing practices, policies or services, and adversely impact our business. In addition, privacy laws in numerous jurisdictions, including but not limited to the U.S., China, India, Australia, New Zealand, Brazil, Kingdom of Saudi Arabia, Hong Kong and Japan, have established specific legal requirements for cross-border transfers of personal information and substantial compliance and audit obligations. Certain countries have also established specific legal requirements for data localization, such as where personal data must remain stored in the country. The global proliferation of new privacy and data protection laws may lead to inconsistent and conflicting requirements or legal interpretations, which create an uncertain regulatory environment. Noncompliance could also result in regulatory penalties and significant legal liability. Enforcement actions and investigations by regulatory authorities into companies related to data security incidents and privacy violations are generally increasing. In Europe, data protection authorities continue to apply and enforce the General Data Protection Regulation (GDPR), imposing record setting fines.
+As we develop integrated and personalized products and services and acquire new companies to meet the needs of a changing marketplace, we may expand our data profile through additional data types and sources, across multiple channels, and involving new partners. This potential expansion could amplify the impact of these various laws and regulations on our business. As a result, we are required to constantly monitor our privacy, data and cybersecurity practices and potentially change them when necessary or appropriate. We also may need to provide increased care in our data management, governance and quality practices, particularly as it relates to the use of data in products leveraging AI.
+We are also subject to a variety of laws and regulations governing the development, use and deployment of AI technologies. These laws and regulations are increasingly complex, fragmented and still evolving, and there is no single global regulatory framework for AI. Our development, deployment and use of AI and machine learning is subject to various risks at each stage of use. In the context of AI development, risks include those related to intellectual property considerations, the collection and use of personal data, third party risks, technical limitations of algorithms and the accuracy of training data, and compliance with emerging AI legal standards. The increased risk of inadvertent disclosure of confidential information or personal data in connection with the utilization of AI technologies may result in stronger regulatory scrutiny, leading to legal and regulatory investigations and
+25
+Table
+of Contents
+enforcement actions that may negatively affect our business, even if unfounded. In the context of use and deployment, risks include technical, operational and compliance considerations, and our ability to monitor and safely deploy AI systems throughout the organization with appropriate safeguards and in compliance with the various regulatory schemes related to AI technology.
+In particular, the adoption of agentic commerce, in which autonomous AI agents initiate and execute transactions on behalf of users, presents novel and complex regulatory, privacy and cybersecurity risks. Legal frameworks governing such autonomous agents remain nascent, with limited direct guidance specific to payments. The interplay between payments regulations, data privacy laws and evolving AI regulations may create uncertainty around compliance obligations and potential liability exposure as more participants (including sellers, fintechs, AI developers and enablers) enter the agentic commerce ecosystem. The market is still assessing how regulators may apply existing consumer protection and other laws in the context of AI. For example, as agentic commerce solutions scale, we may see increased instances of erroneous or disputed payments, increased chargebacks and reputational harm. Furthermore, reliance on agentic AI introduces challenges in monitoring cross-border, prohibited or high-risk transactions, where conflicting regulatory requirements may apply. The fragmented regulatory landscape for emerging technologies such as AI and inconsistent requirements across legal frameworks may amplify difficulties in identifying, preventing or mitigating risk with a single global approach, potentially increasing our compliance costs or stratifying our ability to leverage certain data or technologies for innovation. For instance, the EU has adopted a comprehensive AI Act that establishes harmonized rules across Europe, with key provisions for high-risk AI systems taking effect in August 2026. Meanwhile, several U.S. states, including California, Colorado and Utah, have adopted AI-specific frameworks or are considering applying existing consumer and data protection laws to regulate AI. Depending on how these different regulations are interpreted and enforced, they may limit the ability to develop and deploy AI systems or significantly increase associated compliance costs. Our development and implementation of governance frameworks aimed at complying with emerging laws and regulations applicable to our AI and machine learning systems may not be successful in mitigating all of these emerging risks.
+We may be subject to tax examinations or disputes, or changes in tax laws.
+The application of tax laws requires significant judgment and can be subject to uncertainty and differing interpretations. We are currently under examination by, or in disputes with, the U.S. Internal Revenue Service as well as tax authorities in other jurisdictions, and we may be subject to additional examinations or disputes in the future. We exercise significant judgment and make estimates that we believe to be reasonable in calculating our worldwide provision for income taxes and other tax liabilities. However, relevant tax authorities may disagree with our estimates, interpretations or tax treatment of certain material items. Failure to sustain our position in these matters could adversely affect our cash flows and financial position. In addition, changes in existing laws in the U.S. or foreign jurisdictions, including unilateral actions of foreign jurisdictions to introduce digital services taxes, or changes resulting from the Organization for Economic Cooperation and Development’s proposals for the international tax system, including the introduction of a global minimum tax with widespread implementation by member countries, may also materially affect our effective tax rate and could increase our tax payments. Please see
+Item 7
+
+and
+ Note 19—Income Taxes
+ to our consolidated financial statements included in
+Item 8
+ of this report.
+Litigation Risks
+We may be adversely affected by the outcome of litigation or investigations.
+We are subject to numerous litigation matters, investigations, claims, examinations, information gathering requests, subpoenas, government and regulatory proceedings asserted by civil litigants, governments and enforcement bodies investigating or alleging, among other things, violations of competition and antitrust law, consumer protection law, privacy law and intellectual property law (these are referred to as “actions” in this section). Details of the most significant actions we face are described more fully in
+Note 20—Legal Matters
+ to our consolidated financial statements included in
+Item 8
+ of this report. These actions are inherently uncertain, expensive and disruptive to our operations. In the event we are found liable or reach a settlement in any action, particularly in a large class action lawsuit, such as one involving an antitrust claim entitling the plaintiff to treble damages in the U.S., or we incur liability arising from a government investigation, we may be required to pay significant awards or judgments, settlements, costs or fines. In addition, settlement terms, judgments, orders, pressures or events in or resulting from actions have impacted and may continue to impact our business by creating uncertainty for our business or by influencing or requiring us to modify, among other things, the default interchange reimbursement rates we set, the Visa operating rules or the way in which we enforce those rules, our fees or pricing, or the way we do business. These actions or their outcomes may also influence regulators, investigators, governments or civil litigants in the same or other jurisdictions, which may lead to additional actions against Visa. Finally, we are required
+26
+Table
+of Contents
+by some of our commercial agreements to indemnify other entities for litigation brought against them, even if Visa is not a defendant. For certain actions like those that are U.S. covered litigation or VE territory covered litigation, as described in
+Note 5—U.S. and Europe Retrospective Responsibility Plans
+ and
+Note 20—Legal Matters
+ to our consolidated financial statements included in
+Item 8
+ of this report, we have certain financial protections pursuant to the respective retrospective responsibility plans. The two retrospective responsibility plans are different in the protections they provide and the mechanisms by which we are protected. The failure of one or both of the retrospective responsibility plans to adequately insulate us from the impact of such settlements, judgments, losses or liabilities could materially harm our financial condition or cash flows, or even cause us to become insolvent.
+Business Risks
+We face intense competition in our industry.
+The global payments space is intensely competitive. As technology evolves and consumer expectations change, new competitors or methods of payment emerge, and existing clients and competitors assume different roles. Our products compete with cash, checks, electronic payments, virtual currency payments, global or multi-regional networks, other domestic and closed-loop payments systems, digital wallets and alternative payments providers primarily focused on enabling payments through ecommerce and mobile channels. As the global payments space becomes more complex, we face increasing competition from our clients, other emerging payment providers such as fintechs, other digital payments, technology companies that have developed payments systems enabled through online activity in ecommerce, social media, and mobile channels, other providers of CMS and VAS offerings, as well as governments in a number of jurisdictions (e.g., U.S., Brazil and India), that are developing, supporting and/or operating national schemes, RTP networks and other payment platforms. For more information, please see
+Item 1—Competition
+ above.
+Our competitors may acquire, develop or make better use of substantially better technology, have more widely adopted delivery channels, or have greater financial resources. They may offer more effective, innovative or a wider range of programs, products and services. They may use more effective advertising and marketing strategies that result in broader brand recognition and greater use, including with respect to issuance and seller acceptance. They may also develop better solutions or offer more favorable pricing. Moreover, even if we successfully adapt to technological change and the proliferation of alternative types of payment services by developing and offering our own services in these areas, such services may provide less favorable financial terms for us, which could hurt our financial results. We expect to face more competition as AI continues to advance and GenAI and agentic AI capabilities become integrated into payments and related services in two main ways: first, by competitors successfully enhancing their products, services and external offerings with AI to achieve greater and faster product adoption; and second, by competitors providing internal AI tools to upskill their employees for greater operational efficiencies and impact. In addition, our competitors may have, or in the future may obtain, proprietary rights that would prevent, limit or interfere with our ability to design, use or sell our own AI-based offerings or services to our clients and other third parties. If we do not continue to invest in developing and supporting our AI-based initiatives, we may fall behind technological developments and evolving industry standards, which would likewise harm our reputation and ability to effectively compete, retain clients or grow our business.
+Certain of our competitors operate with different business models, have different cost structures or participate in different market segments. Many of these competitors are also able to use existing payment networks without being subject to many of the associated costs. Moreover, these competitors also occupy various roles in the payments ecosystem that enable them to influence payment choice of other participants. Some of our competitors, including American Express, Discover, private-label card networks, virtual currency providers, technology companies that enable the exchange of digital assets, and certain alternative payments systems like Alipay and WeChat Pay, operate closed-loop payments systems, with direct connections to both sellers and consumers. Those business models may ultimately prove more successful or more adaptable to regulatory, technological and other developments. In some cases, these competitors have the support of government mandates that prohibit, limit or otherwise hinder our ability to compete for transactions within certain countries and regions. For more information on government actions, initiatives or regulations that could impact competition, please see
+Item 1—Government Regulation
+ and
+ Item 1A—Regulatory Risks
+ above.
+We expect the competitive landscape to continue to shift and evolve. For example:
+•
+We, along with our competitors, clients, network participants, and others are developing or participating in alternative payments systems or products, such as mobile payment services, ecommerce payment services, P2P payment services, real-time and faster payment initiatives, and payment services that permit
+27
+Table
+of Contents
+ACH or direct debits from or to consumer checking accounts, that could either reduce our role or otherwise disintermediate us from the transaction processing or the value-added services we provide to support such processing. Examples include initiatives from The Clearing House, an association consisting of large financial institutions that has developed its own faster payments system; Early Warning Services, which operates Zelle, a bank-offered alternative network that provides another platform for faster funds or real-time payments across a variety of payment types, including P2P, corporate and government disbursement, bill pay and deposit check transactions; and cryptocurrency, including stablecoin-based payments initiatives.
+•
+In July 2025, the U.S. enacted the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act), establishing a comprehensive framework for regulating stablecoins. Similarly, the European Union has adopted its own legal framework for crypto assets. Many other countries, including the U.K., Japan, United Arab Emirates, Hong Kong and Singapore, are at varying stages of adopting stablecoin and digital assets-related regulatory frameworks. With more regulatory certainty and permissive or favorable regulations, stablecoins could potentially disrupt existing payment networks, including in cross-border and B2B transactions. In countries facing currency instability and controls, stablecoins could increasingly be used as an alternative to preserve and transfer asset value. In more mature markets, stablecoins could achieve broad adoption through regulated issuance by traditional banks, fintechs and other new entrants, as well as by being integrated in closed loop systems operated by large digital ecosystems and platforms.
+•
+Parties that access our payment credentials, tokens and technologies, including clients, technology solution providers or others might be able to migrate or steer account holders and other clients to alternative payment methods or use our payment credentials, tokens and technologies to establish or help bolster alternate payment methods and platforms.
+•
+Participants in the payments industry may merge, form joint ventures or enable or enter into other business combinations or bilateral agreements that strengthen their existing business propositions or create new, competing payment services. For example, parties may agree not to use our payments network for processing transactions resulting in sellers processing transactions directly with issuers, or processors processing transactions directly with issuers and acquirers.
+•
+New or revised industry standards for or related to payments set by individual countries, regions or standard setting organizations may result in additional costs and expenses for Visa and its clients, or otherwise negatively impact the functionality and competitiveness of our products and services.
+As the competitive landscape is quickly evolving, we may not be able to foresee or respond sufficiently to emerging risks associated with new businesses, products, services and practices. We may be asked to adjust our local rules and practices, develop or customize certain aspects of our payment services, adjust the economics or pricing for our offerings, or agree to business arrangements that may be less protective of Visa’s proprietary technology and interests in order to compete and we may face increasing operational costs and risk of litigation concerning intellectual property. Our failure to compete effectively in light of any such developments could harm our business and prospects for future growth.
+Our net revenue and profits are dependent on our client and seller base, which may be costly to win, retain and develop.
+Our financial institution clients and sellers can reassess their commitments to us at any time or develop their own competitive services. While we have certain contractual protections, our clients, including some of our largest clients, generally have flexibility to issue non-Visa products. In certain circumstances, our financial institution clients may decide to terminate our contractual relationship on relatively short notice without paying significant early termination fees. Because a significant portion of our net revenue is concentrated among our largest clients, the loss of business from any one of these larger clients could harm our business, results of operations and financial condition. For more information, please see
+Note 14—Segment Information
+
+to our consolidated financial statements included in
+Item 8
+ of this report. It may also be difficult or costly for us to acquire or conduct business with financial institutions or sellers that have longstanding exclusive, or nearly exclusive, relationships with our competitors. These financial institutions or sellers may be more successful and may grow more quickly than our existing clients or sellers. If there is a consolidation or acquisition of one or more of our largest clients or co-brand partners by a financial institution client or seller with a strong relationship with one of our competitors, it could result in our business shifting to a competitor, which could put us at a competitive disadvantage and harm our business.
+28
+Table
+of Contents
+In addition, we face intense competitive pressure on the prices we charge our financial institution clients. In certain regions, we are increasingly facing competition from RTP networks, other payment facilitators offering lower pricing, and government involvement in domestic and cross-border payments. In order to stay competitive, we may need to adjust our pricing or offer incentives to our clients to grow payments volume, enter new market segments, adapt to regulatory changes, and expand their use and acceptance of Visa products and services. These include up-front cash payments, fee discounts, rebates, credits, performance-based incentives, marketing and other support payments that impact our net revenue and profitability. In addition, we offer incentives to certain sellers and acquirers to encourage them to route transactions to Visa. Pressures on pricing, incentives, fee discounts and rebates could moderate our growth. If we are not able to implement cost containment and productivity initiatives in other areas of our business or grow our volume in other ways to offset or absorb the financial impact of these incentives, fee discounts and rebates, it may harm our net revenue and profits.
+Sellers’ and processors’ continued push to lower acceptance costs and challenge industry practices could harm our business.
+We rely in part on sellers and their relationships with our clients or their agents
+
+to maintain and expand the use and acceptance of Visa products. Certain sellers and seller-affiliated groups have been exerting their influence in the global payments system in certain jurisdictions, such as the U.S., Australia, Canada and Europe, to attempt to lower acceptance costs paid by sellers to acquirers or their agents to accept payment products or services, by lobbying for new legislation, seeking regulatory intervention, filing lawsuits and in some cases, surcharging or refusing to accept Visa products. If they are successful in their efforts, we may face increased compliance and litigation expenses, issuers may decrease their issuance of our products, and consumer usage of our products could be adversely impacted. For example, in the U.S., certain stakeholders have raised concerns regarding how payment security standards and rules may impact debit routing choice and the cost of payment card acceptance. U.S. seller-affiliated groups and processors have expressed concerns regarding the EMV certification process and the roles of industry bodies such as EMVCo and the Payment Card Industry Security Standards Council in the development of payment card standards. Moreover, many sellers have advocated for lower acceptance costs in the form of reduced interchange rates, which could result in some issuers eliminating or reducing their promotion or use of Visa’s products and services, eliminating or reducing cardholder benefits such as rewards programs, or charging account holders increased or new fees for using Visa-branded products, all of which could negatively impact Visa’s payments volume and related revenue. Finally, some sellers and processors have advocated for changes to industry practices and Visa acceptance requirements at the point of sale, including the ability for sellers to accept only certain types of Visa products, to mandate only PIN authenticated transactions, to differentiate or steer among Visa product types issued by different financial institutions, and to impose surcharges on consumers presenting Visa products as their form of payment. A number of the issues flagged in this risk factor are subject to pending litigation. For more information, please see
+Note 20—Legal Matters
+ to our consolidated financial statements included in
+Item 8
+ of this report. If successful, these efforts could adversely impact consumers’ usage of our products and decrease our overall payments volume and net revenue, lead to regulatory enforcement and/or litigation that increases our compliance and litigation expenses, and ultimately harm our business.
+We depend on relationships with financial institutions, acquirers, processors, sellers, payment facilitators, ecommerce platforms, fintechs and other third parties.
+Our relationships with industry participants are complex and require us to balance the interests of multiple third parties. For instance, we depend significantly on relationships with our financial institution clients and on their relationships with account holders and sellers to provide our products and services, and thereby compete effectively in the marketplace. We offer incentives to sellers, acquirers, ecommerce platforms and processors to encourage routing preference and acceptance growth. We also engage in many payment card co-branding efforts with sellers, who receive incentives from us. As emerging participants such as fintechs enter the payments industry, we engage in discussions to address the role they may play in the ecosystem, whether as, for example, an issuer, seller, ecommerce platform or digital wallet provider. As these and other relationships become more prevalent and take on a greater importance to our business, our success will increasingly depend on our ability to sustain and grow these relationships. In addition, we depend on our clients and third parties, including network partners, vendors and suppliers, to submit, facilitate and process transactions properly, provide various services associated with our payments network on our behalf, and otherwise adhere to our operating rules and applicable laws. As our clients expand their global footprint, their legal and regulatory obligations can become even more complex. From time to time, our relationships may be affected by actions of our clients and industry participants that may materially and adversely impact our business, products or services, and to the extent we or such parties fail to perform or deliver
+29
+Table
+of Contents
+adequate services or comply with regulatory obligations, it may result in negative experiences for account holders or others when using their Visa-branded payment products, which could harm our business and reputation.
+Our business could be harmed if we are not able to maintain and enhance our brand, if events occur that have the potential to damage our brand or reputation, or if we experience brand disintermediation.
+Our brand is globally recognized and is a key asset of our business. We believe that our clients and their account holders associate our brand with acceptance, security, convenience, speed and reliability. Our success depends in large part on our ability to maintain the value of our brand and reputation of our products and services in the payments ecosystem, elevate the brand through new and existing products, services and partnerships, and uphold our corporate reputation. The popularity of products that we have developed in partnership with technology companies and financial institutions as well as government actions that mandate other networks to process Visa-branded card transactions may have the potential to cause brand disintermediation at the point of sale, in ecommerce and mobile channels, and decrease the presence of our brand. Our brand reputation may also be negatively impacted by a number of factors, including authorization, clearing and settlement service disruptions; data security breaches; compliance failures by Visa, including by our employees, agents, clients, partners or suppliers; failure to meet expectations of our clients, consumers or other stakeholders; negative perception of our industry, the industries of our clients, Visa-accepting sellers, or our clients’ customers and agents, including third-party payments providers; ill-perceived actions or affiliations by clients, partners or other third parties, such as sponsorship or co-brand partners; and fraudulent, or illegal activities using our payment products or services, and which we may not always be in a position to detect and/or prevent from occurring over our network. Our brand could also be negatively impacted when our products are used to facilitate payment for legal, but controversial, products and services, including adult content, firearms and gambling activities. Additionally, these risks could be exacerbated if our financial institution partners and/or sellers fail to maintain necessary controls to ensure the legality of these transactions, if any legal liability associated with such goods or services is extended to ancillary participants in the value chain like payments networks, or if our network and industry become entangled in political or social debates concerning such legal, but controversial, commerce. If we are unable to maintain our reputation, the value of our brand may be impaired, which could harm our relationships with clients, account holders, employees, prospective employees, governments and the public, as well as impact our business.
+Global economic, political, market, health and social events or conditions may harm our business.
+More than half of our net revenue is earned outside the U.S. In addition, international cross-border transaction revenue represents a significant part of our net revenue and is an important part of our growth strategy. Our net revenue is dependent on the volume and number of payment transactions made by consumers, governments, and businesses whose spending patterns may be affected by economic, political, market, health and social events or conditions. Adverse macroeconomic conditions within the U.S. or internationally, including but not limited to recessions, inflation, rising interest rates, increase in tariff rates, high unemployment, currency fluctuations, actual or anticipated large-scale defaults or failures, rising energy prices, a slowdown or disruption of global trade, trade retaliation, government shutdowns, and reduced consumer, small business, government, and corporate spending, have a direct impact on international commerce. Our business depends on the smooth functioning of international financial systems and the free flow of commerce across borders. Any restrictions on the activities of multinational businesses, disruptions to global trade, or deterioration in internat
